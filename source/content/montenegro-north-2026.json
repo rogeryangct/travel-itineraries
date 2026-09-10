@@ -5,7 +5,7 @@
       "title": "先讀：這次真正改了什麼",
       "paragraphs": [
         "2026/9/10 查核；時間均為當地 CEST。9/11 從 Apartment Nina and Nino 出發，9/11–9/13 住 ViS，9/14 前往 Peja。住宿地圖以名稱搜尋，請以自己的訂房定位選定正確入口；這份公開行程不包含房號或入住密碼。",
-        "9/11 採 06:45 出發，經 Foča、Hum／Šćepan Polje、Plužine、Piva Monastery、Jasenovo Polje、Šavnik。Zaborje–Jasenovo Polje 已有 7/18 完工報導，不再拿舊的 11:00–17:00 封路要求 05:45 趕路。完工不代表日後沒有臨時管制。",
+        "9/11 改採 06:30 出發，前半段用 Sarajevo → Sumbulovac → Podromanija → Rogatica → Ustiprača → Goražde → Foča → Brod na Drini → Hum／Šćepan Polje → Plužine → Jasenovo Polje → Šavnik → ViS。這是為避開 Trnovo 火場周邊與 Dobro Polje–Miljevina 限制路段的保守選擇，不代表官方認證全程最安全。Zaborje 舊的 11:00–17:00 封路不再作為凌晨趕路理由。",
         "9/12 改以黑湖、森林短走與賽事氣氛為主；9/13 暫留給 Durmitor Ring，但週日也有雨，環線只是條件式安排。兩天都不適合時，就取消完整高山環線，不為打卡硬開。",
         "Tara Bridge 官方公告 8/10 06:00 至 10/26 12:00 全面封閉。9/14 刪除過橋與預設 Zipline。沿南岸 R10 去 Mojkovac 未必需要過橋，但 Sokolovina 路段目前未取得可靠的 9/10 通行確認，9/13 晚上必須查明。",
         "Blacklake Xtreme Triathlon 官方列在 9/12，9/13 10:00 有完賽儀式。2026 賽事手冊仍寫自行車跨 Tara Bridge，與封橋公告矛盾：賽事日期有官方依據，最終路線、是否改賽及觀眾可進區域仍須以主辦現場公告確認。不能拿賽事路線當作道路開放證明。"
@@ -26,6 +26,34 @@
         {
           "title": "AMSCG 路況",
           "url": "https://amscg.org/"
+        }
+      ]
+    },
+    {
+      "id": "fire-road-update",
+      "title": "9/10 追加查核：火災、煙霾與道路差異",
+      "paragraphs": [
+        "與前版的差別：出發改 06:30，新增 Rogatica／Goražde 繞行與煙霾決策。原有「不走 Sedlo 捷徑」「不跨 Tara Bridge」「週六黑湖、週日環線須天氣合格」保持一致。",
+        "BIHAMK 一般路況頁標示 9/10 12:43、主幹道頁標示 13:57：Dobro Polje–Miljevina 仍只准 3.5 噸以下；Brod na Drini–Hum 因多處落石與滑坡風險，小客車通行困難、貨車不能通過。不能把這段描述成只有超長車才受限。Romanija／Podromanija–Sumbulovac 也有施工交替放行。",
+        "Presjenica／Trnovo 的近期火災有新聞依據，但未取得火場即時周界、逐段煙霧或官方要求所有小客車繞 Goražde 的命令。因此繞行是降低靠近火場與原路限制的不確定性，不是已證實原主路全面封閉。經 Rogatica 到 Foča 改抓約 3–3.5 小時含慢行緩衝，不沿用 08:30 必到的樂觀時間。",
+        "EPA 9/9 公告：11:00 Pljevlja PM10 為 399.3 µg/m³、Nikšić 為 225 µg/m³，並認為野火煙霧是主要原因之一。這些是有時間戳的歷史觀測，不是明天預報。你貼出的 142／115 未能確認同一測站與時刻，不抄為現在讀值，也不把濃度與 AQI 混用。",
+        "本次未取得足以逐一驗證所貼各火場控制狀態的 MUP 最新原文，也沒有完成衛星火點與道路的即時疊圖；不能因此宣稱 Piva／Šavnik 無煙、火場全受控或一定比任何替代線安全。Nikšić 也有嚴重空污，9/14 若採南側大繞路同樣要注意。",
+        "只有薄霾、道路視距正常且無警戒時：縮短景觀停靠，近距離岩壁或水面仍可能有細節，但不能保證水色與遠景。若煙濃到看不清道路、附近有火焰、消防作業或封路：不要按「路線不變」硬穿，停在火煙區外有服務的安全城鎮，遵從警方安排，必要時延後移動。",
+        "不要單靠沒有煙味判斷空氣安全。煙霾明顯時減少戶外停留、關窗並按情況用車內循環；不在林地、草坡或落石區找拍照捷徑。9/12 湖泊與9/13環線的出發門檻也加入煙霧能見度、官方火災警戒與戶外空污情況。",
+        "Tara Bridge 封閉不直接證明南岸 R10 也封閉或已開通。AMSCG 本次入口仍無法讀取，Sokolovina 的 9/14 通行保持待確認；所貼 Pljevlja 大繞路最後同樣依賴這段，不能當作已確認可通的萬用替代。"
+      ],
+      "links": [
+        {
+          "title": "BIHAMK 主幹道 9/10",
+          "url": "https://bihamk.ba/spi/stanje-na-cesti-u-bih/magistralne-ceste"
+        },
+        {
+          "title": "EPA 9/9 空污公告",
+          "url": "https://epa.org.me/2026/09/09/saopstenje-povodom-aktuelne-situacije-sa-kvalitetom-vazduha-u-crnoj-gori/"
+        },
+        {
+          "title": "Presjenica 火災報導",
+          "url": "https://www.klix.ba/vijesti/bih/veliki-pozar-kod-trnova-prosirio-se-na-minsko-polje-vatrogasci-ga-opkolili-da-zastite-objekte/260907181"
         }
       ]
     },
@@ -80,7 +108,7 @@
         "截圖只設定「你的位置 → ViS」，藍線在 Plužine 往東切進山區；依位置判斷，很可能是 Trsa／Sedlo 方向，但沒有逐段道路清單，無法只憑截圖確認每條路名。地圖上的 5、6、7、8、9 圖釘不代表全部已加入這次導航的停靠點。",
         "Google 的 4 小時 8 分是該時刻選中路線的行車估算，不含你的午餐、拍照、採買及不確定的邊境等候。原案多繞南側，是為把高山留給獨立一天、降低長途駕駛後再跑窄路的壓力，同時避免重複；不是因為最短路線一定不能走。",
         "這次仍建議 9/11 經 Šavnik：下午雷雨風險加上跨境疲勞，不適合臨時追加 Sedlo。若後來因連日惡劣天氣取消 Ring，也不代表明天就應冒雨走捷徑。相反地，若主要道路封閉、官方建議替代且山路天候合格，避免重複的偏好可以讓位。",
-        "導航操作：一次只開下一段；先 Foča，再 Hum／Šćepan Polje，再 Plužine，再 Piva Monastery，再 Jasenovo Polje，再 Šavnik，最後訂房中的 ViS 定位。尤其 Jasenovo Polje 不能省略。每段開始前看一下全線，確認未被改導 Trsa／Sedlo。"
+        "導航不要只輸入 Pale → Goražde，可能被帶往另一條山區路線。此次明確用 Sumbulovac → Podromanija → Rogatica → Ustiprača → Goražde → Foča；不必為經過 Pale 這個名稱特地進市中心。下半段保留 Hum、Plužine、Jasenovo Polje、Šavnik，分段開始前核對全線。Romanija 有工程交替放行，繞行也要留緩衝。"
       ],
       "table": {
         "headers": [
@@ -103,27 +131,43 @@
       },
       "links": [
         {
-          "title": "下一段：Foča Bosnia",
+          "title": "1. Sumbulovac",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sumbulovac%20Bosnia"
+        },
+        {
+          "title": "2. Podromanija",
+          "url": "https://www.google.com/maps/search/?api=1&query=Podromanija%20Bosnia"
+        },
+        {
+          "title": "3. Rogatica",
+          "url": "https://www.google.com/maps/search/?api=1&query=Rogatica%20Bosnia"
+        },
+        {
+          "title": "4. Ustiprača",
+          "url": "https://www.google.com/maps/search/?api=1&query=Ustipra%C4%8Da%20Bosnia"
+        },
+        {
+          "title": "5. Goražde",
+          "url": "https://www.google.com/maps/search/?api=1&query=Gora%C5%BEde%20Bosnia"
+        },
+        {
+          "title": "6. Foča",
           "url": "https://www.google.com/maps/search/?api=1&query=Fo%C4%8Da%20Bosnia"
         },
         {
-          "title": "下一段：Hum border crossing Bosnia Montenegro",
+          "title": "7. Hum border crossing Bosnia Montenegro",
           "url": "https://www.google.com/maps/search/?api=1&query=Hum%20border%20crossing%20Bosnia%20Montenegro"
         },
         {
-          "title": "下一段：Plužine Montenegro",
+          "title": "8. Plužine Montenegro",
           "url": "https://www.google.com/maps/search/?api=1&query=Plu%C5%BEine%20Montenegro"
         },
         {
-          "title": "下一段：Piva Monastery",
-          "url": "https://www.google.com/maps/search/?api=1&query=Piva%20Monastery"
-        },
-        {
-          "title": "下一段：Jasenovo Polje Nikšić Montenegro",
+          "title": "9. Jasenovo Polje Nikšić Montenegro",
           "url": "https://www.google.com/maps/search/?api=1&query=Jasenovo%20Polje%20Nik%C5%A1i%C4%87%20Montenegro"
         },
         {
-          "title": "下一段：Šavnik Montenegro",
+          "title": "10. Šavnik Montenegro",
           "url": "https://www.google.com/maps/search/?api=1&query=%C5%A0avnik%20Montenegro"
         }
       ]
@@ -193,31 +237,31 @@
       "id": "mn11",
       "date": "2026-09-11",
       "title": "9/11｜Sarajevo → Piva → Šavnik → Žabljak",
-      "summary": "06:45 出發，目標 16:30–17:30 入住。規畫時間已留停靠與通關緩衝，不是導航保證。今天不進 Trsa／Sedlo。",
+      "summary": "06:30 出發，經 Rogatica／Goražde 避開 Trnovo 方向。Foča 暫抓 09:30–10:00，目標 17:00–18:00 入住；17:00 不是最晚抵達保證。先備妥午餐與油，修道院改選配。",
       "stops": [
         {
           "id": "departure",
-          "time": "06:00–06:45",
+          "time": "05:45–06:30",
           "name": "Apartment Nina and Nino｜早餐與出發",
-          "description": "吃完早餐、裝車，確認護照、車輛登記、租車跨境授權和保險在副駕可取得的位置。帶好午餐備糧，避免邊境排隊時還餓著找店。",
+          "description": "吃完早餐、裝車，確認護照、車輛登記、租車跨境授權和保險在副駕可取得的位置。帶好午餐備糧，避免邊境排隊時還餓著找店。 今晚先補油與午餐最省時；不要在 Goražde 加觀光。",
           "map": "https://www.google.com/maps/search/?api=1&query=Apartment%20Nina%20and%20Nino%20Sarajevo",
           "cost": "",
-          "transport": "先導航 Foča；市區離開加山路先抓約 2 小時。"
+          "transport": "明確依 Sumbulovac → Podromanija → Rogatica → Ustiprača → Goražde → Foča 分段；含 Romanija 工程先留約 3–3.5 小時。"
         },
         {
           "id": "foca",
-          "time": "08:45–09:05",
+          "time": "09:30–10:15",
           "name": "Foča／Brod na Drini｜功能性休息",
-          "description": "洗手間、咖啡、必要時加油，最多 20 分鐘。9/9 BIHAMK 公告 Dobro Polje–Miljevina 僅允許 3.5 噸以下車輛；一般小客車仍須以登記總重及現場指示為準。",
+          "description": "到達時間暫抓 09:30–10:00，停靠限 15 分鐘。若前半段已延誤，咖啡改外帶，但不省必要洗手間與駕駛休息。今天改從 Goražde 進 Foča，避開 Dobro Polje–Miljevina；不表示那條路對小客車已全面封閉。",
           "map": "https://www.google.com/maps/search/?api=1&query=Fo%C4%8Da%20Bosnia",
           "cost": "咖啡／簡單早餐預算 €3–6／人；油另計",
           "official": "https://bihamk.ba/spi/stanje-na-cesti-u-bih"
         },
         {
           "id": "hum",
-          "time": "09:05–11:15",
+          "time": "10:15–12:15",
           "name": "Hum／Šćepan Polje｜慢山路與跨境",
-          "description": "Foča–Hum 不按平地速度估算。通關預留約 30–60 分鐘只是規畫緩衝，旺時可更久；停靠與排隊時間會直接影響午餐、修道院是否保留。",
+          "description": "BIHAMK 9/10 13:57：Brod na Drini–Hum 小客車因落石及滑坡風險通行困難，貨車不可通過。慢行、留會車空間，不只把某 12 公里當成全段風險。通關留 30–60 分鐘仍可能不足；當天公告 Hum 入境波赫較忙，不能反推明天出境等待。",
           "map": "https://www.google.com/maps/search/?api=1&query=Hum%20border%20crossing%20Bosnia%20Montenegro",
           "cost": "",
           "guide": {
@@ -229,9 +273,9 @@
         },
         {
           "id": "piva-canyon",
-          "time": "11:15–12:15",
+          "time": "12:15–13:15",
           "name": "Piva Canyon｜隧道、峽谷與水庫",
-          "description": "全段最多兩次各 5–10 分鐘正式安全停靠。沒有停車灣就不拍；隧道口、落石坡及彎道都不適合停。",
+          "description": "視煙、雨與實際到達時間，最多一至兩次各 5–10 分鐘安全停靠。薄霾可縮短拍照；若煙影響行車視距或有火災管制，留在危險區外等待，不強行穿越。",
           "map": "https://www.google.com/maps/search/?api=1&query=Piva%20Lake%20Montenegro",
           "cost": "",
           "official": "https://parkpiva.com/listing/pivsko-jezero/",
@@ -244,9 +288,9 @@
         },
         {
           "id": "pluzine",
-          "time": "12:15–13:00",
+          "time": "13:15–13:45",
           "name": "Plužine｜午餐與湖岸短走",
-          "description": "找有清楚菜單的簡餐店，肉湯／烤肉／鱒魚任選；若服務忙就吃車上備糧。此處不加遊船或長午餐，也不因「補給站」就無條件再加滿油。",
+          "description": "午餐約 30 分鐘，忙就吃自備食物。今天不預訂遊船或長午餐。若到達已超過 14:00，取消修道院與其他景觀支線，但保留必要休息。",
           "map": "https://www.google.com/maps/search/?api=1&query=Plu%C5%BEine%20Montenegro",
           "cost": "簡餐預算 €8–15／人；不是店家即時報價",
           "guide": {
@@ -258,9 +302,9 @@
         },
         {
           "id": "piva-monastery",
-          "time": "13:15–13:45",
+          "time": "14:00–14:25｜可刪",
           "name": "Piva Monastery｜會搬家的修道院",
-          "description": "只有離開 Plužine 不晚於 13:15、駕駛精神與天氣都好才停。它在往南通過 Zaborje 之前，不能先過工程區又回頭參觀。",
+          "description": "只在 13:45 前離開 Plužine、天氣與煙況合格且駕駛不累時停。任何明顯延誤就取消；修道院在往南通過 Zaborje 之前，不回頭補景點。",
           "map": "https://www.google.com/maps/search/?api=1&query=Piva%20Monastery",
           "cost": "固定門票未確認；可自願小額捐獻",
           "guide": {
@@ -272,12 +316,12 @@
         },
         {
           "id": "savnik",
-          "time": "13:45–16:30",
+          "time": "13:45／14:25–17:00／18:00",
           "name": "Jasenovo Polje → Šavnik → Žabljak",
-          "description": "明確把 Jasenovo Polje 與 Šavnik 設成下一站。這段仍是山區，不把「主路」理解成高速公路；下長坡用合適低檔減少持續踩煞車。",
+          "description": "導航 Jasenovo Polje → Šavnik → ViS。不要為守 17:00 入住而加速；路況正常時目標17:00–18:00，重大延誤另作安全停留。",
           "map": "https://www.google.com/maps/search/?api=1&query=%C5%A0avnik%20Montenegro",
           "cost": "",
-          "transport": "約 2.5–3 小時含一次短休息，遇工程與慢車再加緩衝。",
+          "transport": "從 Plužine 起，依是否停修道院及工程／慢車，先留約 3–3.5 小時。",
           "guide": {
             "see": "看河谷、坡地聚落逐漸轉成高原草地與森林。",
             "history": "Šavnik 是黑山內陸河谷與山地路網的節點。經這裡上 Žabljak，海拔變化是這天景觀的一部分。",
@@ -287,7 +331,7 @@
         },
         {
           "id": "vis-supply",
-          "time": "16:30–18:30",
+          "time": "17:00–19:00",
           "name": "ViS 入住 → Voli 補貨",
           "description": "先入住、確認次日天氣與公園通行，再採買兩天早餐／午餐。若入住較晚，先超市再晚餐；不要等星期日補貨。",
           "map": "https://www.google.com/maps/search/?api=1&query=Voli%20%C5%BDabljak",
@@ -296,7 +340,7 @@
         },
         {
           "id": "mb-dinner",
-          "time": "18:30–19:30",
+          "time": "18:30–20:00",
           "name": "Žabljak 晚餐｜Hotel MB 或簡餐",
           "description": "有精神選 Hotel MB 的湯、共享 kačamak、羊肉或鱒魚；疲倦就到 Podgora 一類簡餐店，吃完早休息。",
           "map": "https://www.google.com/maps/search/?api=1&query=Hotel%20MB%20%C5%BDabljak",
@@ -310,8 +354,8 @@
           }
         }
       ],
-      "rainPlan": "午後下雨即取消路肩拍照；雷暴或能見度惡化時在城鎮安全休息，不改走高山捷徑。",
-      "cutPlan": "延誤 45 分鐘：午餐縮短；延誤 60–90 分鐘：取消修道院。原則是保留白天山路與休息，不能靠超速補回。"
+      "rainPlan": "薄霾／小雨且行車安全：取消拍照與修道院。濃煙、火焰、封路或能見度不足：在危險區外等待官方安排，必要時延後抵達；不轉進 Sedlo 或 Pljevlja 捷徑。",
+      "cutPlan": "Foča 10:15 後才離開，或 Plužine 14:00 後才到：刪修道院、改快速午餐與零景觀支線。導航時間不含所有休息與邊境；17:00–18:00 是目標，不靠超速補回。"
     },
     {
       "id": "mn12",
@@ -383,7 +427,7 @@
           "booking": "請 ViS 或公園確認 Sedlo、Sušica 是否通行；沒有可靠答覆時，不將完整環線視為已確認。"
         }
       ],
-      "rainPlan": "有雷雨或持續降雨時取消 Zminje，黑湖也只在安全天氣空檔短看。訪客中心是否開門先問，不能把森林當成全天候室內備案。",
+      "rainPlan": "有雷雨或持續降雨時取消 Zminje，黑湖也只在安全天氣空檔短看。訪客中心是否開門先問，不能把森林當成全天候室內備案。 若煙霧明顯、戶外空污嚴重或有官方火災警戒，同樣取消長步行／環線，不把看得到湖面當成空氣安全證明。",
       "cutPlan": "賽事擁擠就離開湖口，優先保留安靜短走與休息；不在入口排長隊只為拍一張照片。"
     },
     {
@@ -500,7 +544,7 @@
           "booking": "若沒有明確通行確認，今晚選定替代路線與提早出發時間，不到橋邊才臨時決定。"
         }
       ],
-      "rainPlan": "取消完整環線。若沒雷雨且步道可行，在前日未完成的黑湖短走；或 10:00 到主辦允許的公共區域看完賽儀式。不要把上午 10:00 儀式、完整 Ring、晚餐都排進同一天。",
+      "rainPlan": "取消完整環線。若沒雷雨且步道可行，在前日未完成的黑湖短走；或 10:00 到主辦允許的公共區域看完賽儀式。不要把上午 10:00 儀式、完整 Ring、晚餐都排進同一天。 若煙霧明顯、戶外空污嚴重或有官方火災警戒，同樣取消長步行／環線，不把看得到湖面當成空氣安全證明。",
       "cutPlan": "環線中段天气轉差按安全路況折返或沿已確認出口離開；不為省幾公里接受導航未查核的小路。晚餐簡化，保留跨境前睡眠。"
     },
     {
@@ -612,9 +656,9 @@
     },
     {
       "item": "四天燃油預算",
-      "amount": "€110–150",
+      "amount": "€120–165",
       "unit": "一車",
-      "status": "以約 60–80L 規畫；依實走公里與長繞路增加，非車型實測"
+      "status": "新增 Rogatica／Goražde 繞行，約 65–90L 留額；非車型實測，9/14 大繞路另核算"
     },
     {
       "item": "Voli 週末早餐／午餐飲水",
@@ -695,7 +739,7 @@
       "checked": "2026-09-10"
     },
     {
-      "title": "BIHAMK 路況（讀取頁面標示 9/9 13:03，不是 9/10 即時）",
+      "title": "BIHAMK 一般路況：9/10 12:43；Hum 繁忙資訊為入境波赫方向",
       "url": "https://bihamk.ba/spi/stanje-na-cesti-u-bih",
       "checked": "2026-09-10"
     },
@@ -778,7 +822,22 @@
       "title": "Kosovo BKS 保險互認說明",
       "url": "https://bks-ks.org/pagemodels/open?id=256e0671-2a5a-444e-a3e1-cceffc9b4b8e",
       "checked": "2026-09-10"
+    },
+    {
+      "title": "BIHAMK 主幹道：9/10 13:57",
+      "url": "https://bihamk.ba/spi/stanje-na-cesti-u-bih/magistralne-ceste",
+      "checked": "2026-09-10"
+    },
+    {
+      "title": "EPA：9/9 空污與野火公告",
+      "url": "https://epa.org.me/2026/09/09/saopstenje-povodom-aktuelne-situacije-sa-kvalitetom-vazduha-u-crnoj-gori/",
+      "checked": "2026-09-10"
+    },
+    {
+      "title": "Klix：9/7 Presjenica 火災",
+      "url": "https://www.klix.ba/vijesti/bih/veliki-pozar-kod-trnova-prosirio-se-na-minsko-polje-vatrogasci-ga-opkolili-da-zastite-objekte/260907181",
+      "checked": "2026-09-10"
     }
   ],
-  "budgetNote": "兩人四天先留約 €320–500，涵蓋上表一般餐飲、採買、暫估入園停車及 €110–150 燃油；不含住宿、原租車費、額外保險、包車、Zipline 與大繞路高速費。這是留餘裕的旅費範圍，不是已訂服務的總報價。餐飲列每日預算與採買列有重疊說明，合計時不能把採買再次加進去。"
+  "budgetNote": "兩人四天先留約 €330–515，涵蓋上表一般餐飲、採買、暫估入園停車及 €120–165 燃油；不含住宿、原租車費、額外保險、包車、Zipline 與大繞路高速費。這是留餘裕的旅費範圍，不是已訂服務的總報價。餐飲列每日預算與採買列有重疊說明，合計時不能把採買再次加進去。"
 }

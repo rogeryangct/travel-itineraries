@@ -81,7 +81,7 @@
         "下載行程及 Google Maps 離線地圖",
         "9/11 前備妥早餐、飲水並確認油量"
       ],
-      "important": "9/11 已有 9/10 最新查核的「Piva → Durmitor → Tara → Peja」接續行程；請以該份 06:45 出發、路況與天氣安排為準。"
+      "important": "9/11 請使用接續的「Piva → Durmitor → Tara → Peja」最新版：06:30 出發，經 Rogatica／Goražde，再走 Piva／Šavnik。"
     },
     {
       "id": "montenegro-north-2026",
@@ -103,7 +103,7 @@
       ],
       "content": "content/montenegro-north-2026.json",
       "timeZone": "Europe/Podgorica",
-      "important": "9/11 06:45 從 Sarajevo 出發、經 Šavnik；9/12 黑湖、9/13 環線須天氣合格；Tara Bridge 全面封閉，9/14 沿南岸 R10 須先確認 Sokolovina。",
+      "important": "9/11 06:30 出發：Sumbulovac → Podromanija → Rogatica → Ustiprača → Goražde → Foča → Hum → Piva → Jasenovo Polje → Šavnik。目標17:00–18:00入住；濃煙或封路不硬闖。9/14南岸R10仍須確認。",
       "days": [
         {
           "id": "mn11",
