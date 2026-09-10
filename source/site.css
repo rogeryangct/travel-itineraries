@@ -27,3 +27,8 @@ body.large-text .legacy button,body.large-text .legacy .btn,body.large-text .leg
 html{scroll-padding-top:calc(var(--sitebar-height) + 72px)}
 .legacy section,.legacy .guide-card,.legacy .slot{scroll-margin-top:calc(var(--sitebar-height) + 72px)}
 @media(max-width:380px){.trip-toolbar{gap:6px}.trip-toolbar button{padding:7px 8px}.trip-toolbar select{padding-inline:7px}}
+
+/* Date-only itinerary toolbar. */
+.trip-toolbar{grid-template-columns:minmax(0,1fr);padding:7px 0;margin-bottom:12px}
+.trip-toolbar select{height:40px;min-height:40px;max-width:440px;background:#fff}
+.trip-intro{padding:12px 0 4px}.trip-intro h1{margin-bottom:12px}
