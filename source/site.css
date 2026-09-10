@@ -9,3 +9,11 @@
 html{scroll-padding-top:calc(var(--sitebar-height) + 155px)}
 .legacy section,.legacy .guide-card,.legacy .slot{scroll-margin-top:calc(var(--sitebar-height) + 155px)}
 @media(max-width:760px){#sitebar{padding:6px 16px 4px}.brand-mark{font-size:24px}.top-actions{gap:4px 22px}#app-main{padding-top:20px}.country-card h3{font-size:24px}}
+
+/* Quiet country labels; search lives beside travel tools. */
+.country-heading{margin-top:0;margin-bottom:16px;flex-wrap:wrap;gap:6px 16px}
+.country-heading h2{font-size:18px;font-weight:650;letter-spacing:0}
+.country-code{font:600 14px/1.4 system-ui,sans-serif;letter-spacing:1.5px;color:var(--muted)}
+.country-top{margin-bottom:16px}
+.country-card{min-height:245px}
+@media(max-width:760px){.country-card{min-height:235px}.top-actions{column-gap:20px}.country-heading h2{font-size:18px}}
