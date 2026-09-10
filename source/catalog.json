@@ -1,0 +1,77 @@
+{
+  "site": {
+    "title": "Roger 的旅遊手帖",
+    "description": "按國家收藏行程，沿著每天的路線出發。",
+    "updated": "2026-09-10"
+  },
+  "countries": [
+    {
+      "id": "bosnia",
+      "name": "波士尼亞與赫塞哥維納",
+      "english": "Bosnia & Herzegovina",
+      "code": "BA",
+      "region": "歐洲",
+      "summary": "Sarajevo 的街巷、帝國交界與城市記憶。",
+      "currency": "BAM／KM",
+      "timeZone": "Europe/Sarajevo"
+    },
+    {
+      "id": "montenegro",
+      "name": "蒙特內哥羅",
+      "english": "Montenegro",
+      "code": "ME",
+      "region": "歐洲",
+      "summary": "從 Piva 峽谷經 Šavnik，走向 Žabljak 的群山。",
+      "currency": "EUR／€",
+      "timeZone": "Europe/Podgorica",
+      "coverage": "目前收錄 9/11 跨境抵達段；9/12–9/14 尚未納入。"
+    }
+  ],
+  "trips": [
+    {
+      "id": "balkans-2026",
+      "title": "Sarajevo → Žabljak",
+      "subtitle": "兩天城市導覽，一天跨境自駕",
+      "countries": [
+        "bosnia",
+        "montenegro"
+      ],
+      "start": "2026-09-09",
+      "end": "2026-09-11",
+      "verified": "2026-09-08",
+      "status": "已整理",
+      "tags": [
+        "自駕",
+        "歷史",
+        "博物館",
+        "山景"
+      ],
+      "content": "content/balkans-2026.html",
+      "days": [
+        {
+          "id": "d9",
+          "date": "2026-09-09",
+          "label": "城市與奧運之山"
+        },
+        {
+          "id": "d10",
+          "date": "2026-09-10",
+          "label": "隧道與國家博物館"
+        },
+        {
+          "id": "d11",
+          "date": "2026-09-11",
+          "label": "經 Šavnik 跨境"
+        }
+      ],
+      "checklist": [
+        "核對博物館時段與 Haggadah 入場安排",
+        "確認纜車營運、山區天氣與路況",
+        "準備護照、租車跨境文件與保險",
+        "下載行程及 Google Maps 離線地圖",
+        "9/11 前備妥早餐、飲水並確認油量"
+      ],
+      "important": "9/11 07:00 出發，經 Foča、Hum／Šćepan Polje、Plužine、Jasenovo Polje、Šavnik；不走 Trsa／Sedlo。"
+    }
+  ]
+}

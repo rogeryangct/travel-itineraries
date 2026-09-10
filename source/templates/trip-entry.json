@@ -1,0 +1,15 @@
+{
+  "id": "new-trip-2027",
+  "title": "城市 A → 城市 B",
+  "subtitle": "行程主題與交通方式",
+  "countries": ["new-country"],
+  "start": "2027-01-01",
+  "end": "2027-01-01",
+  "verified": "2026-09-10",
+  "status": "待核查",
+  "tags": ["自駕", "歷史"],
+  "content": "content/new-trip-2027.json",
+  "days": [{"id":"day-1","date":"2027-01-01","label":"城市探索"}],
+  "checklist": ["確認營業時段與門票", "核對天氣、交通與預約"],
+  "important": "最重要的交通、預約或安全提醒。"
+}

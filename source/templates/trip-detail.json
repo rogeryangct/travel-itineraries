@@ -1,0 +1,25 @@
+{
+  "days": [{
+    "id":"day-1", "date":"2027-01-01", "title":"第 1 天｜城市探索",
+    "summary":"每天的主題、步行量、節奏與取捨。",
+    "stops":[{
+      "id":"stop-museum", "time":"09:00–10:30", "name":"景點名稱",
+      "description":"介紹這個景點值得看的重點，並說明停留時間。",
+      "transport":"從上一站步行約 15 分鐘；資料待確認。",
+      "cost":"成人票待確認；幣別與每人／每車單位必須註明。",
+      "map":"https://www.google.com/maps/search/?api=1&query=PLACE_NAME",
+      "official":"", "booking":"是否需預约、截止日期與取消條件。",
+      "guide":{
+        "see":"站在哪裡、看什麼細節？",
+        "history":"年代、事件與背景；以可靠來源核查。",
+        "story":"故事與人物；傳說和確定史實分開說明。",
+        "tips":"開放時段、服裝、無障礙、廁所或拍攝提醒。"
+      }
+    }],
+    "rainPlan":"雨天或臨時關閉時的替代安排。",
+    "cutPlan":"延誤 30／60 分鐘時先取消哪些選配。"
+  }],
+  "budget":[{"item":"景點門票","amount":"待確認","unit":"每人","status":"未核查"}],
+  "budgetNote":"預算包含／排除項目、估算匯率及查核日期。不要把未知費用算成零。",
+  "sources":[]
+}

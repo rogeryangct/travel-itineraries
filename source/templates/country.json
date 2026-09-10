@@ -1,0 +1,11 @@
+{
+  "id": "new-country",
+  "name": "國家中文名稱",
+  "english": "Country name",
+  "code": "XX",
+  "region": "所屬地區",
+  "summary": "此國家的行程特色，一到兩句。",
+  "currency": "貨幣代碼／符號",
+  "timeZone": "Asia/Taipei",
+  "coverage": "目前涵蓋的城市與日期；若尚未完整收錄，請在此註明。"
+}
