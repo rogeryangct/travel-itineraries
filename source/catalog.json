@@ -21,10 +21,20 @@
       "english": "Montenegro",
       "code": "ME",
       "region": "歐洲",
-      "summary": "從 Piva 峽谷經 Šavnik，走向 Žabljak 的群山。",
+      "summary": "Piva、Durmitor 與 Tara，銜接 Kosovo 的四日山區自駕。",
       "currency": "EUR／€",
-      "timeZone": "Europe/Podgorica",
-      "coverage": "目前收錄 9/11 跨境抵達段；9/12–9/14 尚未納入。"
+      "timeZone": "Europe/Podgorica"
+    },
+    {
+      "id": "kosovo",
+      "name": "科索沃",
+      "english": "Kosovo",
+      "code": "XK",
+      "region": "歐洲",
+      "summary": "由 Kula 山口抵達 Peja。",
+      "currency": "EUR／€",
+      "timeZone": "Europe/Belgrade",
+      "coverage": "目前收錄 9/14 跨境抵達 Peja；後續 Kosovo 行程另行新增。"
     }
   ],
   "trips": [
@@ -71,7 +81,51 @@
         "下載行程及 Google Maps 離線地圖",
         "9/11 前備妥早餐、飲水並確認油量"
       ],
-      "important": "9/11 07:00 出發，經 Foča、Hum／Šćepan Polje、Plužine、Jasenovo Polje、Šavnik；不走 Trsa／Sedlo。"
+      "important": "9/11 已有 9/10 最新查核的「Piva → Durmitor → Tara → Peja」接續行程；請以該份 06:45 出發、路況與天氣安排為準。"
+    },
+    {
+      "id": "montenegro-north-2026",
+      "title": "Piva → Durmitor → Tara → Peja",
+      "countries": [
+        "montenegro",
+        "bosnia",
+        "kosovo"
+      ],
+      "start": "2026-09-11",
+      "end": "2026-09-14",
+      "verified": "2026-09-10",
+      "status": "依天氣調整",
+      "tags": [
+        "自駕",
+        "高山",
+        "湖泊",
+        "跨境"
+      ],
+      "content": "content/montenegro-north-2026.json",
+      "timeZone": "Europe/Podgorica",
+      "important": "9/11 06:45 從 Sarajevo 出發、經 Šavnik；9/12 黑湖、9/13 環線須天氣合格；Tara Bridge 全面封閉，9/14 沿南岸 R10 須先確認 Sokolovina。",
+      "days": [
+        {
+          "id": "mn11",
+          "date": "2026-09-11",
+          "label": "Piva 與跨境"
+        },
+        {
+          "id": "mn12",
+          "date": "2026-09-12",
+          "label": "黑湖與限定賽事"
+        },
+        {
+          "id": "mn13",
+          "date": "2026-09-13",
+          "label": "環線／雨天備案"
+        },
+        {
+          "id": "mn14",
+          "date": "2026-09-14",
+          "label": "Tara 南岸至 Peja"
+        }
+      ]
     }
   ]
 }

@@ -34,6 +34,16 @@ def scope_css(css):
 def render_structured(t,d):
     parts=['<nav>'+''.join('<a href="#'+esc(x['id'])+'">'+esc(x['date'][5:])+' '+esc(x['label'])+'</a>' for x in t['days'])+'<a href="#budget">費用</a><a href="#guidebook">景點導覽</a><a href="#sources">來源</a></nav><main>']
     guides=[]
+    for section in d.get('overview',[]):
+        parts.append('<section id="'+esc(section['id'])+'"><h2>'+esc(section['title'])+'</h2>')
+        parts.extend('<p>'+esc(p)+'</p>' for p in section.get('paragraphs',[]))
+        if section.get('table'):
+            table=section['table']
+            parts.append('<div class="tablewrap"><table><thead><tr>'+''.join('<th>'+esc(h)+'</th>' for h in table['headers'])+'</tr></thead><tbody>')
+            parts.extend('<tr>'+''.join('<td>'+esc(v)+'</td>' for v in row)+'</tr>' for row in table['rows'])
+            parts.append('</tbody></table></div>')
+        parts.extend('<a class="map" target="_blank" rel="noopener" href="'+url(a['url'])+'">'+esc(a['title'])+'</a>' for a in section.get('links',[]))
+        parts.append('</section>')
     for day in d['days']:
         parts.append('<section class="day" id="'+esc(day['id'])+'"><span class="tag">'+esc(day['date'])+'</span><h2>'+esc(day['title'])+'</h2><p>'+esc(day.get('summary',''))+'</p>')
         for stop in day['stops']:
