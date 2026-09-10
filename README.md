@@ -1,4 +1,4 @@
-# Roger 的旅遊手帖
+# R & A
 
 網站：https://rogeryangct.github.io/travel-itineraries/
 
@@ -52,3 +52,7 @@
 - [TripIt 官方 app 說明](https://play.google.com/store/apps/details?id=com.tripit)：集中查閱行程、分享與離線存取。
 
 本站保留適合文字行程的功能，不含預訂、同步、共同編輯或即時交通追蹤。
+
+## 已確認的維護偏好
+
+後續由助理完成各國內容整理、編譯、GitHub 上傳與部署驗證；使用者不需要手動上傳。品牌僅 R & A（Roger and Amber），國家名稱顯示英文但中文仍可搜尋。固定頂部功能列的「今天」依各行程／日期所在地時區比對；唯一符合時直接跳轉、多份時列出選項、無符合時顯示空白狀態。跨時區新行程可在 day 或 trip 設定 timeZone，否則使用第一國家時區。
