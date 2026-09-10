@@ -9,3 +9,4 @@ User preferences confirmed 2026-09-10:
 - Edit source files, run python3 build.py, then publish index.html and modified sources together.
 - Repository: rogeryangct/travel-itineraries; public URL: https://rogeryangct.github.io/travel-itineraries/
 - Place global Search immediately after travel tools; omit the large homepage search form. Keep the Explore Countries heading 18px and country codes small (14px).
+- Trip toolbar contains only date selector, large-text toggle and print/PDF. No trip-level share or search button. Large-text affects itinerary reading content only; all controls keep fixed font sizes. Keep this toolbar compact in one row on phones.
