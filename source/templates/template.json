@@ -1,0 +1,16 @@
+{
+  "id": "ra-itinerary-v1",
+  "version": 1,
+  "approved": "2026-09-10",
+  "referenceTrip": "balkans-2026",
+  "country": "country.json",
+  "entry": "trip-entry.json",
+  "detail": "trip-detail.json",
+  "renderer": "../../build.py",
+  "sharedApp": "../app.js",
+  "sharedStyles": "../site.css",
+  "tripToolbar": [
+    "date-selector"
+  ],
+  "guideLabel": "導覽"
+}

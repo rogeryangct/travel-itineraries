@@ -10,3 +10,5 @@ User preferences confirmed 2026-09-10:
 - Repository: rogeryangct/travel-itineraries; public URL: https://rogeryangct.github.io/travel-itineraries/
 - Place global Search immediately after travel tools; omit the large homepage search form. Keep the Explore Countries heading 18px and country codes small (14px).
 - Trip toolbar contains ONLY the date selector. No large-text, print/PDF, share or trip-level search buttons. Remove trip subtitle, top verification line/banner, checklist and personal notes panels. Preserve actual travel content, route highlights, source dates within content and existing private backups.
+
+- The current approved itinerary is the canonical R & A itinerary v1 template. Read source/templates/README.md and template.json before adding any future itinerary. Reuse the shared renderer and styles; add researched content without replacing existing countries/trips or restoring removed UI.
