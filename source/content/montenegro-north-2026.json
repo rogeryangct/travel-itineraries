@@ -1,8 +1,93 @@
 {
   "overview": [
     {
+      "id": "weekend-update",
+      "title": "9/11 晚更新：南段已完成，週末不重跑整圈",
+      "paragraphs": [
+        "依你回報，今天已走 Plužine → Trsa → Pišče／Todorov Do → Sedlo → Žabljak。9/11 下方保留的是先前規畫，不能當成你今天實際走過的道路紀錄。接下來取消完整 Ring，週六以休息、可取消的草原文化短線與觀賽為主；週日優先黑湖＋Ćurevac。",
+        "9/11 查得的城鎮預報：週六約 14／6°C、局部雷暴；週日約 16／5°C、多雲少量雨；週一約 17／9°C、局部雷陣雨。週六山區有雷暴與風黃色警示。你提供的官方高解析模型「週日幾乎全乾」本次未能重新讀取驗證，不能宣稱已確定晴朗無風。週日較值得保留大景，但早上仍要看雲底、風及路面。",
+        "Vražje、Riblje 與兩處 stećci 都在開闊高原，不是雷暴避難景點。只有陰天／輕微短雨、沒有雷暴逼近、視距良好時才短停；雷雨時改室內，不躲墓碑、孤樹或湖岸。",
+        "北半圈不是不走南段就能自動回城。跨 Sušica 到 Nedajno 後，原路回程要再下降與爬升一次；繼續向 Trsa 則重複南段。此次主線到 Mala Crna Gora 一帶看景後折返；谷底與 Nedajno 不列必去。",
+        "黑湖完整環湖再加 Zminje，包含停車步行、拍照與雨後路面，不能壓成短短兩三小時。週日要看遠景就先刪 Zminje；Sedlena Greda 也刪出主線，若改登山需整個下午取代北段，不能加碼。"
+      ],
+      "links": [
+        {
+          "title": "官方賽程",
+          "url": "https://blackxtri.com/race-info"
+        },
+        {
+          "title": "2026 比賽手冊",
+          "url": "https://blackxtri.com/s/BLACKLAKE-Event-manual-2026.pdf"
+        },
+        {
+          "title": "UNESCO 正式座標",
+          "url": "https://whc.unesco.org/en/list/1504/maps/"
+        }
+      ]
+    },
+    {
+      "id": "race-spectator",
+      "title": "9/12 三鐵：到哪裡看，什麼是確定時間？",
+      "paragraphs": [
+        "Blacklake Xtreme 是長距離極限三鐵，結合冷水游泳、公路自行車及山地跑。2026 手冊列 3.8km 游泳、182km 自行車、約42km 跑步。參賽者分散在整條賽道，不會在黑湖讓你連續看完整三項。",
+        "官方確定：9/12 04:30 黑湖起跑；手冊游泳關門 06:45。05:30–06:30 在湖岸公共區域有機會看游泳上岸、穿裝備與自行車出發，是不必04:00到場的折衷；這是觀賽建議，不是主辦保證每分鐘都有選手。08:30才到已不是看游泳的時段。",
+        "T1 是黑湖游泳轉自行車；手冊 T2 在 Ski Center Durmitor 停車區（Savin Kuk 滑雪基地一帶），看自行車進站換跑鞋。只有現場確認基地位置與今年改線後才去；大約中午至下午是推估觀察窗，出門前看主辦資訊，不按預估時間乾等。",
+        "今年官方首頁和2026手冊都把終點寫在黑湖，不是 Savin Kuk 山頂。傍晚可回黑湖看跑步抵達；17:30–19:00 只是候選等候窗，不能用歷年紀錄保證首名時間，改線也可能更早。週日10:00是完賽儀式，不是另一場三鐵。",
+        "2026 手冊仍寫自行車跨施工中的 Tara Bridge，且跑步關門表內也有不一致。本次沒有取得主辦最終改線公告或即時選手定位，不能據此保證自行車路線、T2 抵達時間與山段照常。主辦聯絡 info@blackxtri.com；手冊列賽事辦公室 +382 67 285 549（Viber／WhatsApp）。可詢問：明天是否照常04:30起跑、公共觀眾區在哪、T2與終點是否改動。未代你發訊息。",
+        "T1 游泳出口與轉換區受管制，手冊僅准配戴識別的一名支援者進特定區域；一般遊客站工作人員允許的公共位置。不要開車追自行車、占用選手通道或為觀賽上雨中的山口。雷暴時取消湖邊等候，退回建築／硬頂車。"
+      ],
+      "table": {
+        "headers": [
+          "時段",
+          "地点",
+          "可能看到／確定程度"
+        ],
+        "rows": [
+          [
+            "04:00到場；04:30開賽",
+            "黑湖餐廳附近公共湖岸",
+            "官方起跑；漆黑、冷、需確認可進"
+          ],
+          [
+            "05:30–06:30",
+            "黑湖 T1 外圍",
+            "推估可見上岸與騎車出發；06:45游泳關門"
+          ],
+          [
+            "中午至下午，先確認",
+            "Ski Center Durmitor／Savin Kuk 基地 T2",
+            "手冊位置；今年最終改線與抵達時間待確認"
+          ],
+          [
+            "17:30–19:00候選",
+            "黑湖終點外圍",
+            "跑步完賽，按當日進度調整"
+          ],
+          [
+            "9/13 10:00",
+            "黑湖",
+            "官方完賽儀式；與北段出發時間取捨"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "title": "黑湖餐廳／起終點區域搜尋",
+          "url": "https://www.google.com/maps/search/?api=1&query=Restoran%20Crno%20Jezero%20%C5%BDabljak"
+        },
+        {
+          "title": "滑雪基地 T2 區域搜尋（先確認）",
+          "url": "https://www.google.com/maps/search/?api=1&query=Savin%20Kuk%20ski%20centre%20%C5%BDabljak"
+        },
+        {
+          "title": "官方手冊",
+          "url": "https://blackxtri.com/s/BLACKLAKE-Event-manual-2026.pdf"
+        }
+      ]
+    },
+    {
       "id": "decisions",
-      "title": "先讀：這次真正改了什麼",
+      "title": "9/10 規畫背景（週末以 9/11 更新為準）",
       "paragraphs": [
         "2026/9/10 查核；時間均為當地 CEST。9/11 從 Apartment Nina and Nino 出發，9/11–9/13 住 ViS，9/14 前往 Peja。住宿地圖以名稱搜尋，請以自己的訂房定位選定正確入口；這份公開行程不包含房號或入住密碼。",
         "9/11 改採 06:30 出發，前半段用 Sarajevo → Sumbulovac → Podromanija → Rogatica → Ustiprača → Goražde → Foča → Brod na Drini → Hum／Šćepan Polje → Plužine → Jasenovo Polje → Šavnik → ViS。這是為避開 Trnovo 火場周邊與 Dobro Polje–Miljevina 限制路段的保守選擇，不代表官方認證全程最安全。Zaborje 舊的 11:00–17:00 封路不再作為凌晨趕路理由。",
@@ -61,7 +146,7 @@
       "id": "weather-plan",
       "title": "四天天氣與出發門檻",
       "paragraphs": [
-        "下表是 9/10 取得的 Žabljak 城鎮預報，不是整段跨國道路或山口的逐時預報。Sedlo、Sušica 與 Kula 需另外注意低雲、風及能見度；不把城鎮溫度直接當成山頂實況。",
+        "9/11 晚更新的城鎮預報，不是山口逐時預報；仍須核對雲底、風與雷暴。",
         "完整環線的門檻：當天上午至預計回城時段沒有雷暴警示，路面無冰雪、落石封路，能見度足夠看清彎道與會車點，住宿或公園人員確認通行。只有「雨比較少」不算合格。出現雷聲就停止湖岸、山口及森林步行，回到硬頂車輛或建築內；樹下不是避雷處。",
         "帶防水外套、中層保暖衣、防滑鞋、乾襪、薄手套；出城前下載離線道路與健行圖。午後天氣不穩，拍照與步行優先安排上午。"
       ],
@@ -73,24 +158,19 @@
         ],
         "rows": [
           [
-            "9/11 五",
-            "23／12°C；午後局部雷雨",
-            "早離開 Sarajevo；Piva 停靠短而少；不追加高山路"
-          ],
-          [
             "9/12 六",
-            "17／8°C；多雲、陣雨及雷雨，較晚明顯",
-            "黑湖短走；Zminje 只在天氣穩定時加入"
+            "14／6°C；局部雷暴，山區風／雷黃色警示",
+            "戶外短線只在安全空檔；否則休息"
           ],
           [
             "9/13 日",
-            "16／4°C；多雲、少量降雨",
-            "環線須通過天氣與路況門檻；否則留城／短走"
+            "16／5°C；多雲，仍有少量雨可能",
+            "黑湖＋Ćurevac 優先；北段可刪"
           ],
           [
             "9/14 一",
-            "16／6°C；局部雷陣雨",
-            "提早跨境；不要在 Kula 山口久停"
+            "17／9°C；局部雷陣雨",
+            "南岸 R10 通行仍須確認"
           ]
         ]
       },
@@ -215,9 +295,9 @@
       "id": "reservations",
       "title": "現在值得先確認的預約",
       "paragraphs": [
-        "優先順序：租車文件及新車跨境保險 → 9/13 環線當日能否通行 → 9/14 R10/Sokolovina → 想吃的慢烤羊肉。不要先付不可退的 Ring 或 Zipline，因為天氣與施工仍有變數。",
+        "優先順序：租車文件及新車跨境保險 → 9/13 北段當日能否通行 → 9/14 R10/Sokolovina → 想吃的慢烤羊肉。不要先付不可退的 Ring 或 Zipline，因為天氣與施工仍有變數。",
         "國家公園常規散步、Piva 修道院一般不需提前預約；入園與停車按現場售票。舊表中的 Ring van €20／jeep €30、導遊 €40／4 小時不是已確認可訂到的 2026 服務；若想請司機，請住宿代詢總價、是否含門票、天氣取消與乘客數後再決定。",
-        "9/12 Blacklake Xtreme 是正式極限三鐵，不能把現場觀賽當成臨時報名活動。04:30 起跑不值得讓剛開完跨境山路的你們再少睡；選正常起床後經過公共湖岸，是否開放看現場。轉換區有限制，不闖入選手區。9/13 10:00 完賽儀式若想看，就放棄那天早出發的完整環線，兩者不要都塞。",
+        "9/12 Blacklake Xtreme 是正式極限三鐵，不能把現場觀賽當成臨時報名活動。04:30 起跑不值得讓剛開完跨境山路的你們再少睡；選正常起床後經過公共湖岸，是否開放看現場。轉換區有限制，不闖入選手區。9/13 10:00 完賽儀式若想看，就放棄那天早出發的北段觀景，兩者不要都塞。",
         "未查到能確認落在 9/11–9/14 的市慶演唱會；9/17 市慶及泛稱活動週不能當成這幾天確定節目。"
       ],
       "links": [
@@ -229,6 +309,48 @@
           "title": "Žabljak 旅遊局",
           "url": "https://zabljak.travel/me/"
         }
+      ]
+    },
+    {
+      "id": "sat-stock",
+      "title": "補星期一早餐；確認週日環線｜原方案已取消",
+      "paragraphs": [
+        "9/11 已完成南段後，此項不再列入週末主線。請使用 mn12／mn13 日期選單查看新版；不重跑完整環線。"
+      ]
+    },
+    {
+      "id": "ring-start",
+      "title": "ViS｜決策、早餐與油量｜原方案已取消",
+      "paragraphs": [
+        "9/11 已完成南段後，此項不再列入週末主線。請使用 mn12／mn13 日期選單查看新版；不重跑完整環線。"
+      ]
+    },
+    {
+      "id": "trsa",
+      "title": "Nedajno → Trsa｜提早午餐｜原方案已取消",
+      "paragraphs": [
+        "9/11 已完成南段後，此項不再列入週末主線。請使用 mn12／mn13 日期選單查看新版；不重跑完整環線。"
+      ]
+    },
+    {
+      "id": "prutas",
+      "title": "Pišče → Todorov Do／Prutaš｜原方案已取消",
+      "paragraphs": [
+        "9/11 已完成南段後，此項不再列入週末主線。請使用 mn12／mn13 日期選單查看新版；不重跑完整環線。"
+      ]
+    },
+    {
+      "id": "sedlo",
+      "title": "Dobri Do → Sedlo｜山口短停｜原方案已取消",
+      "paragraphs": [
+        "9/11 已完成南段後，此項不再列入週末主線。請使用 mn12／mn13 日期選單查看新版；不重跑完整環線。"
+      ]
+    },
+    {
+      "id": "ring-return",
+      "title": "Pošćenska 谷地 → Žabljak｜原方案已取消",
+      "paragraphs": [
+        "9/11 已完成南段後，此項不再列入週末主線。請使用 mn12／mn13 日期選單查看新版；不重跑完整環線。"
       ]
     }
   ],
@@ -360,14 +482,100 @@
     {
       "id": "mn12",
       "date": "2026-09-12",
-      "title": "9/12｜黑湖、Zminje 森林與限定賽事",
-      "summary": "本次預報不適合把完整環線鎖在星期六。主行程是黑湖；Zminje 及觀賽都屬可刪除項。",
+      "title": "9/12｜三鐵選配、草原湖泊與中世紀石墓碑",
+      "summary": "正常版08:30早餐；想看游泳改05:30到黑湖、06:45前離開後回ViS補眠。兩版擇一，白天戶外均看雷雨空檔。",
+      "stops": [
+        {
+          "id": "race-watch",
+          "time": "05:30–06:30｜早起選配",
+          "name": "黑湖 T1 外圍｜游泳上岸與自行車出發",
+          "description": "官方04:30起跑、06:45游泳關門。想看起跑需04:00前後到湖岸；不早起就選傍晚終點。當天主辦天氣決定優先。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Restoran%20Crno%20Jezero%20%C5%BDabljak"
+        },
+        {
+          "id": "weather-gate",
+          "time": "08:30–09:00",
+          "name": "ViS 早餐與雷雨判斷",
+          "description": "若看了早場，回住宿早餐／補眠，把短線延後或刪掉。雷暴接近時留室內；不是撐傘就照走。",
+          "map": "https://www.google.com/maps/search/?api=1&query=ViS%20%C5%BDabljak"
+        },
+        {
+          "id": "devils-lake",
+          "time": "09:15–09:40｜安全空檔",
+          "name": "Vražje Lake",
+          "description": "不要求繞湖。陰天可看草原與近岸線；座標43.08400,19.14564為你提供的湖區位置，不是已查明停車位，停車依現場。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Vra%C5%BEje%20jezero%20Montenegro",
+          "guide": {
+            "see": "看開闊草原包圍的水面，與黑湖森林景觀對比。",
+            "history": "此區湖泊位於高原冰河地形中。Devil’s Lake 是地名，不必把網路流傳傳說當成確定史實。",
+            "tips": "湖邊暴露；雷聲、強陣風或道路視距變差立即取消。"
+          }
+        },
+        {
+          "id": "fish-lake",
+          "time": "09:45–10:00｜可刪",
+          "name": "Riblje Lake",
+          "description": "只做10–15分鐘近景停靠。與下一個墓碑點合併，天氣空檔短時直接選墓碑，兩湖不必都走。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Riblje%20jezero%20Montenegro",
+          "guide": {
+            "see": "拍湖岸、草坡與天空層次，不必等遠山全露。",
+            "history": "Riblje 的地名與魚相關；小湖的價值是與高原生活地景連在一起。",
+            "tips": "不要把湖中心座標當成可開車抵達的點。"
+          }
+        },
+        {
+          "id": "greek-tombs",
+          "time": "10:05–10:35",
+          "name": "Grčko groblje｜UNESCO 石墓碑",
+          "description": "UNESCO組成點1504-023。官方位置換算43.094817,19.149183，與你提供的點一致；這是遺址座標，不代表停車場。",
+          "map": "https://www.google.com/maps/search/?api=1&query=43.094817%2C19.149183",
+          "guide": {
+            "see": "看石碑形狀、排列、風化與仍可辨認的雕刻；不攀坐、不拓印。",
+            "history": "Stećci 是12–16世紀跨國中世紀墓碑傳統，不能只歸屬單一現代國家或宗派。",
+            "tips": "名稱中的「希臘墓地」不等於已證實墓主都是古希臘人。陰天適合看表面，但草地雷雨時仍須取消。"
+          }
+        },
+        {
+          "id": "bare-tombs",
+          "time": "10:50–11:20｜選配",
+          "name": "Bare Žugića｜第二處世界遺產",
+          "description": "官方組成點1504-024，座標43.107600,19.168117。與前一處擇一也足夠，別為收集兩個點延長風雨暴露。",
+          "map": "https://www.google.com/maps/search/?api=1&query=43.107600%2C19.168117",
+          "guide": {
+            "see": "比較墓碑群的規模和排列；不移動石塊。",
+            "history": "同屬跨波赫、黑山、塞爾維亞與克羅埃西亞的系列世界遺產。",
+            "tips": "保持在既有通路；停車不壓牧草、墓地或私人土地。"
+          }
+        },
+        {
+          "id": "sat-lunch",
+          "time": "12:00–16:30",
+          "name": "Žabljak 午餐、補貨與休息",
+          "description": "補星期日與星期一早餐。若上午雷雨不外出，今天就當休息日；黑湖完整環湖留週日。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Voli%20%C5%BDabljak"
+        },
+        {
+          "id": "race-finish",
+          "time": "17:30–19:00｜先查進度",
+          "name": "黑湖終點｜跑步完賽候選時段",
+          "description": "今年手冊終點是黑湖。只有主辦確認開放、已有選手接近且無雷暴才去，等候上限約45分鐘；不是保證17:30有冠軍。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Restoran%20Crno%20Jezero%20%C5%BDabljak"
+        }
+      ],
+      "rainPlan": "雷雨時湖泊、墓碑、觀賽全部可取消，改ViS／市區室內用餐休息。沒有室內文化館開放確認，不另編一個必開訪客中心。",
+      "cutPlan": "早場觀賽後疲倦：兩湖擇一、墓碑擇一；傍晚選手尚遠不等，為週日留睡眠。"
+    },
+    {
+      "id": "mn13",
+      "date": "2026-09-13",
+      "title": "9/13｜黑湖＋Ćurevac，北段有時間才往返",
+      "summary": "不重跑 Trsa–Sedlo。06:25出發不代表06:35已站湖岸；留停車、入口至湖岸步行。以黑湖＋Ćurevac為完成目標。",
       "stops": [
         {
           "id": "blacklake-morning",
-          "time": "07:15–09:00",
+          "time": "06:25出發；約06:50–08:30湖岸",
           "name": "Black Lake／Crno Jezero｜早晨湖景",
-          "description": "07:15 早餐，07:45 左右到入口；有賽事工作車與選手動線，按現場安排停車。先走主入口湖岸與部分環湖，濕滑時不強求完整一圈。",
+          "description": "留停車與入口步行20–30分鐘。先拍倒影，再選局部環湖；完整環湖與長時間攝影無法同時壓進一小時。清晨不保證無風，雲低時不要久等。",
           "map": "https://www.google.com/maps/search/?api=1&query=Crno%20Jezero%20%C5%BDabljak",
           "cost": "入園先抓 €5／人／日、停車 €1／小時作暫估，2026 售票須現場確認",
           "official": "https://nparkovi.me/parks/Durmitor/active_holidays",
@@ -379,83 +587,22 @@
           }
         },
         {
-          "id": "zminje",
-          "time": "09:00–12:00｜條件式",
-          "name": "Mlinski Potok → Zminje Lake",
-          "description": "只有上午逐時預報穩定、未聞雷聲且步道狀況良好才走。單程抓 60–80 分鐘，湖邊休息 20 分鐘再回；不把此線與完整環湖全部硬塞到正午前。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Zminje%20jezero%20Durmitor",
-          "cost": "",
-          "transport": "由黑湖走標示步道，依實走路線全日可達約 8–10 公里、4–5 小時。",
+          "id": "curevac",
+          "time": "08:30–10:45",
+          "name": "Ćurevac｜Tara 峽谷短健行",
+          "description": "回停車場後開車至標示登山口，步行、觀景與返回共留60–90分鐘，加轉場緩衝。43.20155,19.09298是使用者提供的觀景區參考，不是停車點；導航找登山口。",
+          "map": "https://www.google.com/maps/search/?api=1&query=%C4%86urevac%20trailhead%20%C5%BDabljak",
           "guide": {
-            "see": "沿溪谷看森林、潮濕地面與湖邊倒木；小湖適合安靜停留，不是追求巨大山峰全景。",
-            "history": "Durmitor 的地形同時受到冰河、流水與石灰岩溶蝕影響。Zminje 隱在森林，與開闊的黑湖形成不同尺度的湖泊經驗。",
-            "story": "Mlinski Potok 的名字與磨坊溪相關，提醒這不是只有現代遊客使用的森林；水流也曾是地方日常生產的一部分。",
-            "tips": "樹根、濕石很滑。岔路看步道標記與離線健行圖；Google 道路導航不能代替步道圖。"
-          }
-        },
-        {
-          "id": "race-watch",
-          "time": "上午短看／下午視公告",
-          "name": "Blacklake Xtreme｜只在公共區域感受氣氛",
-          "description": "官方 2026 時程是今天 04:30 起跑。正常起床到場時，游泳可能已結束，不能保證看到起跑。若主辦確認照常舉行，可看公共區域與後段抵達氣氛；不預設某時刻一定有冠軍衝線。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Black%20Lake%20Montenegro",
-          "cost": "公共區域觀看未查到獨立觀眾票；國家公園門票另依現場，不能承諾免費入園",
-          "official": "https://blackxtri.com/race-info",
-          "booking": "不替使用者報名。賽事手冊的過橋路線與封閉公告矛盾，出門前確認賽事是否改線、延期及公共動線。",
-          "guide": {
-            "see": "看極限耐力賽如何利用高山湖泊與公路地形；讓出選手、工作人員及救援動線。",
-            "history": "Blacklake Xtreme 是長距離三項賽事，官方項目含 3.8 公里游泳、182 公里自行車與馬拉松。",
-            "story": "對旅客而言最有價值的是在地活動氣氛，不是熬夜跟完整場。不要因選手上山，就把當天天氣理解成適合一般遊客健行。",
-            "tips": ""
-          }
-        },
-        {
-          "id": "sat-lunch",
-          "time": "12:30–14:00",
-          "name": "Žabljak 午餐與休息",
-          "description": "回市區吃湯、烤肉或麵包店簡餐；下午若有雷雨就在室內休息。不把划船安排成必做。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Restoran%20Podgora%20%C5%BDabljak",
-          "cost": "午餐預算 €8–15／人"
-        },
-        {
-          "id": "sat-stock",
-          "time": "16:00–18:00",
-          "name": "補星期一早餐；確認週日環線",
-          "description": "趁星期六完成缺少的水、早餐及行車零食。想吃明日慢烤羊肉，今天先問；若環線無法確定回城時刻，就不要預訂太早的晚餐。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Voli%20%C5%BDabljak",
-          "cost": "",
-          "booking": "請 ViS 或公園確認 Sedlo、Sušica 是否通行；沒有可靠答覆時，不將完整環線視為已確認。"
-        }
-      ],
-      "rainPlan": "有雷雨或持續降雨時取消 Zminje，黑湖也只在安全天氣空檔短看。訪客中心是否開門先問，不能把森林當成全天候室內備案。 若煙霧明顯、戶外空污嚴重或有官方火災警戒，同樣取消長步行／環線，不把看得到湖面當成空氣安全證明。",
-      "cutPlan": "賽事擁擠就離開湖口，優先保留安靜短走與休息；不在入口排長隊只為拍一張照片。"
-    },
-    {
-      "id": "mn13",
-      "date": "2026-09-13",
-      "title": "9/13｜Durmitor Ring：通過天氣門檻才出發",
-      "summary": "星期日仍預報少量雨，並非保證好天。07:15 做決策；合格才跑下列逆時針環線。取消時保留黑湖短走／休息與 10:00 完賽儀式選配。",
-      "stops": [
-        {
-          "id": "ring-start",
-          "time": "07:15–08:00",
-          "name": "ViS｜決策、早餐與油量",
-          "description": "看山口能見度、逐時雷雨與官方／在地道路確認。油量至少半桶、建議約 3/4；帶足整日飲食。今天不加 Ćurevac 支線，讓環線有緩衝。",
-          "map": "https://www.google.com/maps/search/?api=1&query=ViS%20%C5%BDabljak",
-          "cost": "",
-          "official": "https://zabljak.travel/me/panoramski-putevi/",
-          "guide": {
-            "see": "沿線辨識棕色 Panoramic Road 2 指示，但每個岔路仍要確認。",
-            "history": "官方環線資料約 76 公里，加入支線可更長；它是雙向道路。官方音訊導覽按逆時針設計，露營車建議順時針，並不是普通車必須逆時針的交通法規。",
-            "story": "不必追求「跟所有車同方向」：對向一定可能有車、牲畜與工作車，慢速並預先看會車位置才重要。",
-            "tips": "雨霧、結冰、雷暴警示或在地勸阻任一出現就不跑；四驅也不能改善煞車抓地與能見度。"
+            "see": "看Tara深谷與對岸山坡；晴天的大尺度與黑湖近景互補。",
+            "history": "Tara是Durmitor世界遺產的重要峽谷地形，觀景台不在施工中的Tara Bridge上。",
+            "tips": "步道有石塊與邊緣暴露，雨後滑、強風或雲遮谷底就取消，不是「一定要」。"
           }
         },
         {
           "id": "mala",
-          "time": "08:00–09:15",
+          "time": "11:00–12:30｜条件式",
           "name": "Žabljak → Mala Crna Gora",
-          "description": "經北側高地向偏遠村落行駛，只在真正可停的地方下車。剛出城就遇濃霧，立刻原路折返，不以「前面也許會晴」賭完整環線。",
+          "description": "只有谷底能見度好、道路與火災警戒無問題、駕駛精神好才開往Mala Crna Gora。帶野餐，沿北側高地慢行；此路本身仍有高海拔與窄路，不是低風險平路。",
           "map": "https://www.google.com/maps/search/?api=1&query=Mala%20Crna%20Gora%20Montenegro",
           "cost": "",
           "guide": {
@@ -467,9 +614,9 @@
         },
         {
           "id": "susica",
-          "time": "09:15–10:30",
-          "name": "Sušica Canyon → Nedajno",
-          "description": "下切峽谷再上升至 Nedajno，高差與會車是這段重點。安排一次 15–20 分鐘安全觀景，其餘時間留給慢開。",
+          "time": "12:30–13:30｜到安全觀景處折返",
+          "name": "Sušica 方向｜不預設跨到 Nedajno",
+          "description": "主方案僅從Mala Crna Gora一侧可安全到達的觀景位置看谷，13:30前開始原路返回。若想下谷底或到Nedajno，必須刪Zminje並另外保留約3–4小時往返與停靠；不把到Nedajno當成已回到Žabljak。",
           "map": "https://www.google.com/maps/search/?api=1&query=Nedajno%20Montenegro",
           "cost": "",
           "official": "https://nparkovi.me/parks/Durmitor/active_holidays",
@@ -481,71 +628,40 @@
           }
         },
         {
-          "id": "trsa",
-          "time": "10:30–12:15",
-          "name": "Nedajno → Trsa｜提早午餐",
-          "description": "午餐最多 45–60 分鐘，Milogora 一帶餐館作候選，未確認營業時吃自備餐。不要下切至 Plužine 湖岸。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Milogora%20Trsa%20Montenegro",
-          "cost": "餐館預算 €10–18／人；備糧已列採買預算",
-          "booking": "想吃慢烤羊肉需前一天確認供應；不為等一鍋肉拖過山口的合適天氣窗口。",
-          "guide": {
-            "see": "看高原牧地與聚落如何相連，試起司、酸奶與一道當地熱食即可。",
-            "history": "這是高地牧業文化的一站，乳製品與耐儲存食物比海岸海鮮更貼近環境。",
-            "story": "同一道 kačamak，各家奶製品比例與口感可不同；適合共享比較，不必把菜單每樣點齊。",
-            "tips": ""
-          }
+          "id": "north-return",
+          "time": "13:30–16:00",
+          "name": "原路返回 Žabljak",
+          "description": "預留慢車、會車及短休息；不從Nedajno臨時接受不明捷徑，不為不重複南段而走未確認支路。",
+          "map": "https://www.google.com/maps/search/?api=1&query=%C5%BDabljak%20Montenegro"
         },
         {
-          "id": "prutas",
-          "time": "12:15–14:00",
-          "name": "Pišče → Todorov Do／Prutaš",
-          "description": "保留山谷觀景時間，停止額外支線。若雲開始壓低，在還有安全回撤選項時作決定，不能把「快到山口」當成硬闖理由。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Pruta%C5%A1%20viewpoint%20Durmitor",
+          "id": "zminje",
+          "time": "替代北段；不加碼",
+          "name": "Mlinski Potok → Zminje Lake",
+          "description": "只有放棄Mala Crna Gora／Sušica北段，且無雷雨、林道可走時，才從黑湖往返Zminje。單程60–80分鐘，含休息留至少2.5–3小時；不要排08:10–10:20後又假設10:30已能開車去Ćurevac。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zminje%20jezero%20Durmitor",
           "cost": "",
-          "official": "https://parkpiva.com/listing/prutas-2393m/",
+          "transport": "由黑湖走標示步道，依實走路線全日可達約 8–10 公里、4–5 小時。",
           "guide": {
-            "see": "Prutaš 的傾斜層狀岩紋與草坡形成對比；用中焦拍層理，比只用超廣角更能看清。",
-            "history": "石灰岩層曾形成於古海洋環境，後來經構造運動抬升、傾斜，再受侵蝕塑形。今天的高山因此也保存海洋沉積的歷史。",
-            "story": "山峰條紋像被折起的書頁：這是理解地質時間的線索，不只是奇特花紋。",
-            "tips": "只在公路旁安全停靠觀景；今天不是 Prutaš 登頂行程。"
+            "see": "沿溪谷看森林、潮濕地面與湖邊倒木；小湖適合安靜停留，不是追求巨大山峰全景。",
+            "history": "Durmitor 的地形同時受到冰河、流水與石灰岩溶蝕影響。Zminje 隱在森林，與開闊的黑湖形成不同尺度的湖泊經驗。",
+            "story": "Mlinski Potok 的名字與磨坊溪相關，提醒這不是只有現代遊客使用的森林；水流也曾是地方日常生產的一部分。",
+            "tips": "樹根、濕石很滑。岔路看步道標記與離線健行圖；Google 道路導航不能代替步道圖。"
           }
-        },
-        {
-          "id": "sedlo",
-          "time": "14:00–15:15",
-          "name": "Dobri Do → Sedlo｜山口短停",
-          "description": "先經 Dobri Do 一帶再到 Sedlo，避免原案把 Dobri Do 放在山口後造成回頭。山口停約 20–30 分鐘，風雨起就直接走。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Sedlo%20Durmitor",
-          "cost": "",
-          "official": "https://nparkovi.me/parks/Durmitor/active_holidays",
-          "guide": {
-            "see": "看道路曲線、草坡與裸岩山體，車輛與人能提供尺度，但不要站在車道擺拍。",
-            "history": "Sedlo 公路山口約 1,907 公尺；別與旁邊海拔更高的 Sedlena Greda 山峰混淆。",
-            "story": "這裡也是高山健行出發區，所以車上看到的「很近的山頂」未必容易走到。Bobotov Kuk 仍屬困難路線，本次不加登頂。",
-            "tips": "有雷聲、低雲或強風就不下車久留；不要在山口等待日落。"
-          }
-        },
-        {
-          "id": "ring-return",
-          "time": "15:15–17:00",
-          "name": "Pošćenska 谷地 → Žabljak",
-          "description": "順路返回，不再繞湖岸或滑雪場。17:00 前回城是目標，留出洗澡、早晚餐與明日道路查核。",
-          "map": "https://www.google.com/maps/search/?api=1&query=%C5%BDabljak%20Montenegro",
-          "cost": "入園範圍／驗票依現場；暫留 €5／人作第二日預算"
         },
         {
           "id": "r10-check",
           "time": "17:00–18:00",
           "name": "確認明天 R10 與 Kula",
-          "description": "問題要問清楚：「明天從 Žabljak 到 Đurđevića Tara 南岸，經 Dobrilovina／Sokolovina 到 Mojkovac，小客車是否全程可走？有沒有封閉時段？」只問 Tara Bridge 會得到另一件事的答案。",
+          "description": "9/14仍不跨Tara Bridge。南岸R10／Dobrilovina／Sokolovina需要當日確認；舊替代公告證明道路連接方向，不保證下週一沒有落石或管制。晚上核對，不到橋邊才決定。",
           "map": "https://www.google.com/maps/search/?api=1&query=%C5%BDabljak%20Montenegro",
           "cost": "",
           "official": "https://amscg.org/",
           "booking": "若沒有明確通行確認，今晚選定替代路線與提早出發時間，不到橋邊才臨時決定。"
         }
       ],
-      "rainPlan": "取消完整環線。若沒雷雨且步道可行，在前日未完成的黑湖短走；或 10:00 到主辦允許的公共區域看完賽儀式。不要把上午 10:00 儀式、完整 Ring、晚餐都排進同一天。 若煙霧明顯、戶外空污嚴重或有官方火災警戒，同樣取消長步行／環線，不把看得到湖面當成空氣安全證明。",
-      "cutPlan": "環線中段天气轉差按安全路況折返或沿已確認出口離開；不為省幾公里接受導航未查核的小路。晚餐簡化，保留跨境前睡眠。"
+      "rainPlan": "低雲只留黑湖近景；雷暴／明顯煙霾則不健行。若週日也不合格，刪北段，不能因今天是最後一天硬開。",
+      "cutPlan": "主線保留黑湖＋Ćurevac；依序刪Zminje、谷底／Nedajno、Mala Crna Gora。Sedlena Greda不列本次主行程，雨後岩面與暴露路段不因爬升少就變容易。"
     },
     {
       "id": "mn14",
@@ -837,6 +953,21 @@
       "title": "Klix：9/7 Presjenica 火災",
       "url": "https://www.klix.ba/vijesti/bih/veliki-pozar-kod-trnova-prosirio-se-na-minsko-polje-vatrogasci-ga-opkolili-da-zastite-objekte/260907181",
       "checked": "2026-09-10"
+    },
+    {
+      "title": "2026 賽事手冊重新下載核對：T1／T2／黑湖終點",
+      "url": "https://blackxtri.com/s/BLACKLAKE-Event-manual-2026.pdf",
+      "checked": "2026-09-11"
+    },
+    {
+      "title": "UNESCO 組成點與精確座標",
+      "url": "https://whc.unesco.org/en/list/1504/maps/",
+      "checked": "2026-09-11"
+    },
+    {
+      "title": "UNESCO stećci 背景",
+      "url": "https://whc.unesco.org/en/list/1504/",
+      "checked": "2026-09-11"
     }
   ],
   "budgetNote": "兩人四天先留約 €330–515，涵蓋上表一般餐飲、採買、暫估入園停車及 €120–165 燃油；不含住宿、原租車費、額外保險、包車、Zipline 與大繞路高速費。這是留餘裕的旅費範圍，不是已訂服務的總報價。餐飲列每日預算與採買列有重疊說明，合計時不能把採買再次加進去。"

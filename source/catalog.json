@@ -2,7 +2,7 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-09-10"
+    "updated": "2026-09-11"
   },
   "countries": [
     {
@@ -93,7 +93,7 @@
       ],
       "start": "2026-09-11",
       "end": "2026-09-14",
-      "verified": "2026-09-10",
+      "verified": "2026-09-11",
       "status": "依天氣調整",
       "tags": [
         "自駕",
@@ -103,7 +103,7 @@
       ],
       "content": "content/montenegro-north-2026.json",
       "timeZone": "Europe/Podgorica",
-      "important": "9/11 06:30 出發：Sumbulovac → Podromanija → Rogatica → Ustiprača → Goražde → Foča → Hum → Piva → Jasenovo Polje → Šavnik。目標17:00–18:00入住；濃煙或封路不硬闖。9/14南岸R10仍須確認。",
+      "important": "9/11 南段 Trsa–Sedlo 已完成。9/12 休息／安全空檔看草原墓碑，三鐵04:30黑湖起跑；9/13黑湖＋Ćurevac，北段需計原路返回。9/14不跨Tara Bridge，南岸R10仍需確認。",
       "days": [
         {
           "id": "mn11",
@@ -113,12 +113,12 @@
         {
           "id": "mn12",
           "date": "2026-09-12",
-          "label": "黑湖與限定賽事"
+          "label": "三鐵與草原文化"
         },
         {
           "id": "mn13",
           "date": "2026-09-13",
-          "label": "環線／雨天備案"
+          "label": "黑湖與北段往返"
         },
         {
           "id": "mn14",
