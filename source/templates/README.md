@@ -28,3 +28,7 @@
 ## 內容總覽區（選配）
 
 trip-detail 可加入 overview 陣列，置於每日行程前。每區使用 id、title、paragraphs、links（title/url），可加 table（headers/rows）。適合天氣、道路比較、補貨與預約；仍沿用共用版型，不新增功能工具列。數值須標明查核日期、估算或未確認，不能把舊年度價格當成可預訂報價。
+
+## 同一天保留多方案（選配）
+
+在 day 加入 alternatives 陣列，每個方案使用唯一 id、title、sections。sections 支援 title、paragraphs、table（headers/rows）、links（title/url）及 guide（段落陣列，折疊按鍵為「導覽」）。原 day.stops 完整保留為方案 A；新增方案獨立顯示並支援深層連結，不新增工具列。替代方案須說清適用條件、時間、票務及停車的確認程度，不能把未確認收費當成免費。

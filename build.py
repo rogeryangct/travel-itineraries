@@ -46,6 +46,23 @@ def render_structured(t,d):
         parts.append('</section>')
     for day in d['days']:
         parts.append('<section class="day" id="'+esc(day['id'])+'"><span class="tag">'+esc(day['date'])+'</span><h2>'+esc(day['title'])+'</h2><p>'+esc(day.get('summary',''))+'</p>')
+        if day.get('alternatives'):
+            parts.append('<nav><a href="#'+esc(day['id'])+'-original-a">方案 A｜原行程</a>'+''.join('<a href="#'+esc(a['id'])+'">'+esc(a['title'])+'</a>' for a in day['alternatives'])+'</nav>')
+            for alternative in day['alternatives']:
+                parts.append('<section class="soft" id="'+esc(alternative['id'])+'"><h3>'+esc(alternative['title'])+'</h3>')
+                for section in alternative['sections']:
+                    parts.append('<h3>'+esc(section['title'])+'</h3>')
+                    parts.extend('<p>'+esc(p)+'</p>' for p in section.get('paragraphs',[]))
+                    if section.get('table'):
+                        table=section['table']
+                        parts.append('<div class="tablewrap"><table><thead><tr>'+''.join('<th>'+esc(h)+'</th>' for h in table['headers'])+'</tr></thead><tbody>')
+                        parts.extend('<tr>'+''.join('<td>'+esc(v)+'</td>' for v in row)+'</tr>' for row in table['rows'])
+                        parts.append('</tbody></table></div>')
+                    parts.extend('<a class="map" target="_blank" rel="noopener" href="'+url(a['url'])+'">'+esc(a['title'])+'</a>' for a in section.get('links',[]))
+                    if section.get('guide'):
+                        parts.append('<details><summary>導覽</summary>'+''.join('<p>'+esc(p)+'</p>' for p in section['guide'])+'</details>')
+                parts.append('</section>')
+            parts.append('<h3 id="'+esc(day['id'])+'-original-a">方案 A｜原行程（保留）</h3>')
         for stop in day['stops']:
             sid=stop['id'];gid='guide-'+sid
             parts.append('<div class="slot" id="'+esc(sid)+'"><div class="time">'+esc(stop['time'])+'</div><div><h3>'+esc(stop['name'])+'</h3><p>'+esc(stop['description'])+'</p>')
