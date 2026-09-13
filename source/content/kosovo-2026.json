@@ -1,0 +1,962 @@
+{
+  "overview": [
+    {
+      "id": "ks-stays",
+      "title": "住宿與已預約活動｜9/13 整合版",
+      "paragraphs": [
+        "本版取代貼文中的 Skyline Apartment 1 舊住宿安排；保留既有 Montenegro 行程與導覽，9/14 起以這份接續版的住宿及抵達安排為準。全部時間為當地時間（UTC+2）。",
+        "9/15 08:00 Via Ferrata 已預約。先前紀錄為保留 BNA（Balkan Natural Adventure）；路線 Shpellat／Ari 依嚮導、能力與天氣決定，MAT 可能施工，不能把原草稿的「固定 Mat」當成最終確認。活動預約時間已確定，不代表 Zipline、接送或早餐已確認。",
+        "BNA 先前回覆私人兩人團 €35／人，共 €70；4 人以上若成功併團為 €30／人。飯店代訂價格與合作業者尚待回覆，沒有把未確認的較低價格取代既有預約。"
+      ],
+      "table": {
+        "headers": [
+          "日期",
+          "住宿",
+          "動線與確認事項"
+        ],
+        "rows": [
+          [
+            "9/14–15",
+            "Hotel Chalet Kujta Apartment｜Rugove",
+            "山區住宿；先在 Peja 採買／遊覽，再沿峽谷入住。早餐與集合點尚待確認。"
+          ],
+          [
+            "9/15–17",
+            "Skyline Serenity Apartment｜Prizren",
+            "連住兩晚；請以房東指定停車入口為準。"
+          ],
+          [
+            "9/17–18",
+            "SKP-091 a&b｜Skopje",
+            "市中心住宿；車位、入口與提前寄放行李待房東確認。"
+          ],
+          [
+            "9/18–20",
+            "RUPE Apartments｜Ohrid",
+            "9/18 經 Matka 銜接；此版僅納入移動與入住安排。"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ks-booking",
+      "title": "9/15 08:00｜預約與出發前核對",
+      "paragraphs": [
+        "固定：9/15（二）08:00 集合。尚未取得可核對的集合定位、嚮導聯絡方式、接送、裝備包含項目與天氣退款文字；以業者最終訊息為準，不把 Edit Durham 辦公室地址當作必然集合點。",
+        "9/14 晚上一次核對：實際路線、集合 pin、是否自行開車、預計結束時間、頭盔／安全帶／雙鉤緩衝繩、Zipline 是否另付、付款方式與雨天處理。",
+        "Chalet Kujta 位於 Rugova 的 Shtupeq i Madh 一帶，並非 Peja 市中心。早餐時段尚未確認；不能預設 07:00 開餐，更不能預設吃完飯店早餐就來得及 08:00。若餐期太晚，前一天買早餐，或請飯店確認能否提前供餐。",
+        "暫定 06:15 起床、06:30 早餐與退房、07:00 左右離開；抓 45–60 分鐘交通及停車緩衝、07:45 到集合點。這是集合 pin 未取得前的保守占位，收到定位後重算，若業者在近處接送則可放寬。",
+        "首次體驗優先請嚮導評估 Ari 或可開放的入門線；Shpellat 不因有健身習慣就自動適合。雷雨、濕滑岩面或強風時讓嚮導決定取消／改線，不自行操作或硬守預約。"
+      ]
+    },
+    {
+      "id": "ks-context",
+      "title": "四天看懂巴爾幹｜山地、信仰與城市記憶",
+      "paragraphs": [
+        "地景主線：Durmitor 喀斯特高原 → Rugova 石灰岩峽谷 → 西 Kosovo 平原 → Prizren 河岸商業城市 → Skopje 的 Vardar 河谷。每一座城的位置都與水源、交通與山口有關。",
+        "歷史可分五層閱讀：古代 Dardania 與羅馬／拜占庭世界；13–14 世紀塞爾維亞王國與東正教修道院；鄂圖曼巴扎、浴室與清真寺；1878 年阿爾巴尼亞民族政治運動與其後南斯拉夫時期；1998–1999 戰爭及 2008 年宣布獨立後的社會。國家地位在國際上仍有不同立場。",
+        "Peja／Peć、Deçan／Dečani、Gjakovë／Đakovica 是不同語言的地名，不是不同景點。導航可交叉搜尋；阿爾巴尼亞語與塞爾維亞語均為 Kosovo 官方語言。",
+        "UNESCO「Kosovo 中世紀古蹟」含四個組成點：Dečani、Peć、Gračanica 與 Our Lady of Ljeviš。本段可遇到其中三處，不為湊齊四處而繞道。其價值在東西方建築與壁畫交流，也反映活的宗教場所如何承載複雜歷史。",
+        "清真寺遮肩過膝並脫鞋，東正教教堂一般不脫鞋。進修道院帶證件，拍攝內部及信徒前先徵求同意。以開放、尊重的態度理解不同敘事，不需要在現場辯論主權。"
+      ]
+    },
+    {
+      "id": "ks-road",
+      "title": "自駕原則與路線衝突修正",
+      "paragraphs": [
+        "9/14 保留 Žabljak → Mojkovac → Rožaje → Kula／Kullë → Peja 的方向，但不能忽略前段既有 Tara Bridge／R10 通行限制。Mojkovac 之前走哪條路，應使用 Montenegro 章節的出發日路況核對及備案；本版沒有宣稱封路已解除。",
+        "Bijelo Polje 市中心不是強制途經點。前往 Rožaje 通常應核對 Ribarevine → Berane 的接續，避免為休息繞進 Bijelo Polje；若導航所選實際路線經城區才順停。",
+        "07:30 出發及 6.5–7.5 小時抵達 Peja，只適用順利通行、正常邊境的規劃窗；若必須採 Nikšić／Podgorica 大繞行，改更早出發並刪除下午所有遊覽，不能沿用同一抵達時間。到 Rugova 飯店另留山路時間。",
+        "核對現車車牌一致的車籍、租車書面跨境許可、Kosovo 與 North Macedonia 責任險，以及租車車損／道路救援範圍。少量歐元現金與離線地圖隨車。第三人責任險不等於租車全險；換過車要核對新車資料。",
+        "9/17 固定走 Prizren → R7 → R6 → Ferizaj／Kaçanik → Hani i Elezit／Blace → Skopje。不進 Pristina，不把 Prevalla／Brezovica 景觀山路列入主線；多出的時間留給唯一一晚 Skopje。",
+        "9/18 Matka 留在離開 Skopje 往 Ohrid 當天。北馬其頓公路局 2026/5/11 仍把 Kičevo–Ohrid 列為工程最後階段；這不是 9/18 即時通行保證，當天再核對公路公告，留施工與慢車緩衝。"
+      ]
+    },
+    {
+      "id": "ks-rain-options",
+      "title": "活動取消時的北側備案",
+      "paragraphs": [
+        "White Drin Waterfall 與 Sleeping Beauty Cave 在 Peja 北側 Radavc 一帶。只有攀爬取消且現場安全才安排，正常活動日不再折返。兩點門票／洞穴導覽時間未確認。",
+        "建議占位：08:30 瀑布、09:30 洞穴、11:30 Peja 午餐、13:05 Dečani。洞穴必須等正式業者帶領；大雨、路滑或停業時兩者一起刪除，改市區咖啡與提早南下。"
+      ],
+      "links": [
+        {
+          "title": "White Drin Waterfall｜地名搜尋",
+          "url": "https://www.google.com/maps/search/?api=1&query=White%20Drin%20Waterfall%20Radavc"
+        },
+        {
+          "title": "Sleeping Beauty Cave｜地名搜尋",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sleeping%20Beauty%20Cave%20Radavc"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "id": "ks14",
+      "date": "2026-09-14",
+      "title": "9/14 週一｜Durmitor → Peja → Rugova 山區住宿",
+      "summary": "今日先完成跨境與市區補給，再一路往 Chalet Kujta。取消「先入住市區公寓、晚上再逛 Peja」的舊動線。",
+      "stops": [
+        {
+          "id": "ks14-start",
+          "time": "07:30｜順利通行方案",
+          "name": "Žabljak 出發 → Mojkovac → Rožaje",
+          "description": "先核對 Montenegro 前段道路狀態。途中每約 1.5–2 小時短休息；油量須足以完成山口段並有餘量，不因過境就一定在黑山加滿。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zabljak%20Montenegro",
+          "transport": "",
+          "cost": "油費依現車與實際路線；不在本段餐飲預算內",
+          "guide": {
+            "see": "灰白石灰岩、針葉林與聚落密度的轉換。水沿岩石裂隙溶蝕，形成崖壁、洞穴與地下排水系統。",
+            "history": "Durmitor 與 Rugova 位在廣義迪納拉山地系統；高原與峽谷展示不同高度、侵蝕和冰河作用留下的地貌。",
+            "story": "山看似破碎，是岩性、構造與侵蝕共同作用，不只是「沒有土壤」。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks14-rest",
+          "time": "10:15–10:45｜彈性",
+          "name": "主路休息｜Ribarevine／Berane 方向",
+          "description": "咖啡、洗手間、補水；不為休息專程繞入 Bijelo Polje 市中心。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Ribarevine%20Montenegro",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "Lim 河谷交通與內陸聚落；不要期待 Kotor 式海岸老城。",
+            "history": "Bijelo Polje 意為白色田野；此區屬黑山北部內陸生活圈。",
+            "story": "烤肉、麵餅、優格與濃咖啡適合短暫補給。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks14-lunch",
+          "time": "12:00–12:40｜彈性",
+          "name": "Rožaje 簡單午餐",
+          "description": "Burek 配優格、豆湯／肉湯或少量烤肉；不要安排長餐。最後補水並整理證件。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Rozaje%20Montenegro",
+          "transport": "",
+          "cost": "規劃 €7–13／人",
+          "guide": {
+            "see": "山城的清真寺、商店與森林邊緣聚落。",
+            "history": "Rožaje 位於黑山內陸、多社群文化交會區，與海岸型 Montenegro 風貌不同。",
+            "story": "Burek 配優格是一份日常正餐，適合跨境日快速吃飽。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks14-border",
+          "time": "13:00–15:00｜非預報",
+          "name": "Kula／Kullë → Peja",
+          "description": "通關、低雲、慢車均可能延誤；不要以現時排隊推算明天。只走正式開放口岸與道路。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Kula%20border%20crossing%20Montenegro%20Kosovo",
+          "transport": "總駕駛＋休息＋通關，順利方案到 Peja 約 6.5–7.5 小時；飯店另加車程",
+          "cost": "",
+          "guide": {
+            "see": "從高地下降到西 Kosovo 較寬闊的平原，城市背後山牆仍十分突出。",
+            "history": "Peja／Peć 位在山區產品交易、宗教中心與現代戶外旅遊三種網絡的交會處。",
+            "story": "沿途海外車牌、新住宅與咖啡館，可作觀察移民及返鄉經濟的線索，不能由單棟房屋外觀斷定其資金來源。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks14-peja",
+          "time": "約15:00–15:45",
+          "name": "Peja 採買＋老城短走",
+          "description": "先選方便停車的超市買早餐、水、香蕉、雞蛋、麵包、番茄、小黃瓜、優格及 Rugova 起司。Viva Fresh／ETC 等僅為搜尋選項，以路線上實際店址為準。老巴扎只在準時抵達時走20–30分鐘。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Old%20Bazaar%20Peja",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "店舖、金工、食品與咖啡館共同構成生活巴扎；可順看 Bajrakli Mosque 外觀、Haxhi Zeka Mill 周邊。",
+            "history": "巴扎是鄂圖曼城市經濟與社交核心，不等於觀光夜市。Peja 老城經戰爭破壞及重建，今天仍服務居民。",
+            "story": "Qebapa 配洋蔥麵包、pite 餡餅與 flia 都可嘗試。Flia 需反覆分層烘烤，未必隨點隨有；起司較鹹，配蔬菜與麵包。",
+            "tips": "晚到先保留採買，省略老城；不要入住山區後再為巴扎折返。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks14-patriarchate",
+          "time": "16:00–16:45｜開放才去",
+          "name": "Patriarchate of Peć｜佩奇宗主教修道院",
+          "description": "先請住宿或業者確認當日可參觀，再沿途停靠；沒有可靠固定開放保證。帶護照，遮肩過膝。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Patriarchate%20of%20Pec",
+          "transport": "",
+          "cost": "入場／捐獻依現場；未確認",
+          "guide": {
+            "see": "相連教堂、圓頂、紅色外牆與不同年代壁畫；先看建築如何逐步擴建，再看室內圖像層次。",
+            "history": "13 世紀起的教堂群是塞爾維亞東正教的重要宗教中心，後續擴建保留多期藝術。它同時是 UNESCO 遺產與持續使用的信仰空間。",
+            "story": "下層聖人、中層故事、高處圓頂的天界形象，可作初步閱讀圖像的線索，但不是每面牆都遵循同一配置。",
+            "tips": "先詢問攝影；不碰壁畫、聖像與祭壇屏風，禮拜時安靜站後方。"
+          },
+          "booking": "",
+          "official": "https://whc.unesco.org/en/list/724/"
+        },
+        {
+          "id": "ks14-canyon",
+          "time": "16:45–17:30｜沿途",
+          "name": "Rugova Canyon → Chalet Kujta",
+          "description": "沿峽谷往住宿方向，在合法且能完整離開車道的位置短停；不額外深入 Bogë，也不在路彎停車拍照。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Rugova%20Canyon",
+          "transport": "Peja 至山區住宿暫留45–60分鐘含少量停靠，收到住宿 pin 後核對",
+          "cost": "",
+          "guide": {
+            "see": "用河流作引導線，讓岩壁、公路與橋梁入鏡；人物可以表現峽谷尺度。",
+            "history": "Lumbardhi i Pejës 河切入石灰岩山地，公路與河流共享狹窄谷底，岩壁裂隙及洞口可讀出水蝕作用。",
+            "story": "岩壁上的鋼索和踏點預告隔日活動；峽谷也連接山區牧業、森林與乳製品生活。",
+            "tips": "深峽谷可能提早遮光，不能保證日落前固定45分鐘仍有直射光。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks14-hotel",
+          "time": "17:30–18:30｜視通關",
+          "name": "Hotel Chalet Kujta Apartment 入住",
+          "description": "在 Rugove 住宿，晚餐就近解決。先整理隔日活動用品與退房行李，確認早餐時間及集合定位。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Hotel%20Chalet%20Kujta%20Rugove",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "山區木屋、林地與牧業景觀；晚上適合休息。",
+            "history": "Rugova 的山地旅遊與乳製品文化延續了山村和 Peja 平原間的交流。",
+            "story": "晚餐可問 qebapa、pite、flia 或當日湯品；不為必吃清單夜駕往返市區。",
+            "tips": "手機、行動電源充好；快乾長褲、抓地鞋、防風層、飲水與貴重物品整理在隨身包。"
+          },
+          "booking": "9/14–15 已安排；早餐、接送、活動代訂回覆待確認",
+          "official": ""
+        }
+      ],
+      "rainPlan": "大雨或山口濃霧時優先安全通行；取消峽谷停拍與市區觀光。抵達太晚就直接補給、入住。",
+      "cutPlan": "先刪峽谷停拍，再刪老城與修道院。若交通迫使大繞行，改更早出發並重新估算；天黑前無法安全到達時，不硬趕山路。"
+    },
+    {
+      "id": "ks15",
+      "date": "2026-09-15",
+      "title": "9/15 週二｜08:00 已預約冒險 → Dečani → Prizren",
+      "summary": "固定預約時間；實際路線由 BNA 確認。Gjakova、Zipline 與北側瀑布洞穴不能同時硬塞。",
+      "stops": [
+        {
+          "id": "ks15-breakfast",
+          "time": "06:15–07:00｜暫定",
+          "name": "早餐、退房、前往集合點",
+          "description": "若飯店早餐太晚，吃前一天買好的早餐；07:45 抵達為目標。收到業者集合 pin 後調整，不假設由飯店接送。",
+          "map": "",
+          "transport": "暫留45–60分鐘交通與停車緩衝；依集合 pin 重算",
+          "cost": "",
+          "guide": null,
+          "booking": "早餐供應時段、接送與集合位置待確認",
+          "official": ""
+        },
+        {
+          "id": "ks15-ferrata",
+          "time": "08:00｜已預約；至約10:30–11:00",
+          "name": "BNA Via Ferrata｜Ari／Shpellat 待確認",
+          "description": "08:00 是集合與裝備說明時間，結束只是規劃估算；不把原稿08:30–10:30的Mat時長當成Shpellat保證。MAT 可能施工，優先請嚮導評估適合首次體驗的開放路線。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Rugova%20Canyon",
+          "transport": "",
+          "cost": "既有 BNA 回覆 €35／人、兩人 €70；4+人成功併團 €30／人，未預設已成團",
+          "guide": {
+            "see": "在安全停靠點觀察水蝕裂隙、洞口、河谷與稀疏岩壁植被。把手機收好，不在移動或換鉤時自拍。",
+            "history": "Via ferrata 是有固定鋼索、鐵踏點與梯子的岩壁路線；仍有墜落風險，需合適裝備及嚮導指導。Mat、Ari、Shpellat、Marimangat 的難度與特徵不同。",
+            "story": "原始選 Mat 的理由是保留體力；施工時應保留「適合能力」這個原則，而非直接升級難線。BNA 對首次參加 Shpellat 持較審慎建議。",
+            "tips": "穿戴與連接依嚮導示範及裝備規範；一次只移一鉤，保持保護與間距。用腿踩穩、少以手臂硬拉，出現恐懼或疲勞立即告知嚮導。"
+          },
+          "booking": "9/15 08:00 已預約；最終路線、集合 pin、裝備及交通包含項目待核對",
+          "official": "https://bnadventure.com/"
+        },
+        {
+          "id": "ks15-zip",
+          "time": "10:45–11:20｜可刪",
+          "name": "Rugova Zipline",
+          "description": "只在 Via Ferrata 準時結束、設施營業且天氣合格時參加；沒有列為已預約或已含費用。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zip%20Line%20Rugova",
+          "transport": "",
+          "cost": "規劃 €10–20／人，非確認報價",
+          "guide": {
+            "see": "橫越時看河谷寬窄、公路與崖壁比例，不只拍自拍影片。",
+            "history": "Zipline 與攀岩、健行等活動共同形成現代 Rugova 戶外旅遊。",
+            "story": "Via Ferrata 是慢速閱讀岩壁，Zipline 是快速感受谷地尺度；時間不足保留已預約核心。",
+            "tips": "聽從工作人員指令，出發前核對起終點與回到車輛方式。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks15-lunch",
+          "time": "11:35–12:15",
+          "name": "Peja 簡餐 → Dečani",
+          "description": "Burek＋優格、湯＋麵包或少量 qebapa。午餐後直接南下，活動若延誤先刪 Zipline。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Peja%20Kosovo",
+          "transport": "Peja 至修道院規劃約40–50分鐘，依實際路況",
+          "cost": "規劃 €6–12／人",
+          "guide": null,
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks15-decani",
+          "time": "13:05–14:20｜首選時窗",
+          "name": "Visoki Dečani Monastery",
+          "description": "保留完整藝術參觀時間；沿用官方訪客時窗09:30–14:30、15:30–17:30，當天仍需確認臨時管制。若趕不上上午時窗，先用餐休息等15:30，刪Gjakova並接受較晚入住。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Visoki%20Decani%20Monastery",
+          "transport": "",
+          "cost": "捐款與商店自選；未把不明票價寫成免費",
+          "guide": {
+            "see": "先看不同色調石材的水平層次、雕刻門窗與東方圓頂；進入後讓眼睛適應暗處，再看聖經敘事、王朝人物與最後審判主題。",
+            "history": "14世紀國王 Stefan Dečanski 的修道院與陵墓，融合羅馬式雕刻、哥德元素和拜占庭空間及壁畫，展示亞得里亞海工匠與內陸王權的交流。",
+            "story": "壁畫不只裝飾，也是信仰、王權與歷史的圖像系統。修道院仍有祈禱、農業與工藝生活，蜂蜜、起司、酒與聖像商店延續勞動傳統。",
+            "tips": "帶護照、預留入口查驗；遮肩過膝，內部拍照先問。勿拍警衛特寫或以政治話題打趣。"
+          },
+          "booking": "",
+          "official": "https://www.decani.org/en/"
+        },
+        {
+          "id": "ks15-gjakova",
+          "time": "15:00–16:00｜全條件成立才去",
+          "name": "Gjakova Old Bazaar｜選配",
+          "description": "僅活動無延誤、Zipline不用排隊、14:20前離開Dečani、天氣合格且駕駛有精神時加入。走老巴扎、Hadum Mosque 外觀、咖啡即可。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Old%20Bazaar%20Gjakova",
+          "transport": "",
+          "cost": "咖啡／小吃自選",
+          "guide": {
+            "see": "木造店面、庭院、金工與咖啡館；看Hadum Mosque與市場的空間關係。",
+            "history": "Gjakova 巴扎曾是重要手工業街區，1999年戰爭重創後重建。",
+            "story": "值得看的是商業、戰爭與文化重建如何疊在一條街，不只是漂亮木屋。",
+            "tips": "這是備選，不犧牲Prizren第一晚。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks15-checkin",
+          "time": "16:30–17:30｜目標",
+          "name": "Skyline Serenity Apartment 入住",
+          "description": "直接前往Prizren是首選。先處理停車與卸行李，兩晚以步行遊城。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Skyline%20Serenity%20Apartment%20Prizren",
+          "transport": "Dečani 直達Prizren規劃約1.5–2小時含緩衝；Gjakova短停會壓縮入住餘裕",
+          "cost": "",
+          "guide": null,
+          "booking": "9/15–17；請房東提供停車入口照片、是否保留車位、滿位替代點及取鑰匙次序",
+          "official": ""
+        },
+        {
+          "id": "ks15-river",
+          "time": "18:00–18:35",
+          "name": "League 外觀 → Marash 河岸",
+          "description": "今晚只看聯盟建築群外觀，沿河向老城散步，明天入館。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Marash%20Prizren",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "水岸樹蔭、山坡住宅與堡壘的相對位置。",
+            "history": "Prizren 位在 Sharr 山麓，河流連結平原與山地；Marash 是老城重要休憩地帶。",
+            "story": "清真寺、學校、商業與政治活動並非分開世界，聯盟建築群正反映這些網絡的交會。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks15-blue",
+          "time": "18:35–19:35｜光線依現場",
+          "name": "Sinan Pasha Mosque → Shadërvan → Stone Bridge",
+          "description": "先拍廣場與清真寺外觀，再在石橋旁河岸等黃昏與亮燈；不要為固定拍照分鐘數趕路。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Stone%20Bridge%20Prizren",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "從河岸斜角讓橋拱、清真寺與山坡同框；加入行人增加生活感。",
+            "history": "石橋是鄂圖曼老城跨河交通的一部分，曾受損重建。Shadërvan 的噴泉兼具供水、辨識與社交意義。",
+            "story": "藍調以日落後約10–25分鐘作攝影經驗值，實際受雲量、山勢與亮燈影響；橋正中央不一定是最好角度。",
+            "tips": "人像先取得同意；沿合法步道拍攝，不為低角度走入河道。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks15-dinner",
+          "time": "19:30–20:30",
+          "name": "老城晚餐",
+          "description": "試 Tavë Prizreni、flia、釀甜椒、qebapa 或 suxhuk，配 Shopska salad。甜點選 trileçe／baklava；flia先問供應。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Shadervan%20Prizren",
+          "transport": "",
+          "cost": "規劃 €10–18／人",
+          "guide": {
+            "see": "看家庭、朋友與情侶反覆沿河散步，廣場是社交空間。",
+            "history": "Prizren同時保存東正教、天主教、伊斯蘭與阿爾巴尼亞民族運動的城市記憶。",
+            "story": "咖啡館不必急著喝完離開；Kosovo macchiato常比義式版本更奶、更像一杯慢慢聊的咖啡。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        }
+      ],
+      "rainPlan": "若取消攀爬：早晨退房後視雨勢選 White Drin Waterfall／Sleeping Beauty Cave，再 Peja 午餐、Dečani、Prizren。暴雨時瀑布步道可能濕滑、洞穴可能停開；只有業者確認開放且道路安全才去，否則直接市區室內休息。",
+      "cutPlan": "先刪 Gjakova，再刪 Zipline。保留08:00預約與Dečani可參觀時窗；天候不安全則攀爬取消。若只能15:30進修道院，Prizren黃昏改夜景，不趕車。"
+    },
+    {
+      "id": "ks16",
+      "date": "2026-09-16",
+      "title": "9/16 週三｜Prizren 歷史老城與堡壘黃昏",
+      "summary": "整天步行。把建築視為不同時期的城市記憶；下午留休息時間，再上堡壘。",
+      "stops": [
+        {
+          "id": "ks16-dawn",
+          "time": "06:45–08:00",
+          "name": "清晨 Stone Bridge → Shadërvan → Marash",
+          "description": "人少時拍橋與清真寺，留意店家開門、麵包出爐與居民第一杯咖啡。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Stone%20Bridge%20Prizren",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "清晨低角度光、山坡層次、清掃街道與居民的日常。",
+            "history": "石橋、河流、堡壘構成Prizren最容易閱讀的城市骨架。",
+            "story": "不用一直等待完全無人的空景；經同意拍到日常人物，常比明信片式照片更有城市感。",
+            "tips": "9月清晨光線受地形影響；06:45是出門窗，不保證那一刻已順光。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-breakfast",
+          "time": "08:00–09:10",
+          "name": "早餐與 Kosovo macchiato",
+          "description": "Burek／pite、優格，或雞蛋、起司與麵包；慢慢喝一杯咖啡。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Shadervan%20Prizren",
+          "transport": "",
+          "cost": "規劃 €4–8／人",
+          "guide": null,
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-league",
+          "time": "09:30–10:45",
+          "name": "Albanian League of Prizren Museum",
+          "description": "若尚未開館先看建築群，再與上午其他點對調；票價及當天時間以入口公告為準。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Albanian%20League%20of%20Prizren%20Museum",
+          "transport": "",
+          "cost": "原規劃 €1–3／人，未核實2026票價；備現金",
+          "guide": {
+            "see": "先讀1878年與人物／地圖，再看建築群如何結合宗教、教育與政治空間。",
+            "history": "1877–1878俄土戰爭後，巴爾幹領土重劃。1878年6月10日Prizren的集會最初重在領土防衛，後來發展阿爾巴尼亞自治與民族政治訴求。",
+            "story": "不要把它簡化成2008年Kosovo獨立博物館：它處理的是更早、跨今日國界的阿爾巴尼亞民族形成。讀展板時把地方、宗教、帝國與民族四種身份分開思考。",
+            "tips": "展覽多從阿爾巴尼亞民族史出發；比較地圖年代與用詞，比單純背英雄姓名更有收穫。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-hamam",
+          "time": "11:00–11:40",
+          "name": "Gazi Mehmet Pasha Hamam",
+          "description": "先看多圓頂屋頂；內部依展覽、修繕與開放狀況，無法進入則看外觀。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Gazi%20Mehmet%20Pasha%20Hamam%20Prizren",
+          "transport": "",
+          "cost": "內部票價依當期展覽，未確認",
+          "guide": {
+            "see": "多個大小圓頂對應更衣、溫浴、熱浴等空間；屋頂小孔引光並維持隱私。",
+            "history": "16世紀鄂圖曼公共浴室屬男女分區的雙浴室類型。其角色包括清潔、宗教潔淨、婚前儀式與社交，不只是泡澡。",
+            "story": "可把傳統更衣休息 → 溫暖過渡 → 熱浴 → 小浴間的動線，與地板下加熱系統一起想像。隔日Skopje的Daut Pasha Hamam可作比較。",
+            "tips": "不把舊建築的用途當成現場仍有浴場服務。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-sinan",
+          "time": "11:45–12:30｜避開禮拜",
+          "name": "Sinan Pasha Mosque 內部",
+          "description": "今天重點看空間、光線與彩繪；遇禮拜就延後或只看外觀。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Sinan%20Pasha%20Mosque%20Prizren",
+          "transport": "",
+          "cost": "捐獻自選；現場規則為準",
+          "guide": {
+            "see": "大圓頂、吊燈、窗光、指向麥加的 mihrab 壁龕、講道的 minbar 講壇，以及花卉、幾何與書法。",
+            "history": "建於17世紀初，通常以1615年為建成年份。不同修繕階段留下彩繪層次，不能把全室色彩都當成同時完成。",
+            "story": "宗教空間的視覺中心多為文字、幾何與植物紋樣。這可與前一天Dečani的人物敘事壁畫比較：兩種藝術用不同方式建立神聖空間。",
+            "tips": "遮肩過膝、脫鞋，女性備頭巾依現場要求；不直接拍正在禮拜的人。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-lunch",
+          "time": "12:40–14:00",
+          "name": "午餐｜補上在地料理",
+          "description": "若前晚沒吃到，問 Tavë Prizreni 或 flia；搭配蔬菜與沙拉，不必連吃兩餐大份烤肉。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Shadervan%20Prizren",
+          "transport": "",
+          "cost": "規劃 €8–15／人",
+          "guide": null,
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-ljevis",
+          "time": "14:00–14:25",
+          "name": "Our Lady of Ljeviš｜外觀優先",
+          "description": "不能預設自由入內；如希望看壁畫，先經當地聯繫確認。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Our%20Lady%20of%20Ljevis%20Prizren",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "磚石交錯、拱券、不同施工階段與教堂周圍的現代城市。",
+            "history": "14世紀初國王Milutin在更早宗教建築基礎上重建，後曾轉作清真寺，再恢復教堂用途。壁畫是晚期拜占庭藝術的重要例證，列入UNESCO中世紀古蹟群。",
+            "story": "同一建築的用途變化，呈現政權、社群與信仰交錯；不把來源未充分證實的古代神廟細節當成必然史實。",
+            "tips": "以外觀參觀為預設，尊重保護措施；想看內部先安排，不在門口臨時爭取。"
+          },
+          "booking": "",
+          "official": "https://whc.unesco.org/en/list/724/"
+        },
+        {
+          "id": "ks16-george",
+          "time": "14:30–14:50",
+          "name": "St. George Orthodox Cathedral",
+          "description": "外觀為主，留意主教座堂與附近更早教堂的不同尺度。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Saint%20George%20Cathedral%20Prizren",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "院落、教堂量體與鄰近街區的相對位置。",
+            "history": "現有較大的主教座堂屬19世紀建築，提醒Prizren在鄂圖曼晚期仍有東正教社群。",
+            "story": "宗教多樣性不只存在郊外修道院，也在老城街巷中；今天的人口與可見古蹟不一定一一對應。",
+            "tips": "遇關門安靜看外觀即可。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-catholic",
+          "time": "14:55–15:15",
+          "name": "Cathedral of Our Lady of Perpetual Succour",
+          "description": "觀察Prizren的天主教社群歷史；沿步行路線慢慢走。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20Our%20Lady%20of%20Perpetual%20Succour%20Prizren",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "外牆、鐘樓與街區尺度；不要把它與東正教座堂混淆。",
+            "history": "阿爾巴尼亞族群並非全部信伊斯蘭教，天主教社群也是其歷史的一部分。",
+            "story": "這能幫助理解隔日Mother Teresa：出生地、語言、宗教與國族不是同一組分類。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-arasta",
+          "time": "15:15–15:30",
+          "name": "Arasta Minaret → 手工藝／甜點",
+          "description": "短看宣禮塔，再回住宿休息。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Arasta%20Minaret%20Prizren",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "孤立宣禮塔與周邊商業街的反差。",
+            "history": "Arasta 指與市場相關的商業空間；殘存建築構件留下城市改造前的座標。",
+            "story": "城市不是保存完整的展示櫃；火災、拆除、戰爭與重建造成今天看見的斷裂與拼接。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-rest",
+          "time": "15:30–16:45",
+          "name": "回 Skyline Serenity 休息",
+          "description": "補水、充電、換抓地鞋；堡壘要走陡坡石路。",
+          "map": "",
+          "transport": "依房東實際地址安排步行；不重新開車入老城",
+          "cost": "",
+          "guide": null,
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-fortress",
+          "time": "17:00左右出發｜至日落後20分鐘",
+          "name": "Prizren Fortress｜城市全景",
+          "description": "預留上坡約25–40分鐘、頂部拍照與安全下山。原稿16:30可以提早上山，但不是「日落前75分鐘」的精確換算；若想少等，按手機當日日落時間往前推75分鐘出發。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Prizren%20Fortress",
+          "transport": "",
+          "cost": "門票／臨時限制依現場；未核實固定收費",
+          "guide": {
+            "see": "老城屋頂、河流、石橋、清真寺與遠山的空間關係。拍西方落日與拍城市／Sharr山景是不同方向，不必強求同框。",
+            "history": "這座高地保留多時期防禦利用，包含晚期古代、中世紀與鄂圖曼的變化，並非一次建成的城堡。",
+            "story": "從上面讀懂城市：山口帶來交通、河流帶來水源、平原提供農業腹地、橋梁聚集交易，宗教建築則呈現不同社群。黃昏看山坡變暗、宣禮塔與河岸逐步亮燈。",
+            "tips": "手機照明充足；天雨石路滑就取消。不把日落後拍照的20分鐘算成已回到老城，另留25–40分鐘下山。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks16-dinner",
+          "time": "19:45–21:00｜依下山時間",
+          "name": "河岸晚餐與慢散步",
+          "description": "保留第二晚Prizren生活感；喝咖啡或吃trileçe，回住宿整理隔日行李。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Shadervan%20Prizren",
+          "transport": "",
+          "cost": "規劃 €10–18／人",
+          "guide": null,
+          "booking": "",
+          "official": ""
+        }
+      ],
+      "rainPlan": "博物館與宗教建築在正常開放時優先；堡壘移到乾燥時段，整天下雨則刪除。Autostrada Hangar 僅在確認9/16有適合展覽與開放時間後替換下午街區段；本版未確認該日節目，沒有沿用「沒有活動」的舊斷言。",
+      "cutPlan": "午后先縮短手工藝與外觀點，保留休息。堡壘天候合格才去，不為趕日落奔跑。"
+    },
+    {
+      "id": "ks17",
+      "date": "2026-09-17",
+      "title": "9/17 週四｜R7＋R6 → Skopje 完整半日",
+      "summary": "取消Pristina與Prevalla主線；Skopje只住一晚，把下午和老巴扎夜晚留完整。",
+      "stops": [
+        {
+          "id": "ks17-start",
+          "time": "07:15–08:30",
+          "name": "Prizren 早餐、最後散步、退房",
+          "description": "只補拍平地景點，不再上堡壘。08:30出發，導航逐段確認R7轉R6，不把Pristina市中心設為途經。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Prizren%20Kosovo",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "離城後注意平原向中部交通走廊延伸，再由Kaçanik谷地向南。",
+            "history": "道路與鐵路長期利用Kaçanik的狹窄天然通道連接Kosovo盆地與Vardar谷地。",
+            "story": "Pristina的Newborn、國家圖書館與咖啡文化有其價值，但本次加入它會耗掉Skopje唯一的下午。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-road",
+          "time": "08:30–約11:00",
+          "name": "R7 → R6｜Ferizaj／Kaçanik 短休",
+          "description": "約10:15視需要在主路可合法進出的服務點停15–20分鐘，咖啡、洗手間、補油；不進Ferizaj觀光。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Kacanik%20Kosovo",
+          "transport": "規劃窗含短休，非即時導航；高速公路出口與匝道依標誌",
+          "cost": "加油與可能道路費用另備小額現金，不宣稱全程免費",
+          "guide": null,
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-border",
+          "time": "11:00–12:30｜緩衝窗",
+          "name": "Hani i Elezit／Blace 邊境",
+          "description": "整日排程保留至少一小時機動，正常可能更快；核對北馬其頓保險與租車跨境許可。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Hani%20i%20Elezit%20border%20crossing",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "過境後馬其頓語西里爾字母增加，阿爾巴尼亞語仍常見；道路與河谷聚落的變化。",
+            "history": "Han 概念與鄂圖曼商旅驛站有關，地名顯示交通節點在這一帶的長期重要性。",
+            "story": "國界切換不代表文化立即整齊分開；Skopje同樣有多語、多宗教的城市空間。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-checkin",
+          "time": "13:00–14:30",
+          "name": "SKP-091 a&b 入住／寄放行李",
+          "description": "先停好車再步行。原行程所列Dimitrie Chupovski 23仍須與房東實際pin比對，不預設門口可免費停車。",
+          "map": "https://www.google.com/maps/search/?api=1&query=SKP-091%20a%26b%20Skopje",
+          "transport": "",
+          "cost": "",
+          "guide": null,
+          "booking": "9/17–18；需確認保留車位、費用、限高、入口照片、先取鑰匙或先停車、提前寄放行李與9/18退房後停車規則",
+          "official": ""
+        },
+        {
+          "id": "ks17-teresa",
+          "time": "15:00–15:40",
+          "name": "Mother Teresa Memorial House",
+          "description": "入館看家庭、宗教與慈善工作；如臨時不開放則看外觀，繼續Macedonia Street。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mother%20Teresa%20Memorial%20House%20Skopje",
+          "transport": "",
+          "cost": "官方旅遊資料列免費，臨時展覽與規則依現場",
+          "guide": {
+            "see": "照片、文字與小教堂；紀念館不是她完整保留的出生住宅。",
+            "history": "Mother Teresa於1910年生於Skopje的阿爾巴尼亞天主教家庭，當時城市仍屬鄂圖曼帝國，後在印度從事宗教與慈善工作。",
+            "story": "她的家庭語言、宗教、出生地與工作地跨越今日國界。用複合身份理解她，比只問「是哪一國人」更貼近巴爾幹歷史。",
+            "tips": "官方旅遊頁列平日09:00–20:00、週末09:00–14:00；9/17是週四，但臨時活動仍可能調整。"
+          },
+          "booking": "",
+          "official": "https://memorialhouseofmotherteresa.com/"
+        },
+        {
+          "id": "ks17-square",
+          "time": "15:45–16:20",
+          "name": "Macedonia Street → Macedonia Square",
+          "description": "觀察大型雕像與仿古典外觀，不需要逐座停。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Macedonia%20Square%20Skopje",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "雕像、圓柱、立面尺度與行人活動之間的反差。",
+            "history": "Skopje經1963年大地震及國際重建，留下南斯拉夫現代主義；21世紀Skopje 2014又增添大量紀念性雕塑與仿古立面。",
+            "story": "城市景觀是多次重寫的結果。可思考公共建築如何建立國家形象，也如何引發美學、成本與歷史詮釋的討論。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-bridge",
+          "time": "16:20–16:40",
+          "name": "Stone Bridge｜跨 Vardar 河",
+          "description": "從廣場南岸走向北岸老巴扎；晚上回程再拍亮燈。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Stone%20Bridge%20Skopje",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "南岸寬廣場、大雕像與新立面；北岸小店、han、hamam、清真寺和窄巷。",
+            "history": "現有橋梁主要承接鄂圖曼時期的形態，歷經災害與修繕，仍是Skopje核心跨河連結。",
+            "story": "幾分鐘步行就能比較不同尺度與歷史層次；兩岸不是完全隔離的族群分界，只是最直觀的城市對比。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-hamam",
+          "time": "16:40–17:00",
+          "name": "Daut Pasha Hamam",
+          "description": "今晚以外觀為主；若要看美術館內部，先確認當日售票與閉館時間並壓縮後段。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Daut%20Pasha%20Hamam%20Skopje",
+          "transport": "",
+          "cost": "入展票價待確認，外觀不等於已入館",
+          "guide": {
+            "see": "多圓頂屋頂與厚牆形成的量體。",
+            "history": "15世紀鄂圖曼浴室後轉作藝術展示空間，原本不同溫度與用途的房間在外觀仍留有線索。",
+            "story": "與Prizren的Hamam比較公共清潔、社交與當代再利用，不用以「哪個更大」判定城市文化高低。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-hans",
+          "time": "17:00–17:30",
+          "name": "Kapan Han → Suli Han 與老巴扎巷道",
+          "description": "看可進入的庭院、石巷與商店；庭院若關閉就繼續步行。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Kapan%20Han%20Skopje",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "中央院落、厚牆、入口及上下層的空間分工；Suli Han同樣可觀察商旅建築再利用。",
+            "history": "Han是前現代的物流基地，常結合住宿、貨物存放、牲畜安置與交易。各建築實際格局依年代和後續改造而異。",
+            "story": "把它想像成旅館、倉庫與商務中心的組合，就能理解它為何緊鄰市場與交通路徑。",
+            "tips": "店舖、展間與私人空間不要預設都能自由進入。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-mustafa",
+          "time": "17:30–18:00",
+          "name": "Mustafa Pasha Mosque",
+          "description": "在老巴扎上方安靜庭院停留；內部避開禮拜。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mustafa%20Pasha%20Mosque%20Skopje",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "大圓頂、門廊、宣禮塔與庭院的比例。",
+            "history": "建於1492年的鄂圖曼清真寺，是Skopje重要歷史宗教建築。",
+            "story": "與Prizren的Sinan Pasha比較：前者庭院平台較安靜，後者與河岸天際線的關係更突出。",
+            "tips": ""
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-kale",
+          "time": "18:05–19:00｜可刪",
+          "name": "Kale Fortress 外圍或 Stone Bridge 黃昏",
+          "description": "若入口仍開、天氣與體力合格才上；不能預設傍晚仍可入堡。否則回河岸拍黃昏，Bit Pazar邊緣也僅視時間短看。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Skopje%20Fortress",
+          "transport": "",
+          "cost": "",
+          "guide": {
+            "see": "Vardar河、北岸老巴扎、南岸中心與遠方Vodno山。",
+            "history": "Kale在土耳其語有堡壘之意；高地長期控制河谷與城市交通。",
+            "story": "城市既有鄂圖曼遺產，也有地震後重建、現代主義與新國家紀念物；其魅力在多層並存。",
+            "tips": "延誤時第一個刪除；不為進堡壘攀越關閉入口。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks17-dinner",
+          "time": "19:15–20:30",
+          "name": "Old Bazaar 晚餐 → Stone Bridge 夜景",
+          "description": "試 tavče gravče 陶鍋焗豆、kebapi、Shopska salad、ajvar／pindjur 或 pastrmajlija。沿石橋回住宿，22:30前休息。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Old%20Bazaar%20Skopje",
+          "transport": "",
+          "cost": "兩人半日餐飲規劃 €25–50；北馬其頓以MKD結帳，勿預設收歐元",
+          "guide": {
+            "see": "老巴扎夜間小店與河岸新古典立面形成不同氛圍。",
+            "history": "焗豆、烤肉、白起司沙拉與烤椒醬跨巴爾幹流通，各地有自己的家庭版本。",
+            "story": "Ajvar以烤紅椒為主，配方可能加茄子；pindjur常有番茄、椒與茄子。Pastrmajlija是肉塊烤麵餅，份量通常適合分享。",
+            "tips": "確認供應與份量再點，不必一餐湊齊清單。"
+          },
+          "booking": "",
+          "official": ""
+        }
+      ],
+      "rainPlan": "先選Mother Teresa紀念館與確認開放的藝廊；河岸與老巴扎挑雨停短走，刪Kale。",
+      "cutPlan": "先刪Kale，再縮短老巴扎支線，保留Macedonia Square、Stone Bridge、晚餐。入住停車延誤時不重新開車追景點。"
+    },
+    {
+      "id": "ks18",
+      "date": "2026-09-18",
+      "title": "9/18 週五｜Matka Canyon → Ohrid 銜接",
+      "summary": "銜接日，不包含9/19完整Ohrid導覽。RUPE Apartments入住時間需與房東另核對。",
+      "stops": [
+        {
+          "id": "ks18-start",
+          "time": "07:30–08:30",
+          "name": "早餐、退房與往 Matka",
+          "description": "行李整理好，車輛至少半滿油；不要為退房後多停車回市中心折返。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Matka%20Canyon",
+          "transport": "Skopje市中心至Matka規劃45–60分鐘，含市區交通及停車緩衝",
+          "cost": "",
+          "guide": null,
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks18-matka",
+          "time": "09:15–11:15｜天候合格",
+          "name": "Matka Canyon｜步道／遊船擇一",
+          "description": "約2小時輕鬆看峽谷；遊船、洞穴班次與票價待現場確認，不能同時承諾長健行、划船與洞穴。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Matka%20Canyon",
+          "transport": "",
+          "cost": "停車／船／洞穴均未確認；另外預算，不含四天合計",
+          "guide": {
+            "see": "水面、陡壁與狹窄谷地的尺度，近岸步道可拍倒影。",
+            "history": "Matka是Skopje西側的峽谷與水庫景觀，與此前Rugova的公路河谷可作地貌及人為利用比較。",
+            "story": "把它放離城日是行程取捨，仍有進出峽谷支路，不是毫無繞路的高速公路休息站。",
+            "tips": "車位滿、雨大或船班等太久即縮短；不把行李放車內顯眼處。"
+          },
+          "booking": "",
+          "official": ""
+        },
+        {
+          "id": "ks18-road",
+          "time": "11:30–約16:30｜含午餐緩衝",
+          "name": "Tetovo／Gostivar → Kičevo → Ohrid",
+          "description": "午餐選主路方便處，不再加Tetovo市區景點。工程、慢車與山路可拉長車程；16:30–18:00入住作彈性目標，出發後依導航通知房東。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Ohrid%20North%20Macedonia",
+          "transport": "離開Matka後先抓4–5小時含午餐與道路緩衝，非即時車程保證",
+          "cost": "北馬其頓道路通行費另計，備MKD／卡",
+          "guide": null,
+          "booking": "",
+          "official": "https://roads.org.mk/en/2026/05/11/corridor-viii-under-the-spotlight-how-is-construction-of-the-motorway-sections-progressing/"
+        },
+        {
+          "id": "ks18-rupe",
+          "time": "16:30–18:00｜目標",
+          "name": "RUPE Apartments 入住",
+          "description": "9/18–20共兩晚，依房東實際定位進入及停車；抵達早可在湖邊散步，詳細Ohrid遊覽留隔天。",
+          "map": "https://www.google.com/maps/search/?api=1&query=RUPE%20Apartments%20Ohrid",
+          "transport": "",
+          "cost": "",
+          "guide": null,
+          "booking": "住宿已列入後續安排；入口、車位與入住時間依房東確認",
+          "official": ""
+        }
+      ],
+      "rainPlan": "雨大取消Matka，直接前往Ohrid；不要把取消峽谷的空檔全部換成其他長停留。",
+      "cutPlan": "先縮Matka或取消船，再縮午餐停留；維持白天完成主要山路，不設定太晚入住。"
+    }
+  ],
+  "budget": [
+    {
+      "item": "BNA 私人兩人 Via Ferrata",
+      "amount": "€70",
+      "unit": "兩人合計",
+      "status": "先前業者回覆€35／人；9/15 08:00已預約，最終路線／包含項目仍待核對"
+    },
+    {
+      "item": "Zipline｜選配",
+      "amount": "€20–40",
+      "unit": "兩人",
+      "status": "規劃值；非已預約或正式報價"
+    },
+    {
+      "item": "博物館、捐獻",
+      "amount": "€10–25",
+      "unit": "兩人",
+      "status": "規劃值；依現場"
+    },
+    {
+      "item": "Kosovo約兩天半餐飲",
+      "amount": "€80–140",
+      "unit": "兩人",
+      "status": "規劃值；自炊與早餐包含情況可降低"
+    },
+    {
+      "item": "Skopje半日餐飲",
+      "amount": "€25–50等值MKD",
+      "unit": "兩人",
+      "status": "規劃值；以MKD實際結帳"
+    },
+    {
+      "item": "咖啡、小吃、飲水",
+      "amount": "€25–45",
+      "unit": "兩人",
+      "status": "額外零食與咖啡，正餐已含者勿重算"
+    },
+    {
+      "item": "9/14–17合計",
+      "amount": "約€230–370",
+      "unit": "兩人",
+      "status": "以上項目加總；未含住宿、油費、停車、道路費及9/18活動餐飲"
+    }
+  ],
+  "budgetNote": "以BNA兩人€70取代舊稿Via Ferrata €80–140的估算後重新加總；不以飯店未確認價格做預算。若成功4+人併團，兩人活動費€60，總額再減€10。票價未知不等於免費。地圖按鈕為地名搜尋，並非已查明的停車位、活動集合pin或公寓入口。",
+  "sources": [
+    {
+      "title": "使用者提供的行程、住宿更新與9/15 08:00預約；整合日期2026/9/13，未附可公開訂單連結",
+      "url": "https://rogeryangct.github.io/travel-itineraries/#trip/kosovo-2026",
+      "checked": "2026-09-13｜使用者資料；原稿導覽整合，未聲稱逐項重新核實"
+    },
+    {
+      "title": "BNA｜路線難度與業者資訊",
+      "url": "https://bnadventure.com/",
+      "checked": "2026-09-13｜搜尋摘要；最終集合與路線須以業者訊息為準，€35為先前回覆"
+    },
+    {
+      "title": "Visoki Dečani｜官方訪客資訊與修道院",
+      "url": "https://www.decani.org/en/",
+      "checked": "2026-09-13｜官方頁；臨時宗教與安全管制另核對"
+    },
+    {
+      "title": "UNESCO｜Medieval Monuments in Kosovo",
+      "url": "https://whc.unesco.org/en/list/724/",
+      "checked": "2026-09-13｜遺產背景"
+    },
+    {
+      "title": "Mother Teresa Memorial House｜官方",
+      "url": "https://memorialhouseofmotherteresa.com/",
+      "checked": "2026-09-13｜官方搜尋摘要；當日開放需再確認"
+    },
+    {
+      "title": "北馬其頓公路局｜Kičevo–Ohrid工程進度",
+      "url": "https://roads.org.mk/en/2026/05/11/corridor-viii-under-the-spotlight-how-is-construction-of-the-motorway-sections-progressing/",
+      "checked": "2026-09-13｜頁面發布2026-05-11，非即時路況"
+    }
+  ]
+}
