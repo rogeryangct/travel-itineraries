@@ -2,7 +2,7 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-09-11"
+    "updated": "2026-09-14"
   },
   "countries": [
     {
@@ -31,10 +31,20 @@
       "english": "Kosovo",
       "code": "XK",
       "region": "歐洲",
-      "summary": "由 Kula 山口抵達 Peja。",
+      "summary": "Rugova冒險、Dečani修道院與Prizren老城，接續Skopje。",
       "currency": "EUR／€",
-      "timeZone": "Europe/Belgrade",
-      "coverage": "目前收錄 9/14 跨境抵達 Peja；後續 Kosovo 行程另行新增。"
+      "timeZone": "Europe/Belgrade"
+    },
+    {
+      "id": "north-macedonia",
+      "name": "北馬其頓",
+      "english": "North Macedonia",
+      "code": "MK",
+      "region": "歐洲",
+      "summary": "Skopje河流兩岸與老巴扎，經Matka銜接Ohrid。",
+      "currency": "MKD／ден",
+      "timeZone": "Europe/Skopje",
+      "coverage": "收錄9/17 Skopje半日、9/18 Matka至Ohrid移動；9/19 Ohrid完整導覽尚未加入。"
     }
   ],
   "trips": [
@@ -124,6 +134,55 @@
           "id": "mn14",
           "date": "2026-09-14",
           "label": "Tara 南岸至 Peja"
+        }
+      ]
+    },
+    {
+      "id": "kosovo-2026",
+      "title": "Rugova → Prizren → Skopje",
+      "subtitle": "四天深度導覽＋Matka至Ohrid銜接",
+      "countries": [
+        "kosovo",
+        "north-macedonia"
+      ],
+      "start": "2026-09-14",
+      "end": "2026-09-18",
+      "verified": "2026-09-13",
+      "status": "08:00活動已預約",
+      "tags": [
+        "自駕",
+        "Via Ferrata",
+        "歷史",
+        "跨境"
+      ],
+      "content": "content/kosovo-2026.json",
+      "timeZone": "Europe/Skopje",
+      "important": "9/14住Chalet Kujta山區；9/15 08:00活動已預約，路線待嚮導確認。9/17走R7＋R6直達Skopje；Matka留9/18。",
+      "days": [
+        {
+          "id": "ks14",
+          "date": "2026-09-14",
+          "label": "Durmitor → Peja → Rugova 山區住宿"
+        },
+        {
+          "id": "ks15",
+          "date": "2026-09-15",
+          "label": "08:00 已預約冒險 → Dečani → Prizren"
+        },
+        {
+          "id": "ks16",
+          "date": "2026-09-16",
+          "label": "Prizren 歷史老城與堡壘黃昏"
+        },
+        {
+          "id": "ks17",
+          "date": "2026-09-17",
+          "label": "R7＋R6 → Skopje 完整半日"
+        },
+        {
+          "id": "ks18",
+          "date": "2026-09-18",
+          "label": "Matka Canyon → Ohrid 銜接"
         }
       ]
     }
