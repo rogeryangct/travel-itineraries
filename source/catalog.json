@@ -2,7 +2,7 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-09-14"
+    "updated": "2026-09-15"
   },
   "countries": [
     {
@@ -41,13 +41,55 @@
       "english": "North Macedonia",
       "code": "MK",
       "region": "歐洲",
-      "summary": "Skopje河流兩岸與老巴扎，經Matka銜接Ohrid。",
+      "summary": "Skopje、Matka、Tetovo與Ohrid四天三夜，沿湖南岸跨境Albania。",
       "currency": "MKD／ден",
-      "timeZone": "Europe/Skopje",
-      "coverage": "收錄9/17 Skopje半日、9/18 Matka至Ohrid移動；9/19 Ohrid完整導覽尚未加入。"
+      "timeZone": "Europe/Skopje"
     }
   ],
   "trips": [
+    {
+      "id": "north-macedonia-2026",
+      "title": "Skopje → Matka → Ohrid → Albania",
+      "subtitle": "四天三夜｜湖岸、老城與折疊深度導覽",
+      "countries": [
+        "north-macedonia"
+      ],
+      "start": "2026-09-17",
+      "end": "2026-09-20",
+      "verified": "2026-09-15",
+      "status": "住宿已整合",
+      "tags": [
+        "自駕",
+        "湖泊",
+        "世界遺產",
+        "導覽"
+      ],
+      "content": "content/north-macedonia-2026.json",
+      "timeZone": "Europe/Skopje",
+      "important": "9/18 Tetovo避開週五午間；9/20 Bay of Bones 09:00開門，12:30前離開St. Naum跨境。",
+      "days": [
+        {
+          "id": "mk17",
+          "date": "2026-09-17",
+          "label": "Prizren → Skopje｜河流兩岸的首都"
+        },
+        {
+          "id": "mk18",
+          "date": "2026-09-18",
+          "label": "Matka → Tetovo → Ohrid｜峽谷與彩繪清真寺"
+        },
+        {
+          "id": "mk19",
+          "date": "2026-09-19",
+          "label": "Ohrid｜世界遺產老城與 Kaneo"
+        },
+        {
+          "id": "mk20",
+          "date": "2026-09-20",
+          "label": "Ohrid 南岸 → St. Naum → Albania"
+        }
+      ]
+    },
     {
       "id": "balkans-2026",
       "title": "Sarajevo → Žabljak",
@@ -157,7 +199,7 @@
       ],
       "content": "content/kosovo-2026.json",
       "timeZone": "Europe/Skopje",
-      "important": "9/14住Chalet Kujta山區；9/15 08:00活動已預約，路線待嚮導確認。9/17走R7＋R6直達Skopje；Matka留9/18。",
+      "important": "9/14住Chalet Kujta山區；9/15 08:00活動已預約，路線待嚮導確認。9/17走R7＋R6直達Skopje；Matka留9/18。 9/17起請使用「Skopje → Matka → Ohrid → Albania」完整新版。",
       "days": [
         {
           "id": "ks14",

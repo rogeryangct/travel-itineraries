@@ -1,0 +1,627 @@
+{
+  "overview": [
+    {
+      "id": "mk-stays",
+      "title": "四天三夜｜住宿與動線",
+      "paragraphs": [
+        "9/17–9/20 北馬其頓完整新版；所有時間均為當地時間（CEST／UTC+2）。住宿共3晚，Ohrid僅2晚。Google Maps為景點搜尋，住宿停車依房東定位。"
+      ],
+      "table": {
+        "headers": [
+          "日期",
+          "住宿",
+          "當日主線"
+        ],
+        "rows": [
+          [
+            "9/17（四）",
+            "SKP-091 a&b｜Skopje",
+            "Prizren直達、Skopje步行半日"
+          ],
+          [
+            "9/18（五）",
+            "RUPE Apartments｜Ohrid",
+            "Matka、Tetovo、Ohrid湖岸"
+          ],
+          [
+            "9/19（六）",
+            "RUPE Apartments｜Ohrid",
+            "老城、文化古蹟、Kaneo日落"
+          ],
+          [
+            "9/20（日）",
+            "接續Apartment Geart｜Berat，定位待確認",
+            "退房、南岸、St. Naum、跨境Albania"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "mk-practical",
+      "title": "出發前只確認這幾項",
+      "paragraphs": [
+        "車輛：北馬其頓與阿爾巴尼亞跨境許可、有效保險。住宿：停車入口與入住定位。現金：準備MKD支付門票、船程與零星停車，勿預設各處收歐元。",
+        "AMSM 9/14 12:00道路公告仍列A2 Kičevo–Ohrid施工改道；9/18預留抵達彈性。9/10公布的一站式邊境協議仍屬推進程序，不代表旅遊當天已啟用快速通關。"
+      ],
+      "links": [
+        {
+          "title": "AMSM 即時道路",
+          "url": "https://amsm.mk/sostojba-na-patishta/"
+        }
+      ]
+    },
+    {
+      "id": "mk-weather",
+      "title": "天氣與攝影",
+      "paragraphs": [
+        "9/15查核取得的Meteoblue資料含快取：Skopje頁約9/11、Ohrid頁約9/14，不是當下逐時實況。出發當晨再開下方連結查看降雨、陣風與雷暴。",
+        "目前資料傾向Skopje 9/17約14–28°C；Ohrid 9/18–19約15–27°C、9/20約16–24°C，後段降雨機率增加。船程仍由當日天氣與業者決定。",
+        "9/17–19日落規劃約18:40–18:45，山地遮擋可能更早；藍調抓日落後約20分鐘，不排到19:30才拍。"
+      ],
+      "links": [
+        {
+          "title": "Meteoblue｜Skopje",
+          "url": "https://www.meteoblue.com/en/weather/week/skopje_north-macedonia_785842"
+        },
+        {
+          "title": "Meteoblue｜Ohrid",
+          "url": "https://www.meteoblue.com/en/weather/14-days/ohrid_north-macedonia_787487"
+        }
+      ]
+    },
+    {
+      "id": "mk-events",
+      "title": "日期內活動｜選配",
+      "paragraphs": [
+        "Manaki Brothers電影節已正式公布：9/19–25，Bitola。與本次Ohrid完整日及跨境日重疊，本表不繞路。",
+        "9/17 20:00，Skopje Mala Stanica「Between Worlds／Меѓу светови」展覽開幕有9/10新聞公告；尚未取得可交叉確認的官方活動頁。想參加先向場館確認，以它替代晚餐後夜景。Ohrid未查得日期與年份一致、可確認的9/18–20晚間演出。"
+      ],
+      "links": [
+        {
+          "title": "Manaki 官方日程",
+          "url": "https://manaki.com.mk/"
+        },
+        {
+          "title": "展覽新聞公告（待場館確認）",
+          "url": "https://denesmagazin.mk/izlozhba-megu-svetovi-na-voskresija-andreevska-vo-natsionalna-galerija/"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "id": "mk17",
+      "date": "2026-09-17",
+      "title": "Prizren → Skopje｜河流兩岸的首都",
+      "summary": "住宿 SKP-091 a&b，1 晚。08:30 出發，13:00–14:00 抵達為目標；車程、邊境與停車合計保留約 5 小時。",
+      "stops": [
+        {
+          "id": "mk17-1",
+          "time": "08:00–08:30",
+          "name": "早餐、退房與文件",
+          "description": "從 Skyline Serenity Apartment 出發。備妥護照、車籍、租車合約、北馬其頓與阿爾巴尼亞跨境授權及有效車險；行李置於遮蔽處。"
+        },
+        {
+          "id": "mk17-2",
+          "time": "08:30–13:00",
+          "name": "R7 → R6 → Hani i Elezit／Blace → Skopje",
+          "description": "不進 Pristina。Kaçanik 附近視需要休息15–20分鐘；邊境至少保留1小時彈性。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Blace%20border%20crossing%20North%20Macedonia",
+          "guide": {
+            "see": "留意山谷由狹窄交通走廊轉為 Skopje 盆地。",
+            "history": "Kaçanik 與 Vardar 河谷連接 Kosovo 盆地和南方巴爾幹，公路、鐵路與聚落集中在可通行的谷地。",
+            "tips": "AMSM 的邊境資訊是當下快照，不能當成抵達當天的等待時間。"
+          },
+          "official": "https://amsm.mk/sostojba-na-patishta/",
+          "transport": "導航先設定 Blace 關口，再接住宿；依現場道路標誌行駛。"
+        },
+        {
+          "id": "mk17-3",
+          "time": "13:00–14:00",
+          "name": "SKP-091 a&b｜停車、入住與午餐",
+          "description": "住宿地址依訂房資料：Dimitrie Chupovski 23。提前取得停車入口、費用及取鑰匙方式；未到入住時間先寄放行李。午餐選附近 burek＋優格或沙拉、湯。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Dimitrie%20Chupovski%2023%20Skopje",
+          "booking": "9/17 入住、9/18 退房；提早停車與寄物待房東確認。"
+        },
+        {
+          "id": "mk17-4",
+          "time": "14:00–14:40",
+          "name": "Mother Teresa Memorial House",
+          "description": "參觀家庭照片、個人物件與小教堂。官方頁列平日09:00–20:00、免費；預留40分鐘。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mother%20Teresa%20Memorial%20House%20Skopje",
+          "guide": {
+            "see": "先看她在 Skopje 的家庭背景，再看慈善工作與小教堂。",
+            "history": "1910年出生於 Skopje 的德蕾莎修女來自阿爾巴尼亞天主教家庭。現館於2009年開放，位於舊受洗教堂所在地，並非她的出生住宅。",
+            "tips": "室內攝影與臨時活動依現場規定。"
+          },
+          "official": "https://motherteresa.mk/memorial-house/",
+          "cost": "官方公布免費入場。"
+        },
+        {
+          "id": "mk17-5",
+          "time": "14:40–15:30",
+          "name": "Macedonia Street → Macedonia Square → Stone Bridge",
+          "description": "沿步行街到廣場，再跨石橋進老巴扎。拍雕像、噴泉與不同年代建築同框。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Macedonia%20Square%20Skopje",
+          "guide": {
+            "see": "南岸看巨型雕像與新古典立面；跨橋後看小尺度店面、清真寺與巷道。",
+            "history": "1963年地震後，Skopje 在國際協助下重建，丹下健三參與規劃。2010年代 Skopje 2014 計畫又加入雕像和仿古立面，與南斯拉夫現代主義並存。石橋連接現代中心與鄂圖曼巴扎。",
+            "tips": "河流兩岸是文化觀察線索，並非截然分隔的族群邊界。"
+          }
+        },
+        {
+          "id": "mk17-6",
+          "time": "15:30–16:40",
+          "name": "Old Bazaar｜Daut Pasha → Kapan Han → Čifte Hamam",
+          "description": "走浴場、商旅驛站與 Bezisten 周邊巷弄。想看展可擇一入館30分鐘，相應縮短逛街。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Daut%20Pasha%20Hamam%20Skopje",
+          "guide": {
+            "see": "Hamam 看多圓頂與採光孔；Kapan Han 看中庭、連續房間與二樓廊道。",
+            "history": "Çarşı 是市集街區；han 結合商人住宿與貨物倉儲；hamam 提供洗浴與社交空間。Daut Pasha 與 Čifte 現由國家美術館使用，呈現歷史公共建築的再利用。",
+            "tips": "咖啡壺、香料與甜點適合小額採買；展覽與票價先向入口確認。"
+          },
+          "official": "https://nationalgallery.mk/"
+        },
+        {
+          "id": "mk17-7",
+          "time": "16:40–17:05",
+          "name": "Mustafa Pasha Mosque",
+          "description": "參觀庭院；非禮拜時段且獲同意再入內。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mustafa%20Pasha%20Mosque%20Skopje",
+          "guide": {
+            "see": "看圓頂、門廊、宣禮塔；室內找指向麥加的 mihrab 壁龕與 minbar 講壇。",
+            "history": "建於1492年的清真寺位在巴扎上方，是仍在使用的鄂圖曼宗教場所。",
+            "tips": "脫鞋、遮肩過膝，女性備薄圍巾；不拍正在禮拜的人。"
+          }
+        },
+        {
+          "id": "mk17-8",
+          "time": "17:10–17:40",
+          "name": "Kale Fortress｜可刪",
+          "description": "提前看城牆與城市全景；未能入內就直接回河岸，不等待晚間開門。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Skopje%20Fortress",
+          "guide": {
+            "see": "看 Vardar 河、老巴扎屋頂、宣禮塔與南岸新城同框。",
+            "history": "Kale 在土耳其語中意為堡壘。這座戰略高地經歷多個時代，今日城牆也包含修復部分。",
+            "tips": "未找到可保證的官方傍晚開放表；夕陽另安排在公共河岸。"
+          }
+        },
+        {
+          "id": "mk17-9",
+          "time": "18:00–19:10",
+          "name": "Stone Bridge 河岸黃昏",
+          "description": "日落約18:40–18:45；18:00起拍暖光，日落後約20分鐘拍倒影與亮燈。遠山與雲層會影響實際見到太陽的時間。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Stone%20Bridge%20Skopje"
+        },
+        {
+          "id": "mk17-10",
+          "time": "19:15–20:45",
+          "name": "Old Bazaar 晚餐與返程",
+          "description": "共享 tavče gravče、kebapi、shopska salad、ajvar 或烤甜椒。晚餐後沿石橋走回住宿，備好隔天早餐。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Old%20Bazaar%20Skopje",
+          "guide": {
+            "see": "豆類陶鍋、烤椒、白乳酪與烤肉是餐桌主角。",
+            "history": "Tavče gravče 是烘烤豆類家常菜；ajvar 以烤紅椒慢煮製成，九月可留意秋季備冬食材。kafana 的用餐節奏較慢，適合共享菜餚。",
+            "tips": "Smetka, ve molam：請結帳。Blagodaram：謝謝。"
+          }
+        }
+      ],
+      "rainPlan": "縮短河岸散步，改進紀念館或美術館；清真寺以現場接待安排為準。",
+      "cutPlan": "先刪 Kale，再縮短巴扎支巷。保留紀念館、廣場、石橋與晚餐；抵達晚於15:00，整段順延並取消堡壘。"
+    },
+    {
+      "id": "mk18",
+      "date": "2026-09-18",
+      "title": "Matka → Tetovo → Ohrid｜峽谷與彩繪清真寺",
+      "summary": "住宿 RUPE Apartments，第1晚。07:45離開Skopje；Matka限時，Tetovo午前短訪，16:00–17:00抵達Ohrid。",
+      "stops": [
+        {
+          "id": "mk18-1",
+          "time": "07:15–08:20",
+          "name": "早餐、退房 → Matka",
+          "description": "07:45出發，行車約35–45分鐘另加停車與步行。導航走一般通往Matka入口的道路。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Canyon%20Matka",
+          "transport": "不使用穿越 Jasen 的限時山路捷徑。"
+        },
+        {
+          "id": "mk18-2",
+          "time": "08:20–09:00",
+          "name": "Matka 湖邊步道與 St. Andrew",
+          "description": "從入口沿湖走到修道院／餐廳區。拍岩壁、湖面與小教堂；留意狹窄步道。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Saint%20Andrew%20Monastery%20Matka",
+          "guide": {
+            "see": "看石灰岩裂隙、岩縫植被，以及教堂貼近湖岸的位置。",
+            "history": "Matka 位於 Treska 河峽谷，湖面由水壩形成。St. Andrew 建於14世紀末，體現峽谷中的東正教修道文化。",
+            "tips": "教堂是否開放依現場；不為拍照走出護欄。"
+          }
+        },
+        {
+          "id": "mk18-3",
+          "time": "09:00–10:15",
+          "name": "Vrelo Cave 船程｜視班次",
+          "description": "先確認含進洞、往返時間與票價；只搭能在10:15前回碼頭的船。09:15仍無合適班次就取消，改湖邊短走。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Vrelo%20Cave%20Matka",
+          "guide": {
+            "see": "船上觀察岩壁與湖面比例；洞內看水滴沉積形成的鐘乳石。",
+            "history": "含二氧化碳的水沿石灰岩裂隙溶蝕，形成喀斯特洞穴與地下水系。Vrelo 的水下部分仍有探勘，不以未證實的世界深度排名作導覽。",
+            "tips": "不觸摸鐘乳石；穿防滑鞋。價格與班次由現場私人業者決定。"
+          },
+          "cost": "兩人船程與咖啡先抓€20–35，並非確認報價。"
+        },
+        {
+          "id": "mk18-4",
+          "time": "10:15–11:15",
+          "name": "Matka → Tetovo",
+          "description": "回到停車處即出發；含市區交通與找停車保留約1小時。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Painted%20Mosque%20Tetovo"
+        },
+        {
+          "id": "mk18-5",
+          "time": "11:15–11:50",
+          "name": "Šarena Džamija｜Painted Mosque",
+          "description": "優先午前參觀；9/18是星期五，若已準備禮拜就只看外牆，不等13:30再返回。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Painted%20Mosque%20Tetovo",
+          "guide": {
+            "see": "看花卉、幾何框線、建築風景與麥加圖像，彩繪遍布內外牆。",
+            "history": "原寺傳統上追溯至1438年、由兩位女性捐助。今日主要裝飾與1833年 Abdurrahman Pasha 的重建有關，呈現地方鄂圖曼建築與華麗彩繪。",
+            "tips": "Tetovo 位於 Polog 盆地，馬其頓語與阿爾巴尼亞語並用。入寺須同意、脫鞋、遮肩過膝。"
+          }
+        },
+        {
+          "id": "mk18-6",
+          "time": "12:00–12:45",
+          "name": "Tetovo 午餐",
+          "description": "選 burek＋優格、豆鍋或兩人分一份 Šarska pleskavica。下午仍有山路，不吃過量。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Tetovo%20North%20Macedonia"
+        },
+        {
+          "id": "mk18-7",
+          "time": "12:45–16:30",
+          "name": "Tetovo → Gostivar → Kičevo → Ohrid",
+          "description": "途中休息、加油15分鐘。A2 Kičevo–Ohrid仍有施工改道，保留至17:00的抵達彈性；不加Mavrovo或Bitola。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Kicevo%20North%20Macedonia",
+          "guide": {
+            "see": "從開闊 Polog 盆地進入山間交通走廊，再下降至 Ohrid 湖盆。",
+            "history": "西部城市集中於盆地，山坡保留村落與牧業地景。公路沿有限的谷地連接這些聚落。",
+            "tips": "AMSM 9/14公告仍列多處施工改道；導航時間只是起點，按現場標誌行駛。"
+          },
+          "official": "https://amsm.mk/sostojba-na-patishta/"
+        },
+        {
+          "id": "mk18-8",
+          "time": "16:30–17:30",
+          "name": "RUPE Apartments｜入住、停車與補給",
+          "description": "9/18–20共兩晚。依訂房資料有廚房與私人停車，入口及取鑰匙以房東定位為準。買水、雞蛋、麵包、優格、水果與白乳酪；入住後到9/20不必移車。",
+          "map": "https://www.google.com/maps/search/?api=1&query=RUPE%20Apartments%20Ohrid",
+          "booking": "9/18 入住、9/20 退房；停車入口尚需房東確認。"
+        },
+        {
+          "id": "mk18-9",
+          "time": "17:30–19:10",
+          "name": "Ohrid Port → Saraiste 湖岸夕陽",
+          "description": "首晚只走平緩湖岸。18:00–18:40拍港口與湖面，約18:40–18:45日落，接著拍20分鐘藍調。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Ohrid%20Port",
+          "guide": {
+            "see": "看紅瓦老城沿山坡上升、碼頭船隻與湖岸居民散步。",
+            "history": "Ohrid 湖區兼具世界遺產的自然與文化價值：古老湖泊生態與歷代城市生活共存。晚間散步是當地日常社交的一部分。",
+            "tips": "不餵魚鳥、不留下垃圾；市區湖邊不等同所有水域都可安全下水。"
+          }
+        },
+        {
+          "id": "mk18-10",
+          "time": "19:15–20:30",
+          "name": "Ohrid 晚餐",
+          "description": "可試 gjomleze 層烤麵餅、makalo 蒜醬、烤蔬菜與豆鍋。魚類選來源清楚的合法供應；飯後走Old Bazaar再回住宿。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Old%20Bazaar%20Ohrid"
+        }
+      ],
+      "rainPlan": "雷雨、強風或業者停航即取消船程；步道濕滑只走入口。Tetovo仍可停，但尊重週五禮拜。",
+      "cutPlan": "先刪Matka咖啡與船程，再將Tetovo改為外觀短停；不等待到午后重新入寺。保留Ohrid入住與休息。"
+    },
+    {
+      "id": "mk19",
+      "date": "2026-09-19",
+      "title": "Ohrid｜世界遺產老城與 Kaneo",
+      "summary": "住宿 RUPE Apartments，第2晚。約7–9公里步行，石階多；午后回住宿休息，傍晚再走湖岸。",
+      "stops": [
+        {
+          "id": "mk19-1",
+          "time": "07:30–08:30",
+          "name": "港口清晨與早餐",
+          "description": "拍平靜湖面、船隻與城堡輪廓，再吃burek＋優格。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Ohrid%20Port"
+        },
+        {
+          "id": "mk19-2",
+          "time": "08:30–09:10",
+          "name": "Old Bazaar → Chinar Tree",
+          "description": "看麵包店、市集與珠寶店的早晨。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Chinar%20Tree%20Ohrid",
+          "guide": {
+            "see": "留意懸鈴木下的座位與街巷交會；商業街仍是居民生活空間。",
+            "history": "Ohrid pearl 是人工珠體外覆特殊魚鱗乳劑的地方工藝，不是天然珍珠。",
+            "tips": "若購買，確認店家來源與說明；不因祖傳配方宣傳而倉促購買高價款。"
+          }
+        },
+        {
+          "id": "mk19-3",
+          "time": "09:15–09:50",
+          "name": "Robev House／手工紙工作坊｜二選一",
+          "description": "主選Robev House看住宅與木雕；想看示範則改手工造紙工作坊。不要兩間都加。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Robev%20Family%20House%20Ohrid",
+          "guide": {
+            "see": "看上層外挑、木作與家庭生活空間；造紙工坊則看纖維成紙和印刷示範。",
+            "history": "現有Robev住宅於1861年火災後重建，呈現19世紀富商民居。造紙工作坊屬現代文化展示，不能等同中世紀原址傳承。",
+            "tips": "Robev House官方夏季兩班涵蓋09:00–20:00，週一休；工作坊示範依現場。"
+          },
+          "official": "https://muzejohrid.mk/"
+        },
+        {
+          "id": "mk19-4",
+          "time": "10:00–10:40",
+          "name": "Church of Saint Sophia",
+          "description": "慢看壁畫與禮拜空間，室內攝影依規定。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Church%20of%20Saint%20Sophia%20Ohrid",
+          "guide": {
+            "see": "看主教與教父人物、嚴肅面容與衣褶，注意圖像如何環繞祭壇。",
+            "history": "Sophia 指神聖智慧。這裡曾是 Ohrid 大主教座堂，保存重要中世紀壁畫；鄂圖曼時期改作清真寺，之後修復。",
+            "tips": "不開閃光燈、不碰壁畫；穿遮肩過膝衣物。"
+          }
+        },
+        {
+          "id": "mk19-5",
+          "time": "10:50–11:20",
+          "name": "Ancient Theatre",
+          "description": "沿老城上坡到劇場，停20–30分鐘。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Ancient%20Theatre%20Ohrid",
+          "guide": {
+            "see": "看半圓座位如何依山坡展開，可輕聲感受聲音傳遞。",
+            "history": "古代 Ohrid 名為 Lychnidos；劇場源於希臘化時期，羅馬時期持續使用，今日也用作演出場地。",
+            "tips": "尊重排練、搭台及臨時封閉，不大聲試音。"
+          }
+        },
+        {
+          "id": "mk19-6",
+          "time": "11:30–12:15",
+          "name": "Samuel’s Fortress",
+          "description": "夏季官方09:00–16:30，週一休；9/19週六可按公布時段安排。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Samuel%20Fortress%20Ohrid",
+          "guide": {
+            "see": "以城牆作前景拍湖與紅瓦。湖西側是Albania；北側Struga是黑德林河流出湖泊的方向。",
+            "history": "城址古代已有防禦工事，現名與10–11世紀統治者Samuil相關。現今城垛包含現代修復，中世紀政權與今日國界不能直接畫等號。",
+            "tips": "城牆曝曬、階梯不平；雨後避免走濕滑高處。"
+          },
+          "official": "https://muzejohrid.mk/samoilova-tvrdina/"
+        },
+        {
+          "id": "mk19-7",
+          "time": "12:25–13:05",
+          "name": "Plaošnik／St. Pantelejmon",
+          "description": "看教堂、考古區與湖景；馬賽克區依現場開放。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Plaosnik%20Ohrid",
+          "guide": {
+            "see": "分辨早期基督教遺址、歷史建築位置與現代重建教堂。",
+            "history": "Clement與Naum承接Cyril、Methodius的斯拉夫語教育傳統，Ohrid成為翻譯、抄寫與宗教教育中心。Cyril、Methodius所創為格拉哥里字母；不能簡化為Cyril在Ohrid創造西里爾字母。",
+            "tips": "以現場考古標示為準，不將所有建築都當成中世紀原件。"
+          }
+        },
+        {
+          "id": "mk19-8",
+          "time": "13:15–15:30",
+          "name": "午餐與回RUPE休息",
+          "description": "共享主菜、沙拉與makalo；回住宿補水、洗衣、休息。"
+        },
+        {
+          "id": "mk19-9",
+          "time": "15:45–16:40",
+          "name": "Saraiste → 木棧道 → Potpesh → Kaneo",
+          "description": "沿湖慢走；木棧道若封閉或風浪大，改走老城街道。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Potpesh%20Beach%20Ohrid",
+          "guide": {
+            "see": "看住宅石造底層、外挑白牆、紅瓦與陡坡的關係。",
+            "history": "湖岸和山坡限制土地，Ohrid形成狹窄街巷與向上擴展的傳統民居。",
+            "tips": "木板遇水很滑；保留原路或街道返程，不依賴臨時船班。"
+          }
+        },
+        {
+          "id": "mk19-10",
+          "time": "16:40–19:05",
+          "name": "St. John at Kaneo｜教堂與日落",
+          "description": "先拍教堂外觀，再上後方小徑取經典角度。約18:40日落，18:45–19:05拍餘光後下山。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Church%20of%20Saint%20John%20at%20Kaneo",
+          "guide": {
+            "see": "從教堂後上方將紅瓦、圓頂、藍湖與西岸山脈一起入鏡。",
+            "history": "教堂獻給神學家聖約翰，通常推測為13世紀左右；確切建造年代未明。其小巧體量與臨湖岩岬位置構成Ohrid代表景觀。",
+            "tips": "遠山可能提早遮住太陽。帶手機照明，勿為構圖走近無護欄懸崖。"
+          }
+        },
+        {
+          "id": "mk19-11",
+          "time": "19:30–21:00",
+          "name": "Ohrid 最後一晚",
+          "description": "湖邊晚餐，買隔天早餐與水；確認Albania車險、南端關口路線與Berat房東定位。"
+        }
+      ],
+      "rainPlan": "濕滑時取消城牆及木棧道，改Robev House、造紙示範與聖索菲亞；Kaneo可改乾燥的老城街道前往。",
+      "cutPlan": "上午先刪造紙工作坊或Robev House二選一，保留聖索菲亞與湖邊；疲勞時縮短堡壘，不刪午休。"
+    },
+    {
+      "id": "mk20",
+      "date": "2026-09-20",
+      "title": "Ohrid 南岸 → St. Naum → Albania",
+      "summary": "RUPE退房後不回Ohrid。09:00 Bay of Bones開門；12:30前離開St. Naum，保留跨境與前往Berat的下午。",
+      "stops": [
+        {
+          "id": "mk20-1",
+          "time": "07:30–08:50",
+          "name": "早餐、退房 → Bay of Bones",
+          "description": "08:00左右出發，預留湖岸道路與停車；油量至少半箱，行李遮蔽。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Bay%20of%20Bones%20Museum%20Ohrid"
+        },
+        {
+          "id": "mk20-2",
+          "time": "09:00–09:45",
+          "name": "Bay of Bones Museum",
+          "description": "官方夏季09:00–16:30、週一休。先看展品，再走湖上聚落；不安排08:35入館。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Bay%20of%20Bones%20Museum%20Ohrid",
+          "guide": {
+            "see": "看木樁、平台、房屋與湖岸的關係，再用出土陶器與工具理解生活。",
+            "history": "這裡展示晚期青銅至早期鐵器時代樁上聚落；眼前房屋為2007–08年的考古重建，並非保存數千年的原建築。",
+            "tips": "票價向入口確認；館方通用票價表不代表所有景點共用一張票。"
+          },
+          "official": "https://muzejohrid.mk/muzej-na-voda/"
+        },
+        {
+          "id": "mk20-3",
+          "time": "10:00–10:25",
+          "name": "Trpejca｜短停選配",
+          "description": "村內與湖邊短走；只在合法、安全停車處拍照，不停狹窄彎道路肩。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Trpejca%20Ohrid",
+          "guide": {
+            "see": "看小村沿Galičica山坡下降至湖邊的格局。",
+            "history": "漁村逐漸轉為家庭旅館、餐廳與游泳度假地，反映湖區從漁農業轉向旅遊的生活變化。",
+            "tips": "停車或下坡耗時就刪除此點，不安排正式午餐。"
+          }
+        },
+        {
+          "id": "mk20-4",
+          "time": "10:45–11:30",
+          "name": "St. Naum Monastery",
+          "description": "參觀修道院、墓室與湖景；避開禮拜中的動線。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Monastery%20Saint%20Naum",
+          "guide": {
+            "see": "看教堂、墓室與泉水濕地交會的環境。",
+            "history": "Naum是Ohrid宗教教育傳統的重要人物，修道院傳統上創建於約905年。現有建築與壁畫歷經後世重建，不能全部視作10世紀作品。",
+            "tips": "尊重聖人墓室的信仰傳說；不追逐或餵食孔雀。"
+          }
+        },
+        {
+          "id": "mk20-5",
+          "time": "11:30–12:30",
+          "name": "泉水小船＋簡單午餐",
+          "description": "僅搭能及時返回的短程船，約30分鐘；班次不合就取消，改外帶午餐。12:30離開。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Saint%20Naum%20Springs",
+          "guide": {
+            "see": "看清澈泉池、水草、倒木與水底湧泉。",
+            "history": "部分Prespa水經喀斯特地下通道流向Ohrid湖區。St. Naum泉水在南端注入湖泊；黑德林河則在北端Struga流出湖泊，兩者別混淆。",
+            "tips": "保持安靜，不餵魚鳥、不觸摸水下植物。"
+          },
+          "cost": "船程＋簡餐兩人先抓€20–35；依當天報價。"
+        },
+        {
+          "id": "mk20-6",
+          "time": "12:30–18:30",
+          "name": "Sveti Naum／Tushemisht → Pogradec → Berat",
+          "description": "依先前訂房紀錄，Apartment Geart接續城市為Berat；完整定位仍以房東提供為準。經南端關口進Albania，沿Pogradec、Librazhd／Elbasan、Lushnjë方向走主要道路。抵達先抓17:30–18:30，不作保證。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Tushemisht%20border%20crossing%20Albania",
+          "transport": "導航加入Pogradec與Elbasan途經點，避免自動改走山區捷徑。若南端關口不通或租車公司指定，才改北返Qafë Thanë，並刪南岸選配以補時間。"
+        }
+      ],
+      "rainPlan": "下雨取消Trpejca停留與泉水船，保留可開放的博物館、修道院；提早跨境。",
+      "cutPlan": "先刪Trpejca，再刪船程與正式午餐。12:30仍是離開St. Naum的目標，當晚Berat抵達時間依關口和房東定位更新。"
+    }
+  ],
+  "budget": [
+    {
+      "item": "Skopje餐飲",
+      "amount": "€30–45",
+      "unit": "兩人",
+      "status": "規劃預留，非確認售價"
+    },
+    {
+      "item": "Matka船／咖啡",
+      "amount": "€20–35",
+      "unit": "兩人",
+      "status": "規劃預留，非確認售價"
+    },
+    {
+      "item": "Tetovo午餐",
+      "amount": "€15–25",
+      "unit": "兩人",
+      "status": "規劃預留，非確認售價"
+    },
+    {
+      "item": "Ohrid與南岸景點門票",
+      "amount": "€25–45",
+      "unit": "兩人",
+      "status": "規劃預留，非確認售價"
+    },
+    {
+      "item": "Ohrid兩晚餐飲",
+      "amount": "€55–90",
+      "unit": "兩人",
+      "status": "規劃預留，非確認售價"
+    },
+    {
+      "item": "St. Naum船與簡餐",
+      "amount": "€20–35",
+      "unit": "兩人",
+      "status": "規劃預留，非確認售價"
+    },
+    {
+      "item": "超市補給",
+      "amount": "€20–30",
+      "unit": "兩人",
+      "status": "規劃預留，非確認售價"
+    },
+    {
+      "item": "公路費、停車與小額支付",
+      "amount": "1,500–2,000 MKD",
+      "unit": "兩人",
+      "status": "規劃預留，非確認售價"
+    }
+  ],
+  "budgetNote": "餐飲、活動與門票合計約€185–305，另留1,500–2,000 MKD；不含住宿、油費及Albania段開銷。船程與教堂各自計價，未確認一票通用。",
+  "sources": [
+    {
+      "title": "AMSM｜9/14道路公告",
+      "url": "https://amsm.mk/sostojba-na-patishta/",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "Mother Teresa｜參觀資訊",
+      "url": "https://motherteresa.mk/memorial-house/",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "Ohrid Museum｜Bay of Bones時段",
+      "url": "https://muzejohrid.mk/muzej-na-voda/",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "Ohrid Museum｜Samuel Fortress時段",
+      "url": "https://muzejohrid.mk/samoilova-tvrdina/",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "Ohrid Museum｜Robev House與票務",
+      "url": "https://muzejohrid.mk/",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "UNESCO｜Ohrid自然與文化遺產",
+      "url": "https://whc.unesco.org/en/list/99/",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "Manaki Brothers｜2026日期",
+      "url": "https://manaki.com.mk/",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "Meteoblue｜Skopje（快取日期見天氣段）",
+      "url": "https://www.meteoblue.com/en/weather/week/skopje_north-macedonia_785842",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "Meteoblue｜Ohrid（快取日期見天氣段）",
+      "url": "https://www.meteoblue.com/en/weather/14-days/ohrid_north-macedonia_787487",
+      "checked": "2026-09-15"
+    },
+    {
+      "title": "Albania內政部｜9/10一站式關口協議進度",
+      "url": "https://mb.gov.al/en/newsroom/one-stop-ne-pikat-e-kalimit-kufitar-lehtesohet-levizja-mes-shqiperise-dhe-maqedonise-se-veriut/",
+      "checked": "2026-09-15"
+    }
+  ]
+}
