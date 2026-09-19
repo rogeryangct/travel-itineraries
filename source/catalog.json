@@ -2,28 +2,28 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-09-18"
+    "updated": "2026-09-19"
   },
   "countries": [
     {
-      "id": "bosnia",
-      "name": "波士尼亞與赫塞哥維納",
-      "english": "Bosnia & Herzegovina",
-      "code": "BA",
+      "id": "albania",
+      "name": "阿爾巴尼亞",
+      "english": "Albania",
+      "code": "AL",
       "region": "歐洲",
-      "summary": "Sarajevo 的街巷、帝國交界與城市記憶。",
-      "currency": "BAM／KM",
-      "timeZone": "Europe/Sarajevo"
+      "summary": "Lin湖村、Berat千窗山城、Durrës羅馬港口與Tirana影展。",
+      "currency": "ALL／lek",
+      "timeZone": "Europe/Tirane"
     },
     {
-      "id": "montenegro",
-      "name": "蒙特內哥羅",
-      "english": "Montenegro",
-      "code": "ME",
+      "id": "north-macedonia",
+      "name": "北馬其頓",
+      "english": "North Macedonia",
+      "code": "MK",
       "region": "歐洲",
-      "summary": "Piva、Durmitor 與 Tara，銜接 Kosovo 的四日山區自駕。",
-      "currency": "EUR／€",
-      "timeZone": "Europe/Podgorica"
+      "summary": "Skopje、Matka、Tetovo與Ohrid；含天氣調整版，9/20北線銜接Albania。",
+      "currency": "MKD／ден",
+      "timeZone": "Europe/Skopje"
     },
     {
       "id": "kosovo",
@@ -36,17 +36,71 @@
       "timeZone": "Europe/Belgrade"
     },
     {
-      "id": "north-macedonia",
-      "name": "北馬其頓",
-      "english": "North Macedonia",
-      "code": "MK",
+      "id": "montenegro",
+      "name": "蒙特內哥羅",
+      "english": "Montenegro",
+      "code": "ME",
       "region": "歐洲",
-      "summary": "Skopje、Matka、Tetovo與Ohrid四天三夜，沿湖南岸跨境Albania。",
-      "currency": "MKD／ден",
-      "timeZone": "Europe/Skopje"
+      "summary": "Piva、Durmitor 與 Tara，銜接 Kosovo 的四日山區自駕。",
+      "currency": "EUR／€",
+      "timeZone": "Europe/Podgorica"
+    },
+    {
+      "id": "bosnia",
+      "name": "波士尼亞與赫塞哥維納",
+      "english": "Bosnia & Herzegovina",
+      "code": "BA",
+      "region": "歐洲",
+      "summary": "Sarajevo 的街巷、帝國交界與城市記憶。",
+      "currency": "BAM／KM",
+      "timeZone": "Europe/Sarajevo"
     }
   ],
   "trips": [
+    {
+      "id": "albania-second-2026",
+      "title": "Ohrid → Lin → Berat → Durrës → TIA",
+      "subtitle": "阿爾巴尼亞第二段｜隨身深度導覽與攝影地圖",
+      "countries": [
+        "albania",
+        "north-macedonia"
+      ],
+      "start": "2026-09-20",
+      "end": "2026-09-23",
+      "verified": "2026-09-19",
+      "status": "詳細導覽與攝影版",
+      "tags": [
+        "自駕",
+        "世界遺產",
+        "攝影",
+        "影展"
+      ],
+      "content": "content/albania-second-2026.json",
+      "timeZone": "Europe/Tirane",
+      "important": "9/20 07:30由Ohrid北線出境。Berat兩晚、Laknas一晚；9/22 TIFF 18:00場次候選；9/23 07:45還車須確認。",
+      "days": [
+        {
+          "id": "al20",
+          "date": "2026-09-20",
+          "label": "Ohrid → Lin → Berat｜湖岸與千窗黃昏"
+        },
+        {
+          "id": "al21",
+          "date": "2026-09-21",
+          "label": "Berat｜活城堡、聖像與住宅城市"
+        },
+        {
+          "id": "al22",
+          "date": "2026-09-22",
+          "label": "Durrës → Laknas → TIFF｜海港考古與當代電影"
+        },
+        {
+          "id": "al23",
+          "date": "2026-09-23",
+          "label": "Laknas → TIA → Bucharest｜提前還車搭機"
+        }
+      ]
+    },
     {
       "id": "north-macedonia-2026",
       "title": "Skopje → Matka → Ohrid → Albania",
@@ -66,7 +120,7 @@
       ],
       "content": "content/north-macedonia-2026.json",
       "timeZone": "Europe/Skopje",
-      "important": "已新增方案B｜天氣調整版：9/18 Kaneo黃昏、9/19南岸、9/20北線經Lin至Berat；原方案A保留。",
+      "important": "已新增方案B｜天氣調整版：9/18 Kaneo黃昏、9/19南岸、9/20北線經Lin至Berat；原方案A保留。 9/20實際銜接請用「阿爾巴尼亞第二段」07:30出發新版。",
       "days": [
         {
           "id": "mk17",
@@ -87,95 +141,6 @@
           "id": "mk20",
           "date": "2026-09-20",
           "label": "Ohrid 南岸 → St. Naum → Albania"
-        }
-      ]
-    },
-    {
-      "id": "balkans-2026",
-      "title": "Sarajevo → Žabljak",
-      "subtitle": "兩天城市導覽，一天跨境自駕",
-      "countries": [
-        "bosnia",
-        "montenegro"
-      ],
-      "start": "2026-09-09",
-      "end": "2026-09-11",
-      "verified": "2026-09-08",
-      "status": "已整理",
-      "tags": [
-        "自駕",
-        "歷史",
-        "博物館",
-        "山景"
-      ],
-      "content": "content/balkans-2026.html",
-      "days": [
-        {
-          "id": "d9",
-          "date": "2026-09-09",
-          "label": "城市與奧運之山"
-        },
-        {
-          "id": "d10",
-          "date": "2026-09-10",
-          "label": "隧道與國家博物館"
-        },
-        {
-          "id": "d11",
-          "date": "2026-09-11",
-          "label": "經 Šavnik 跨境"
-        }
-      ],
-      "checklist": [
-        "核對博物館時段與 Haggadah 入場安排",
-        "確認纜車營運、山區天氣與路況",
-        "準備護照、租車跨境文件與保險",
-        "下載行程及 Google Maps 離線地圖",
-        "9/11 前備妥早餐、飲水並確認油量"
-      ],
-      "important": "9/11 請使用接續的「Piva → Durmitor → Tara → Peja」最新版：06:30 出發，經 Rogatica／Goražde，再走 Piva／Šavnik。"
-    },
-    {
-      "id": "montenegro-north-2026",
-      "title": "Piva → Durmitor → Tara → Peja",
-      "countries": [
-        "montenegro",
-        "bosnia",
-        "kosovo"
-      ],
-      "start": "2026-09-11",
-      "end": "2026-09-14",
-      "verified": "2026-09-11",
-      "status": "依天氣調整",
-      "tags": [
-        "自駕",
-        "高山",
-        "湖泊",
-        "跨境"
-      ],
-      "content": "content/montenegro-north-2026.json",
-      "timeZone": "Europe/Podgorica",
-      "important": "9/11 南段 Trsa–Sedlo 已完成。9/12 休息／安全空檔看草原墓碑，三鐵04:30黑湖起跑；9/13黑湖＋Ćurevac，北段需計原路返回。9/14不跨Tara Bridge，南岸R10仍需確認。",
-      "days": [
-        {
-          "id": "mn11",
-          "date": "2026-09-11",
-          "label": "Piva 與跨境"
-        },
-        {
-          "id": "mn12",
-          "date": "2026-09-12",
-          "label": "三鐵與草原文化"
-        },
-        {
-          "id": "mn13",
-          "date": "2026-09-13",
-          "label": "黑湖與北段往返"
-        },
-        {
-          "id": "mn14",
-          "date": "2026-09-14",
-          "label": "Tara 南岸至 Peja"
         }
       ]
     },
@@ -227,6 +192,95 @@
           "label": "Matka Canyon → Ohrid 銜接"
         }
       ]
+    },
+    {
+      "id": "montenegro-north-2026",
+      "title": "Piva → Durmitor → Tara → Peja",
+      "countries": [
+        "montenegro",
+        "bosnia",
+        "kosovo"
+      ],
+      "start": "2026-09-11",
+      "end": "2026-09-14",
+      "verified": "2026-09-11",
+      "status": "依天氣調整",
+      "tags": [
+        "自駕",
+        "高山",
+        "湖泊",
+        "跨境"
+      ],
+      "content": "content/montenegro-north-2026.json",
+      "timeZone": "Europe/Podgorica",
+      "important": "9/11 南段 Trsa–Sedlo 已完成。9/12 休息／安全空檔看草原墓碑，三鐵04:30黑湖起跑；9/13黑湖＋Ćurevac，北段需計原路返回。9/14不跨Tara Bridge，南岸R10仍需確認。",
+      "days": [
+        {
+          "id": "mn11",
+          "date": "2026-09-11",
+          "label": "Piva 與跨境"
+        },
+        {
+          "id": "mn12",
+          "date": "2026-09-12",
+          "label": "三鐵與草原文化"
+        },
+        {
+          "id": "mn13",
+          "date": "2026-09-13",
+          "label": "黑湖與北段往返"
+        },
+        {
+          "id": "mn14",
+          "date": "2026-09-14",
+          "label": "Tara 南岸至 Peja"
+        }
+      ]
+    },
+    {
+      "id": "balkans-2026",
+      "title": "Sarajevo → Žabljak",
+      "subtitle": "兩天城市導覽，一天跨境自駕",
+      "countries": [
+        "bosnia",
+        "montenegro"
+      ],
+      "start": "2026-09-09",
+      "end": "2026-09-11",
+      "verified": "2026-09-08",
+      "status": "已整理",
+      "tags": [
+        "自駕",
+        "歷史",
+        "博物館",
+        "山景"
+      ],
+      "content": "content/balkans-2026.html",
+      "days": [
+        {
+          "id": "d9",
+          "date": "2026-09-09",
+          "label": "城市與奧運之山"
+        },
+        {
+          "id": "d10",
+          "date": "2026-09-10",
+          "label": "隧道與國家博物館"
+        },
+        {
+          "id": "d11",
+          "date": "2026-09-11",
+          "label": "經 Šavnik 跨境"
+        }
+      ],
+      "checklist": [
+        "核對博物館時段與 Haggadah 入場安排",
+        "確認纜車營運、山區天氣與路況",
+        "準備護照、租車跨境文件與保險",
+        "下載行程及 Google Maps 離線地圖",
+        "9/11 前備妥早餐、飲水並確認油量"
+      ],
+      "important": "9/11 請使用接續的「Piva → Durmitor → Tara → Peja」最新版：06:30 出發，經 Rogatica／Goražde，再走 Piva／Šavnik。"
     }
   ]
 }
