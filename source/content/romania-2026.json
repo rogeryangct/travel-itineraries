@@ -1,0 +1,1357 @@
+{
+  "overview": [
+    {
+      "id": "ro-intro",
+      "title": "Romania｜喀爾巴阡山、薩克森城鎮與皇家山城",
+      "paragraphs": [
+        "2026/9/23–10/3，共11天。依第四部分修正行程，住宿完全固定。9/25住Vidraru湖畔Hotel Valea cu Pești；9/28時鐘塔只看外觀，9/29登塔後經Viscri、Rupea到Brașov；10/1 Pelișor僅外觀。",
+        "全部時間為羅馬尼亞當地夏令時間EEST（UTC+3），比阿爾巴尼亞快一小時。TIA 11:35 → OTP 14:00為各機場當地時間。航班、住宿與巴士依提供的訂單整理；尚未提供景點票券，不將建議時段當成已訂。",
+        "每站可點「導覽」閱讀現場觀察、歷史與故事，再返回當天行程。座標表可直接開Google Maps；山路與峽谷保留明確的替代動線。查核日期：2026/9/22。"
+      ],
+      "table": {
+        "headers": [
+          "入住日期",
+          "住宿／城市",
+          "交通重點"
+        ],
+        "rows": [
+          [
+            "9/23–25",
+            "Central Comfort Suites - Geo12｜Bucharest",
+            "9/23 Ryanair TIA 11:35 → OTP 14:00"
+          ],
+          [
+            "9/25–26",
+            "Hotel Valea cu Pest（Pești）｜Vidraru湖畔",
+            "SIXT 9/25 09:30取車；門市依合約"
+          ],
+          [
+            "9/26–28",
+            "Zenith Apartament Old Town Piata Mare｜Sibiu",
+            "老城停車入口先問房東"
+          ],
+          [
+            "9/28–29",
+            "Gloria Apartments｜Sighișoara",
+            "停車後步行"
+          ],
+          [
+            "9/29–10/1",
+            "Cosmo Studio｜Brașov",
+            "停車條件依訂單，不預設免費車位"
+          ],
+          [
+            "10/1–2",
+            "Upon Boutique｜Sinaia",
+            "隔日還車時間決定出發時間"
+          ],
+          [
+            "10/2–3",
+            "New Boutique Central 2 camere Chic｜Bucharest",
+            "10/2完成還車"
+          ],
+          [
+            "10/3",
+            "FlixBus 10:10 → Veliko Tarnovo",
+            "09:20到電子票指定站點；不猜車站"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ro-actions",
+      "title": "票務、住宿與當日決策",
+      "paragraphs": [
+        "待預約：9/24人民宮10:00英文導覽；9/24 Athenaeum 19:00 David Kadouch；9/30 Libearty 09:45；10/1 Peleș 12:45入場時窗；10/2 Spring Palace英文導覽。此頁未代購、未聯絡業者。",
+        "Peleș 12:45–14:30是可入場時窗，不等於保證12:45英文導覽席位。官網列12:45英文場、入口依序組團，請提早到入口；門票不可退改。Pelișor 9/28–11/3維護關閉，不能安排室內參觀。",
+        "Viscri官方公告：教堂本體及主塔關閉；可看村落博物館、陶器展、South Bastion上層與Bacon Tower。第四部分寫的Gate Tower改依官方名稱Bacon Tower。成人20 RON；車停村外官方免費停車區。",
+        "SIXT目前只確定取車09:30，還車時間與門市尚缺合約確認。10/2先採09:30還車、06:10離開Sinaia；只有收到延至12:00的書面確認才採晚出發版。延長可能產生額外一天費用，不能假設只收幾小時。",
+        "9/26 06:30重新確認DN7C開放、結冰／積雪、能見度、風勢及租車適用條件。9/22降雪後交通未受影響僅代表當時狀況，不是9/26通車保證。9/30 11:10依官方開放、水勢及雷雨決定是否進Seven Ladders。",
+        "住宿位置與停車以各自訂單及房東入口說明為準；沒有提供的地址、車位與設備不補猜。地圖搜尋同名住宿不能代替訂單定位。"
+      ],
+      "links": [
+        {
+          "title": "Peleș官方時段／門票",
+          "url": "https://peles.ro/en/program-si-taxe/"
+        },
+        {
+          "title": "Libearty官方導覽",
+          "url": "https://millionsoffriends.org/en/amp-libearty/visit-the-sanctuary/"
+        },
+        {
+          "title": "Viscri修復公告",
+          "url": "https://www.biserica-fortificata-viscri.ro/en/"
+        },
+        {
+          "title": "David Kadouch售票頁",
+          "url": "https://www.iabilet.ro/bilete-david-kadouch-recital-de-pian-bucharest-international-piano-festival-128514/"
+        },
+        {
+          "title": "道路查詢｜羅馬尼亞警方Infotrafic",
+          "url": "https://www.politiaromana.ro/ro/info-trafic"
+        },
+        {
+          "title": "氣象局",
+          "url": "https://www.meteoromania.ro/"
+        }
+      ]
+    },
+    {
+      "id": "ro-context",
+      "title": "隨身導遊｜先讀懂兩個歷史世界",
+      "paragraphs": [
+        "Wallachia（瓦拉幾亞）包含Bucharest、Curtea de Argeș和山脈南坡，歷史主軸是東正教王公、鄂圖曼宗主權、現代王國與共產政權。Transylvania（外西凡尼亞）長期處於匈牙利王國及哈布斯堡政治體系，留下德語薩克森城鎮、匈牙利文化、羅馬尼亞社群與多種基督教傳統。翻越山脈也跨越文化地理邊界。",
+        "羅馬尼亞語屬羅曼語族，宗教傳統以東正教為主；語言、信仰與現代國界不是同一張地圖。薩克森人是歷史社群名稱，移民來自不同德語地區，不全來自今日Saxony。不要用「德國城市」抹去同城其他社群。",
+        "本次導覽將史實、地方傳統與小說分開：Manole妻子入牆、Bridge of Lies測謊、Biertan幾百年只有一對離婚都是傳說或未獲可靠統計支持的故事；Dracula小說也不能當Vlad生平。",
+        "教堂遮肩過膝、男性脫帽，不阻擋禮拜；內部拍攝依現場規定。鄉村院門與晾衣空間是私人生活。山路不跟車超速，下坡用適當檔位控制速度；看到熊保持車窗關閉，不餵食、不下車、不停在牠旁邊拍照。"
+      ]
+    },
+    {
+      "id": "ro-photo",
+      "title": "必拍點｜方位、順光時段與Google Maps",
+      "paragraphs": [
+        "以下座標沿用提供的GPS，屬地標參考點，未逐一實地勘查，不等於停車入口或精確腳架機位。順光／側光是依地理方向推估；天氣、山影、樹蔭與開放範圍會改變結果。藍調在日落後，不能把日落前半小時稱作藍調。"
+      ],
+      "table": {
+        "headers": [
+          "地點",
+          "緯度,經度",
+          "本次時段（EEST）",
+          "取景與光線"
+        ],
+        "rows": [
+          [
+            "Stavropoleos",
+            "44.431742,26.098789",
+            "9/23 17:30後",
+            "庭院多遮蔭，以均勻散射光拍石雕；不保證晚間開門。"
+          ],
+          [
+            "CEC Palace",
+            "44.4320,26.0965",
+            "9/23 18:20–19:10；日落後20分鐘",
+            "主立面朝東，正面順光較適合上午；晚間拍玻璃、燈光與天空，不稱為夕陽正面順光。"
+          ],
+          [
+            "Athenaeum",
+            "44.441306,26.097306",
+            "9/24 17:30–18:20",
+            "西向立面可取下午暖光；18:30入場，不等日落錯過演出。"
+          ],
+          [
+            "Curtea Monastery",
+            "45.15679,24.67546",
+            "9/25 12:15–13:10",
+            "正午偏硬，轉到側光面拍扭轉塔與雕刻，避免只拍無陰影正面。"
+          ],
+          [
+            "Poenari Fortress",
+            "45.35382,24.63521",
+            "9/25 15:30–17:30條件式",
+            "西南光表現城牆起伏；入場團與安全優先，不為攝影延後下山。"
+          ],
+          [
+            "Vidraru Dam",
+            "45.36632,24.63058",
+            "9/25 16:00或17:45",
+            "選合法人行區以側光表現壩弧；深谷可能提早入陰。"
+          ],
+          [
+            "Hotel Valea cu Pești",
+            "45.39163,24.62723",
+            "9/25 18:20–19:10",
+            "湖東岸向西拍水面多為逆光／剪影；不要標成順光。"
+          ],
+          [
+            "Bâlea Lake",
+            "45.6033,24.6172",
+            "9/26 11:00–12:45",
+            "雲縫與能見度優先；繞到太陽在背側的位置拍湖，不為等待光線冒險。"
+          ],
+          [
+            "Piața Mare Sibiu",
+            "45.7963,24.1518",
+            "9/27 07:10–08:00、18:15–19:15",
+            "早晨空景與傍晚側光；各立面朝向不同，選受光的一側。"
+          ],
+          [
+            "ASTRA",
+            "45.75394,24.11459",
+            "9/27 14:30–17:00",
+            "在湖西／西南側朝東北拍，較易得到順／側光；依館內步道選位。"
+          ],
+          [
+            "Biertan",
+            "46.13694,24.52694",
+            "9/28 10:00–12:00",
+            "東南方光，從南／東側公共空間拍堡壘；塔樓遮蔭會移動。"
+          ],
+          [
+            "Clock Tower",
+            "46.21929,24.79332",
+            "9/28 17:20–日落後；9/29 09:00",
+            "傍晚由西側拍外觀暖光，登塔各方向受光不同；09:00是參觀時段。"
+          ],
+          [
+            "Viscri",
+            "46.0549,25.0886",
+            "9/29 11:15–12:45",
+            "村街兩侧選受光立面；主塔關閉，勿把塔頂視角列為必拍。"
+          ],
+          [
+            "Rupea",
+            "46.03715,25.21241",
+            "9/29 14:00–15:00",
+            "午後西南光，順著步道取城牆斜側光與玄武岩地形。"
+          ],
+          [
+            "Black Church",
+            "45.6410,25.5880",
+            "9/29 17:00–18:00",
+            "室內按攝影規定；外觀由西／西南側拍暖光，先保住入館。"
+          ],
+          [
+            "White Tower",
+            "45.6429,25.5866",
+            "9/29 18:10–19:05",
+            "向東南拍老城與Tâmpa，西南太陽在側後方；山影可能提前遮住廣場。"
+          ],
+          [
+            "Libearty",
+            "45.593020,25.385220",
+            "9/30 09:45",
+            "林間斑駁光，導覽路線與動物福利優先；不可為取景離隊。"
+          ],
+          [
+            "Seven Ladders",
+            "45.5674,25.64368",
+            "9/30 約13:00",
+            "峽谷以散射光較易控制瀑布反差；座標在峽谷，不是停車場。"
+          ],
+          [
+            "Cantacuzino",
+            "45.41395,25.54292",
+            "10/1 10:00–11:00",
+            "向西拍Bucegi山脈時上午光在背後，較利山壁細節；天氣仍決定能見度。"
+          ],
+          [
+            "Peleș",
+            "45.35972,25.54278",
+            "10/1 11:50–12:35",
+            "近正午光較硬，以側光拍半木構與塔樓；不承諾整棟順光。"
+          ],
+          [
+            "Sinaia Monastery",
+            "45.35533,25.54962",
+            "10/1 15:45–16:30",
+            "西南側光、庭院可能遮蔭；教堂儀式優先。"
+          ],
+          [
+            "Arcul de Triumf",
+            "44.467278,26.078361",
+            "10/2 16:30",
+            "西南光利西南側立面；只走合法過街處，不到車流中央取景。"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "title": "Stavropoleos｜44.431742,26.098789",
+          "url": "https://www.google.com/maps/search/?api=1&query=44.431742%2C26.098789"
+        },
+        {
+          "title": "CEC Palace｜44.4320,26.0965",
+          "url": "https://www.google.com/maps/search/?api=1&query=44.4320%2C26.0965"
+        },
+        {
+          "title": "Athenaeum｜44.441306,26.097306",
+          "url": "https://www.google.com/maps/search/?api=1&query=44.441306%2C26.097306"
+        },
+        {
+          "title": "Curtea Monastery｜45.15679,24.67546",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.15679%2C24.67546"
+        },
+        {
+          "title": "Princely Church｜45.14204,24.67574",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.14204%2C24.67574"
+        },
+        {
+          "title": "Poenari parking｜45.34963,24.63293",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.34963%2C24.63293"
+        },
+        {
+          "title": "Poenari Fortress｜45.35382,24.63521",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.35382%2C24.63521"
+        },
+        {
+          "title": "Vidraru Dam｜45.36632,24.63058",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.36632%2C24.63058"
+        },
+        {
+          "title": "Hotel Valea cu Pești｜45.39163,24.62723",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.39163%2C24.62723"
+        },
+        {
+          "title": "Bâlea Lake｜45.6033,24.6172",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.6033%2C24.6172"
+        },
+        {
+          "title": "Piața Mare Sibiu｜45.7963,24.1518",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.7963%2C24.1518"
+        },
+        {
+          "title": "ASTRA｜45.75394,24.11459",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.75394%2C24.11459"
+        },
+        {
+          "title": "Biertan｜46.13694,24.52694",
+          "url": "https://www.google.com/maps/search/?api=1&query=46.13694%2C24.52694"
+        },
+        {
+          "title": "Clock Tower｜46.21929,24.79332",
+          "url": "https://www.google.com/maps/search/?api=1&query=46.21929%2C24.79332"
+        },
+        {
+          "title": "Viscri｜46.0549,25.0886",
+          "url": "https://www.google.com/maps/search/?api=1&query=46.0549%2C25.0886"
+        },
+        {
+          "title": "Rupea｜46.03715,25.21241",
+          "url": "https://www.google.com/maps/search/?api=1&query=46.03715%2C25.21241"
+        },
+        {
+          "title": "Black Church｜45.6410,25.5880",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.6410%2C25.5880"
+        },
+        {
+          "title": "White Tower｜45.6429,25.5866",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.6429%2C25.5866"
+        },
+        {
+          "title": "Libearty｜45.593020,25.385220",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.593020%2C25.385220"
+        },
+        {
+          "title": "Seven Ladders｜45.5674,25.64368",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.5674%2C25.64368"
+        },
+        {
+          "title": "Cantacuzino｜45.41395,25.54292",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.41395%2C25.54292"
+        },
+        {
+          "title": "Peleș｜45.35972,25.54278",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.35972%2C25.54278"
+        },
+        {
+          "title": "Sinaia Monastery｜45.35533,25.54962",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.35533%2C25.54962"
+        },
+        {
+          "title": "Arcul de Triumf｜44.467278,26.078361",
+          "url": "https://www.google.com/maps/search/?api=1&query=44.467278%2C26.078361"
+        }
+      ]
+    },
+    {
+      "id": "ro-sun",
+      "title": "日出、日落與暮光",
+      "paragraphs": [
+        "Astral依座標與Europe/Bucharest時區計算，時間取整分；以無山稜遮擋的標準地平線為基準，山區實際直射光可能早很多消失。此表不是天氣預報。"
+      ],
+      "table": {
+        "headers": [
+          "日期",
+          "地點",
+          "日出",
+          "日落",
+          "民用暮光結束"
+        ],
+        "rows": [
+          [
+            "2026-09-23",
+            "Bucharest",
+            "07:03",
+            "19:11",
+            "19:40"
+          ],
+          [
+            "2026-09-24",
+            "Bucharest",
+            "07:05",
+            "19:09",
+            "19:38"
+          ],
+          [
+            "2026-09-25",
+            "Vidraru",
+            "07:12",
+            "19:13",
+            "19:43"
+          ],
+          [
+            "2026-09-26",
+            "Bâlea",
+            "07:13",
+            "19:11",
+            "19:41"
+          ],
+          [
+            "2026-09-27",
+            "Sibiu",
+            "07:16",
+            "19:11",
+            "19:41"
+          ],
+          [
+            "2026-09-28",
+            "Sighișoara",
+            "07:15",
+            "19:06",
+            "19:37"
+          ],
+          [
+            "2026-09-29",
+            "Brașov",
+            "07:13",
+            "19:01",
+            "19:31"
+          ],
+          [
+            "2026-10-01",
+            "Sinaia",
+            "07:15",
+            "18:58",
+            "19:28"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ro-food",
+      "title": "料理辨識與點餐",
+      "paragraphs": [
+        "兩人通常先共享一份湯、一份主菜與一份蔬菜，再視份量加點。餐廳名稱是沿線候選，沒有代訂、也不保證當天座位。駕駛不飲酒。"
+      ],
+      "table": {
+        "headers": [
+          "料理",
+          "文化與口感",
+          "點餐方式"
+        ],
+        "rows": [
+          [
+            "Ciorbă",
+            "帶酸味的湯；牛肚版常有奶油、蒜與蛋黃",
+            "詢問酸度與配料"
+          ],
+          [
+            "Sarmale／Mămăligă",
+            "酸菜包肉米；玉米糊為農村主食",
+            "搭配酸奶油，共享即可"
+          ],
+          [
+            "Bulz",
+            "牧羊起司與玉米糊，可加蛋或肉",
+            "份量厚重，不再同時點大量主食"
+          ],
+          [
+            "Mici／Tochitură",
+            "烤絞肉條／燉肉，常配芥末或玉米糊",
+            "肉類主菜二選一"
+          ],
+          [
+            "Zacuscă",
+            "烤茄子、甜椒保存醬",
+            "秋季早餐配麵包"
+          ],
+          [
+            "Papanași／Cozonac",
+            "乳酪甜點／節慶甜麵包",
+            "Papanași先點一份兩人分享"
+          ]
+        ]
+      }
+    }
+  ],
+  "days": [
+    {
+      "id": "ro23",
+      "date": "2026-09-23",
+      "title": "抵達Bucharest｜老城與王國立面",
+      "summary": "住宿：Central Comfort Suites - Geo12。抵達日只走平緩老城，依航班與交通延誤縮減。",
+      "stops": [
+        {
+          "id": "ro23-1",
+          "time": "11:35–17:20",
+          "name": "TIA → OTP、交通與入住",
+          "description": "Ryanair 11:35起飛、14:00抵達（各地當地時間）；14:50–15:20預估出關。100號巴士或Bolt／Uber，16:30–17:20入住休息。STB工程公告將100／442機場站調整至Plecări共用站，依機場現場標示找站，勿在原Sosiri站空等。",
+          "booking": "航班與住宿依提供訂單；接駁及入住時間為估算。"
+        },
+        {
+          "id": "ro23-2",
+          "time": "17:30–18:00",
+          "name": "Piața Unirii → Manuc’s Inn → Curtea Veche",
+          "description": "從大廣場進入舊城，王公宮廷遺址以外觀為主。",
+          "guide": {
+            "see": "在Unirii先看巨大街廓與整治河道，再走入Manuc庭院：環形走廊把住宿、貨物與商人活動包在可控制的空間裡。Curtea Veche注意宮廷與市場距離，理解城市如何圍繞王公據點生長。",
+            "history": "Bucharest老城結合瓦拉幾亞宮廷、巴爾幹市場與後來的銀行商業街。Vlad Țepeș與Bucharest王公據點有歷史聯繫；他處在鄂圖曼、匈牙利與本地貴族競爭的政治環境。",
+            "story": "Manuc的商旅驛站格局可和Skopje的han比較：防護貨物、集中旅客與商業交易都比今天的飯店休閒功能重要。Dracula是19世紀小說角色，不能拿來解釋15世紀所有政治暴力。",
+            "tips": "庭院餐廳可能需消費或受活動限制；遺址內部不預設開放。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Hanul%20lui%20Manuc%20Bucharest"
+        },
+        {
+          "id": "ro23-3",
+          "time": "18:00–18:30",
+          "name": "Stavropoleos → Cărturești Carusel",
+          "description": "小型教堂、庭院石刻與書店；若已關門只看外觀。",
+          "guide": {
+            "see": "Stavropoleos由柱頭、拱廊、纏繞植物石雕開始看，再看尺度緊湊的庭院。書店則看修復後的採光、樓梯與舊商業樓層如何轉為文化零售。",
+            "history": "Brâncovenesc風格將東正教空間、巴爾幹裝飾與文藝復興語彙結合，與17至18世紀瓦拉幾亞王公文化相關。今天書店代表的是21世紀老城再利用，而非中古圖書館。",
+            "story": "庭院保存的碑石與建築碎片提醒人，城市遺產經歷拆除、地震與重建；精緻小教堂常比巨型建築更能保留工匠手藝。",
+            "tips": "禮拜中不拍信徒；書店樓梯留通行空間。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=44.431742%2C26.098789"
+        },
+        {
+          "id": "ro23-4",
+          "time": "18:30–19:40",
+          "name": "CEC Palace → Macca–Villacrosse Passage",
+          "description": "CEC外觀與玻璃頂商業廊道；日落後再拍燈光與天空。",
+          "guide": {
+            "see": "CEC看穹頂、柱式與銀行立面的對稱性；廊道看黃玻璃如何把自然光變暖，店面連續排列如何延長街道生活。",
+            "history": "19世紀末的銀行、旅館與大道，是羅馬尼亞王國借用法國城市語言表現現代化的方式。「小巴黎」指特定時期的菁英文化，不代表整座城完全仿巴黎。",
+            "story": "有頂商業街在雨雪與泥濘年代提供遮蔽的購物、社交空間；今天水煙、餐飲與觀光則是另一層使用史。",
+            "tips": "CEC朝東主立面早晨較順光，今晚重點是藍調而非正面夕照。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=44.4320%2C26.0965"
+        },
+        {
+          "id": "ro23-5",
+          "time": "19:45後",
+          "name": "晚餐與早餐補給",
+          "description": "Hanu’ lui Manuc或Caru’ cu Bere擇一，依營業及座位決定；買水、優格、水果與早餐。",
+          "guide": {
+            "see": "兩人可共享酸湯、sarmale與mici，再決定是否加甜點。Caru’ cu Bere可觀察木作、彩繪與歷史餐廳空間。",
+            "history": "Ciorbă的酸味可來自發酵麥麩液、醋或酸菜汁；mămăligă是玉米主食，sarmale反映巴爾幹共享飲食。",
+            "story": "Papanași是乳酪麵糰甜點，酸奶油與果醬平衡油炸口感；通常先點一份共享。",
+            "tips": "餐廳未預訂；先看菜單與總份量。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Caru%20cu%20Bere%20Bucharest"
+        }
+      ],
+      "rainPlan": "下雨先逛書店、拱廊與餐廳庭院；宗教場所入內依開放。",
+      "cutPlan": "先刪Unirii繞行與Curtea Veche停留，保留入住、晚餐與一段老城。"
+    },
+    {
+      "id": "ro24",
+      "date": "2026-09-24",
+      "title": "Bucharest｜人民宮、革命與Athenaeum音樂會",
+      "summary": "住宿：Central Comfort Suites - Geo12。上午權力建築，晚上文化募款象徵；兩者形成整日主題。",
+      "stops": [
+        {
+          "id": "ro24-1",
+          "time": "08:45出門；09:30報到；10:00–11:15",
+          "name": "Palace of Parliament",
+          "description": "預留安檢，帶實體護照；入口依預約說明，不直接導航到正面廣場。",
+          "guide": {
+            "see": "進門後比較樓梯寬度、天花高度與人的尺度。觀察石材、地毯、木作與水晶：材料來源與巨大用量本身就是政治訊息。",
+            "history": "1977年地震後，Ceaușescu政權推動大規模都市改造，拆除舊街區、住宅及宗教建築。人民宮與Civic Centre建立可供集會與權力展示的首都軸線。",
+            "story": "普通居民面臨能源與消費限制時，國家把大量資源投入宏大工程；參观只見建築一部分，也足以比較公共口號與實際資源分配。",
+            "tips": "約85 RON為提供資料參考價，購票再核對。小團需提前電話確認；尚未預約。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Parliament%20Bucharest",
+          "booking": "目標10:00英文導覽；依官方確認的入口及報到時間。"
+        },
+        {
+          "id": "ro24-2",
+          "time": "11:20–14:00",
+          "name": "Constitution Square → 午餐 → Cișmigiu",
+          "description": "11:20–11:45廣場；12:00–13:00午餐；13:15–14:00公園。",
+          "guide": {
+            "see": "從廣場回望巨大軸線，再在公園看彎曲步道、長椅與湖岸。兩種公共空間如何對待人的尺度，現場很容易比較。",
+            "history": "廣場服務政治儀式與建築視線；19世紀城市公園則與公共衛生、休閒和市民生活相關。",
+            "story": "公園下棋、遛狗與長時間聊天的居民，是首都歷史之外仍在延續的日常。",
+            "tips": "人民宮東面上午較利正面光；不在車道中央取景。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Piata%20Constitutiei%20Bucharest"
+        },
+        {
+          "id": "ro24-3",
+          "time": "14:15–16:15",
+          "name": "Revolution Square → 國家美術館／咖啡",
+          "description": "革命廣場45分鐘；美術館只選一個展區，不安排完整館藏。",
+          "guide": {
+            "see": "辨認Royal Palace、舊共產黨中央大樓與革命紀念物，三者分別代表王國、威權政權與轉型後記憶。",
+            "history": "1989年12月21日，Ceaușescu公開演說遭到騷動與噓聲，直播中的失控打破受安排的支持場景；次日他從屋頂搭直升機離開。",
+            "story": "同一廣場的建築不是和諧年代陳列，而是不同行政與政治制度留下的空間。紀念物如何詮釋革命，也属于後來的公共討論。",
+            "tips": "若人民宮延誤，美術館改咖啡，保留晚上入場緩衝。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Revolution%20Square%20Bucharest"
+        },
+        {
+          "id": "ro24-4",
+          "time": "16:30–18:20",
+          "name": "Calea Victoriei向北步行與早晚餐",
+          "description": "CEC → National Military Circle → Casa Capșa → Revolution Square → Athenaeum；17:30左右吃簡餐。",
+          "guide": {
+            "see": "比較相鄰法式宮殿、共產公寓與當代玻璃店面，留意立面後方建築實際深度。",
+            "history": "勝利大道前身是連接王宮與外圍道路的交通線，王國時期成為飯店、精品、政治與文化機構聚集的社交舞台。",
+            "story": "Casa Capșa等咖啡餐飲場所曾讓文人、政治人物與商界共用一個公共客廳；喝咖啡也能是觀察社會的方式。",
+            "tips": "不為追完整日落耽誤音樂會。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Calea%20Victoriei%20Bucharest"
+        },
+        {
+          "id": "ro24-5",
+          "time": "18:30入場；19:00演出",
+          "name": "David Kadouch｜Bucharest International Piano Festival",
+          "description": "Athenaeum鋼琴獨奏，售票頁列9/24 19:00，159.08 RON起；目前未購票。",
+          "guide": {
+            "see": "入場看圓形音樂廳的環形歷史壁畫與座席如何包圍舞台，再以聲音感受建築。節目包括Chopin、Liszt、Ravel、Fauré、Barber、Tchaikovsky，實際曲目以主辦方當日為準。",
+            "history": "Athenaeum於19世紀末興建，是羅馬尼亞王國文化認同的象徵。公共募款口號「給Athenaeum一個leu」表達文化建設也需要社會參與。",
+            "story": "與上午人民宮比較：兩者都表現國家形象，但募款音樂殿堂與獨裁政權的巨型工程，在資源來源與公民關係上很不同。",
+            "tips": "若不購票，改查當日白天參觀時段；不能假設可於演出前免費參觀。演出結束時間依節目，不虛設21:00準時結束。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=44.441306%2C26.097306",
+          "official": "https://www.iabilet.ro/bilete-david-kadouch-recital-de-pian-bucharest-international-piano-festival-128514/",
+          "booking": "建議購票，非已訂；庫存及價格依結帳頁。"
+        }
+      ],
+      "rainPlan": "公園縮短，增加美術館或咖啡；音樂會與人民宮需先確認票。",
+      "cutPlan": "先刪美術館、縮短公園；17:30前吃簡餐，18:30抵達音樂廳。"
+    },
+    {
+      "id": "ro25",
+      "date": "2026-09-25",
+      "title": "取車 → Curtea de Argeș → Vidraru湖畔",
+      "summary": "住宿：Hotel Valea cu Pești，位於Vidraru湖沿線。已刪除Central Vibe與Curtea住宿，不在隔天重跑水壩。",
+      "stops": [
+        {
+          "id": "ro25-1",
+          "time": "09:00–10:10",
+          "name": "SIXT取車與出城",
+          "description": "09:30取車，拍車身四角、底緣、輪圈、玻璃、車頂、油表與里程。確認門市、10/2歸還時限、燃油規則、rovinieta、救援及山路使用条件。",
+          "booking": "攜帶護照、台灣駕照、國際駕照及合約要求的主駕駛信用卡；文件以SIXT書面確認為準。"
+        },
+        {
+          "id": "ro25-2",
+          "time": "12:15–13:10",
+          "name": "Curtea de Argeș Monastery",
+          "description": "從Bucharest經Pitești方向前往；城市出城可能延誤。",
+          "guide": {
+            "see": "先繞外牆看幾何雕刻、裝飾帶與扭轉塔，再看王室墓葬的敘事。把石雕當成細工閱讀，比只拍整棟更能理解工藝。",
+            "history": "16世紀Neagoe Basarab時期的修道院連結瓦拉幾亞王權與東正教；後來王室修復、安葬於此，把現代王國與中世紀正統相接。",
+            "story": "Master Manole為讓牆不再倒塌而犧牲妻子Ana，是民間傳說，不是建築史紀錄。其「創作以生命換永恆」的母題，在巴爾幹其他地方也可見。",
+            "tips": "與10/1 Peleș比較：此處是王室死亡與國家記憶，Peleș則是生活、外交和國家形象。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.15679%2C24.67546"
+        },
+        {
+          "id": "ro25-3",
+          "time": "13:20–14:00",
+          "name": "Princely Church of Saint Nicholas",
+          "description": "舊王公宮廷與教堂；若抵達延誤，以外觀或短訪代替。",
+          "guide": {
+            "see": "看教堂空間與殘存宮廷位置，內部若開放，留意壁畫人物層次與統治者形象。",
+            "history": "Curtea意為宮廷；14世紀城市是瓦拉幾亞政治與宗教中心，1359年設立都主教座。後來政治重心轉移，仍留下早期國家形成的證據。",
+            "story": "與裝飾華麗的修道院相比，王公教堂更接近早期王庭的政治核心；大小不等於歷史重要性。",
+            "tips": "不得以閃光燈拍壁畫；內部開放依現場。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.14204%2C24.67574"
+        },
+        {
+          "id": "ro25-4",
+          "time": "14:00–14:40",
+          "name": "午餐、加油與高山日補給",
+          "description": "買水、麵包、起司、冷肉、水果、堅果與熱飲；確認飯店早餐能否外帶。不假設飯店客房有廚房。"
+        },
+        {
+          "id": "ro25-5",
+          "time": "15:20決定；約15:30–17:30選配",
+          "name": "Poenari Fortress",
+          "description": "約1,480階，僅在官方團很快成行、天乾且體力足時登頂；含往返至少保留約2小時。等待超過20–30分鐘就跳過。",
+          "guide": {
+            "see": "從河谷看山脊如何控制通道，登頂後辨認城牆與坡度的配合；防禦視野比豪華室內更重要。",
+            "history": "此處有較早堡壘基礎，Vlad Țepeș在15世紀加固、使用它，與Vlad的聯繫比Bran的小說包裝直接。",
+            "story": "山頂堡壘需要糧食、水與守軍補給，最陡不一定最實用；把樓梯當成今天的進出條件，也能想像過去運輸的成本。",
+            "tips": "官方2026年8月公告10:00–18:00、最後上山17:00、僅組織團體；9/25出發前再確認。不能自己湊人便擅自上山。30 RON為參考，現場核對。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.34963%2C24.63293",
+          "official": "https://www.cjarges.ro/en/programul-evenimentelor-cultural-artistice-in-perioada-15-23-august-2026"
+        },
+        {
+          "id": "ro25-6",
+          "time": "不登堡約16:00；登堡約17:45",
+          "name": "Vidraru Dam → Hotel Valea cu Pești",
+          "description": "水壩停20–30分鐘；不登堡約17:00入住，登堡約18:30。飯店在湖東岸沿線，並非湖最北端。",
+          "guide": {
+            "see": "壩的一側是平靜蓄水湖，另一側是深谷；看弧形壩如何把水壓傳至兩側山體。",
+            "history": "1966年完工的水力工程體現社會主義工業化、能源與控制水系的企圖。今日休閒湖景來自人造蓄水，而非天然高山湖。",
+            "story": "從水壩到隔天冰斗湖，能比較兩種完全不同的湖泊生成方式：工程阻水與冰河侵蝕。",
+            "tips": "只在正式停車處停靠；若登堡後延誤，不為湖畔夕照加速。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.36632%2C24.63058"
+        },
+        {
+          "id": "ro25-7",
+          "time": "18:20–19:10視抵達；晚餐後早睡",
+          "name": "湖畔露台與隔日路況準備",
+          "description": "看夕照、整理防風保暖層，確認外帶早餐；明早06:30決策，不預設高山健行。",
+          "map": "https://www.google.com/maps/search/?api=1&query=45.39163%2C24.62723"
+        }
+      ],
+      "rainPlan": "Poenari取消登階；修道院後補給，再沿正式道路抵湖畔住宿。",
+      "cutPlan": "第一個刪Poenari登頂，其次縮短Princely Church；保留補給、加油、白天山路與休息。"
+    },
+    {
+      "id": "ro26",
+      "date": "2026-09-26",
+      "title": "Transfăgărășan｜高山道路與冰斗湖",
+      "summary": "住宿：Zenith Apartament Old Town Piata Mare，Sibiu。高山段只在正式開放且當日條件適合時通行；不安排必走Capra Saddle。",
+      "stops": [
+        {
+          "id": "ro26-1",
+          "time": "06:30–07:10",
+          "name": "Go／No-Go與早餐",
+          "description": "查警方／道路單位公告、Bâlea即時溫度、降雪結冰、風勢與能見度。9/22初雪後路況正常只是歷史快照。若封路沒有明確上午恢復時間，直接南返走DN7備案。",
+          "booking": "已設定9/26 06:30羅馬尼亞當地時間檢查提醒；現場告示與官方管制優先。"
+        },
+        {
+          "id": "ro26-2",
+          "time": "07:10–09:15",
+          "name": "Vidraru沿湖北上",
+          "description": "07:10離店，水壩已於前日看過。彎道、路面與野生動物可能使車速很低。",
+          "guide": {
+            "see": "留意森林帶、河谷與聚落逐漸消失；在合法休息點觀察坡度，不在盲彎臨停。",
+            "history": "Transfăgărășan主要在1970–1974年間興建，兼具軍事交通、山區基礎建設與政權展示功能，常與1968年後的國防焦慮相聯。",
+            "story": "把它簡化成領袖為觀光蓋的路會倒置歷史；風景公路是後來的第二生命，工程背後還有艱苦施工與人命代價。",
+            "tips": "熊可能把汽車與食物連結。保持車窗關閉、不要跟停餵食，也不要靠近熊後再找角度拍照。"
+          }
+        },
+        {
+          "id": "ro26-3",
+          "time": "09:45–11:00",
+          "name": "Capra Waterfall與南坡地形",
+          "description": "瀑布短停約25分鐘，再往高山；時間是彈性窗口，依道路實況調整。",
+          "guide": {
+            "see": "由闊葉林、針葉林、矮灌木到草甸與裸岩，觀察海拔變化如何縮短植物生長季。",
+            "history": "山脈既是自然屏障，也是瓦拉幾亞與外西凡尼亞歷史交通的阻隔；公路打通的是地形，也是區域交流。",
+            "story": "山下舒適不代表山頂同樣溫暖。風、陰影和雨雪會讓短短數百公尺的步行也成為不同等級的活動。",
+            "tips": "沒合法停車空間就略過瀑布；不跨護欄、不進行車線。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Cascada%20Capra%20Romania"
+        },
+        {
+          "id": "ro26-4",
+          "time": "11:00–12:45",
+          "name": "Bâlea Lake",
+          "description": "簡短湖邊散步與自備午餐；不預設完整環湖或上Capra Saddle，結冰及封閉步段不走。",
+          "guide": {
+            "see": "先看湖後方碗狀山壁、碎石坡與樹線，再看湖泊與隧道的位置。這是閱讀冰斗地形的最佳停點。",
+            "history": "冰河在山谷上端侵蝕出盆狀凹地，冰退後水留在凹地形成湖泊。約2,000公尺高度的低溫、短生長季與強風限制高大樹木。",
+            "story": "與昨天Vidraru對照：一座湖由人築壩形成，一座由長時間地質作用形成；兩者都改變交通與人的使用方式。",
+            "tips": "有能見度就拍，不硬等夕照。鞋底抓地、保暖防風；路面結冰與天候警告不是可用熱情克服的條件。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.6033%2C24.6172"
+        },
+        {
+          "id": "ro26-5",
+          "time": "12:50–15:00",
+          "name": "山頂隧道 → 北側髮夾彎 → Bâlea Cascadă",
+          "description": "13:00–14:15觀景；14:30–15:00咖啡與洗手間。",
+          "guide": {
+            "see": "穿隧道後看公路如何以髮夾彎消化高度，山谷突然開闊；用車輛作比例尺，但只在安全公共觀景區構圖。",
+            "history": "北側開始進入Transylvania的文化地理。公路的工程幾何和冰河地形共同形成今天經典畫面。",
+            "story": "照片常讓人以為彎道可以隨便停車；實際是仍在使用的交通線，攝影者只是短暫訪客。",
+            "tips": "不跨護欄、不把車停在彎道或入口。雲霧遮擋時縮短停留，安全下山。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Balea%20Cascada"
+        },
+        {
+          "id": "ro26-6",
+          "time": "16:30–17:30入住；18:30晚餐",
+          "name": "Sibiu入住與夜景",
+          "description": "Crama Sibiul Vechi可作晚餐候選，先確認座位。劇場節若有適合語言及時間的節目才加入，不為活動壓縮山路。",
+          "map": "https://www.google.com/maps/search/?api=1&query=45.7963%2C24.1518"
+        }
+      ],
+      "rainPlan": "道路關閉或積雪結冰、強風濃霧不宜通行：Hotel → Curtea de Argeș → Pitești → Râmnicu Vâlcea → DN7 Olt Valley → Sibiu。當天也查DN7施工與管制，按導航加入休息，直接前往住宿。",
+      "cutPlan": "先刪高處步道，再縮短湖邊停留；道路條件不適合就改線，不以已付款住宿作為冒險理由。"
+    },
+    {
+      "id": "ro27",
+      "date": "2026-09-27",
+      "title": "Sibiu＋ASTRA｜城市自治與農村技術",
+      "summary": "住宿：Zenith Apartament Old Town Piata Mare。ASTRA保留約4小時45分鐘；不與17:00音樂會重疊。",
+      "stops": [
+        {
+          "id": "ro27-1",
+          "time": "07:10–08:00；08:30早餐",
+          "name": "Piața Mare → Council Tower → Piața Mică",
+          "description": "先拍空景與屋頂眼睛；登塔留到正式開放後。",
+          "guide": {
+            "see": "大廣場看市政、貴族宅邸、教會與商業功能相鄰；小廣場看底層拱廊與狹长店屋。",
+            "history": "Sibiu德名Hermannstadt。中世紀匈牙利王室招募德語移民發展邊境城鎮，商業、工匠、自治制度與教會共同塑造城市。",
+            "story": "屋頂眼睛本質是閣樓通風口，幫助儲存商品、穀物與物品，並控制雨雪進入；不是監視居民的秘密機關。",
+            "tips": "每個立面不同朝向，清晨先選受光面；不把所有廣場都稱為順光。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.7963%2C24.1518"
+        },
+        {
+          "id": "ro27-2",
+          "time": "09:00–11:30",
+          "name": "Huet Square、Lutheran Cathedral與Lower Town",
+          "description": "Council Tower視開放登塔 → Bridge of Lies → Huet → Evangelical Cathedral → Passage of Stairs → Lower Town。",
+          "guide": {
+            "see": "看Upper與Lower Town高差、教堂尖塔與通道；拱廊為交易遮雨，階梯把象徵權力中心與生產運輸區相接。",
+            "history": "16世紀宗教改革讓德語社群轉向路德宗，禮拜語言、教育與城市身份一起改變。行會既管品質、學徒與市場，也分擔防禦責任。",
+            "story": "Bridge of Lies讓說謊者墜落的故事屬城市傳說；真正可看的，是19世紀鑄鐵橋如何跨越通往下城的道路。",
+            "tips": "教堂礼拜可能限制參觀；若想登塔，先確認票務與樓梯狀況。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Bridge%20of%20Lies%20Sibiu"
+        },
+        {
+          "id": "ro27-3",
+          "time": "11:45–12:20",
+          "name": "午餐與前往ASTRA",
+          "description": "Piata Mica簡餐；開車或叫車到露天博物館，勿把步行路程算成市中心景點距離。"
+        },
+        {
+          "id": "ro27-4",
+          "time": "12:30–17:15",
+          "name": "ASTRA Museum",
+          "description": "選水力／風力、牧民住宅、木教堂與湖畔路線，預留步行距離。",
+          "guide": {
+            "see": "每棟建築問四題：能源從哪裡來？水如何取得？食物如何保存？這戶靠什麼維生？比較磨坊的傳動系統，不只看外形。\n\n水車與風車把自然能量轉成磨麵、鋸木、處理羊毛或製油的勞動；牧民住宅則反映季節移動與乳製品保存。",
+            "history": "博物館以不同地區移建及保存的建築、工具與工坊呈現工業化前的生產系統。農戶不只是消費者，也生產衣物、食物與日用品。",
+            "story": "木教堂除了禮拜，也是婚喪、消息與社群記憶中心。磨坊控制者在地方經濟中往往重要，因為許多人的糧食加工都依賴它。",
+            "tips": "9月露天區長時段開放不等於每棟室內全天開門。園區大，先看入口當日圖與展示開放；17:15返程保留晚餐。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.75394%2C24.11459",
+          "official": "https://muzeulastra.ro/"
+        },
+        {
+          "id": "ro27-5",
+          "time": "選配17:00；主線18:15–19:15",
+          "name": "Duo Noema或老城黃昏",
+          "description": "Duo Noema「Beethoven & Enescu」9/27 17:00 Sala Oglinzilor，主辦方列免費。要參加需15:45離ASTRA；主線則17:15離館後回老城拍照。",
+          "official": "https://stagiuneacamerala.ro/event/odae-cum-harmoniis-duo-noema/"
+        }
+      ],
+      "rainPlan": "老城以教堂與咖啡休息穿插；ASTRA可看有開放的室內展示，雷雨時縮短露天段。",
+      "cutPlan": "保留ASTRA重點，先刪音樂會選項與重複夜景；如很想聽Enescu，15:45離館。"
+    },
+    {
+      "id": "ro28",
+      "date": "2026-09-28",
+      "title": "Biertan → Sighișoara｜教堂堡壘與行會城牆",
+      "summary": "住宿：Gloria Apartments。Biertan星期一可依公布時段參觀；Clock Tower室內改明早。",
+      "stops": [
+        {
+          "id": "ro28-1",
+          "time": "08:20出發；10:00–12:00",
+          "name": "Biertan Fortified Church",
+          "description": "09:50抵達。市政府列9–10月每天10–17，13–14午休；12–13午餐與村落散步，13:10離開。",
+          "guide": {
+            "see": "由外牆、塔樓、坡度、儲藏空間依序看到中央教堂；聖器室門的多點鎖具說明教堂也保管重要財產與文書。",
+            "history": "現存晚期哥德教堂及環繞防禦系統服務村落避難，1572–1867為薩克森路德宗主教座所在地。居民無法每戶築城，便集中保護公共核心。",
+            "story": "「婚姻監獄」適合用來理解宗教社群的調解與社會壓力；網路流傳幾百年只有一對離婚，不能當可靠統計。",
+            "tips": "午休前完成室內；高地石階濕時放慢。從院落往下看長形農舍與田地，不只拍紅瓦。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=46.13694%2C24.52694",
+          "official": "https://comunabiertan.ro/turism/"
+        },
+        {
+          "id": "ro28-2",
+          "time": "14:20–14:40入住；15:00–16:15",
+          "name": "Sighișoara城堡區與Clock Tower外觀",
+          "description": "Citadel Square → Vlad Dracul House → Venetian House → 行會塔樓。今天星期一不安排History Museum內部。",
+          "guide": {
+            "see": "認出Tailors、Butchers、Tinsmiths等塔名，把城牆當成一張行會責任地圖；時鐘塔同時是城門、市政權力與公共時間的象徵。",
+            "history": "世界遺產城堡區仍有人居住、上學與經商。工匠行會控制學徒、商品品質與市場，也維修城市特定防禦段落。",
+            "story": "黃色Vlad Dracul House是與家族歷史相關的地方傳統；Vlad出生於此城的說法，不等於可精確證明現有房間就是出生房。",
+            "tips": "不要為吸血鬼情境消費犧牲歷史街區；登塔票明早處理。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=46.21929%2C24.79332"
+        },
+        {
+          "id": "ro28-3",
+          "time": "16:15–18:20",
+          "name": "Covered Scholars’ Stairs → Church on the Hill → Saxon Cemetery",
+          "description": "先確認教堂當日最後入場，關閉則外觀；下山拍彩色屋頂。",
+          "guide": {
+            "see": "有頂階梯連接學校、教堂與墓園，雨雪季仍能通行。教堂看哥德拱頂、壁畫殘跡與宗教改革後的改動。",
+            "history": "德文墓碑保存家族的世代記憶。20世紀戰爭、遷徙與1989年後移民改變薩克森人口，但不能把今日城鎮想成無人的德語遺址。",
+            "story": "教育、宗教與死亡在同一條山路上相連，反映社群生活比觀光景點分類更緊密。",
+            "tips": "墓園保持安靜；不用恐怖或吸血鬼框架理解墓地。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Church%20on%20the%20Hill%20Sighisoara"
+        },
+        {
+          "id": "ro28-4",
+          "time": "18:20–19:30",
+          "name": "Clock Tower與廣場黃昏、晚餐",
+          "description": "日落前拍側光，日落後拍藍調；Joseph T、Alte Post或Casa Georgius Krauss作餐廳候選，依當天營業。",
+          "map": "https://www.google.com/maps/search/?api=1&query=46.21929%2C24.79332"
+        }
+      ],
+      "rainPlan": "村落步行縮短，教堂按開放參觀；墓園與陡階濕滑時跳過。",
+      "cutPlan": "午餐縮短，不拖到13:00才進Biertan；Sighișoara優先城堡主街與教堂，塔內留明早。"
+    },
+    {
+      "id": "ro29",
+      "date": "2026-09-29",
+      "title": "Clock Tower → Viscri → Rupea → Brașov",
+      "summary": "住宿：Cosmo Studio。Viscri按修復狀況縮短；Rupea保留為可刪支線，保住Black Church室內。",
+      "stops": [
+        {
+          "id": "ro29-1",
+          "time": "07:15–08:00晨拍；09:00–10:00",
+          "name": "Clock Tower／History Museum",
+          "description": "早餐、退房後參觀，行李寄放或安全收妥；10:10出發。",
+          "guide": {
+            "see": "先看城市模型，再從高處辨認昨日的城門、教堂、學校和行會防禦線。機械人偶把宗教與公共時間變成可見的城市秩序。",
+            "history": "塔樓不只為看風景而建；報時協調交易、禮拜與社會活動，也展示市政機構對公共生活的管理。",
+            "story": "昨天在巷弄看的零碎點，今天從高處連成完整城市結構。這比只拍屋頂更能讀懂城堡城。",
+            "tips": "區域旅遊資料列星期二09:00開，星期一閉館；臨時維修依現場。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=46.21929%2C24.79332",
+          "official": "https://visitmures.com/sighisoara/patrimoniu/muzee/muzeul-de-istorie-sighisoara"
+        },
+        {
+          "id": "ro29-2",
+          "time": "11:15–12:45；12:45–13:30午餐",
+          "name": "Viscri村落與修復中的防禦教堂",
+          "description": "主教堂及主塔關閉。看村落博物館、陶器展、South Bastion上層、Bacon Tower；成人20 RON，村外官方停車免費。",
+          "guide": {
+            "see": "按「街道→立面→大門→院落→穀倉→長形地塊」觀察，每戶其實是一個生產單位。高大木門讓馬車、牲畜與農產品通行。",
+            "history": "Viscri德名Weisskirch，村落的防禦教堂把宗教、储糧與避難集中；社區修復與傳統工藝延續比單棟藍房子更重要。",
+            "story": "移民後的村落曾面臨人口與維護問題，保育和旅遊帶來收入，也改變房屋用途。暫時關閉修復是保存工作的一部分，不是世界遺產失去價值。",
+            "tips": "GPS指教堂範圍，不能直接開入居民道路。照村外停車指示，勿推開私人院門。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=46.0549%2C25.0886",
+          "official": "https://www.biserica-fortificata-viscri.ro/en/"
+        },
+        {
+          "id": "ro29-3",
+          "time": "14:00–15:00",
+          "name": "Rupea Fortress",
+          "description": "新增山丘堡壘，15:10前離開；約16:20到Brașov。公布時段需購票前再核對，遇延誤可整站刪除。",
+          "guide": {
+            "see": "由下往上看不同高度防禦區、城牆轉折與玄武岩基座；觀察它如何利用孤立丘體控制附近交通。",
+            "history": "與村落教堂不同，Rupea是依山丘地形發展的防禦聚落，分期擴張讓不同高度形成多層保護。",
+            "story": "比較四種防禦：Viscri農村避難、Biertan宗教中心、Sighișoara城鎮行會、Rupea山丘交通控制。它們不是四次重複看城牆。",
+            "tips": "風大、雨後石路滑時不上高處。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=46.03715%2C25.21241"
+        },
+        {
+          "id": "ro29-4",
+          "time": "17:00–18:00",
+          "name": "Black Church室內",
+          "description": "停車入住後步行／叫車进老城；週二公布時段至19:00，宗教活動可能調整，先入館再拍廣場。",
+          "guide": {
+            "see": "先找鄂圖曼／安納托利亞地毯，再看哥德空間、管風琴與商人捐贈。地毯出現在路德宗教堂，正說明宗教邊界不等於商業邊界。",
+            "history": "Brașov德名Kronstadt，靠跨山貿易富裕。16世紀Johannes Honterus推動宗教改革，德語教育與教會制度也隨之轉變。",
+            "story": "Black Church之名通常與1689年大火後建築外觀相聯；真正值得看的並不只是顏色，而是商業財富如何轉成宗教藝術。",
+            "tips": "攝影與音樂會另依館規；勿為拍外觀錯過最後入場。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.6410%2C25.5880"
+        },
+        {
+          "id": "ro29-5",
+          "time": "18:10–19:05",
+          "name": "White Tower → Council Square",
+          "description": "天乾且有體力才走上觀景步道，否則在廣場拍夕照。",
+          "guide": {
+            "see": "向東南看廣場、紅瓦與Tâmpa，城市緊貼山體；與較開闊的Sibiu比較自然地形如何限制城市。",
+            "history": "城牆曾控制貿易與居住權。Catherine’s Gate、Șchei Gate另一側的羅馬尼亞社區，補足德語老城之外的歷史。",
+            "story": "Rope Street窄巷與消防、通行需求相關，不必追逐「歐洲最窄」排名；城市密度與居民使用更有意義。",
+            "tips": "White Tower向東南拍，傍晚太陽在側後方；山影可能早於天文日落。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.6429%2C25.5866"
+        }
+      ],
+      "rainPlan": "Rupea高處濕滑或雷雨則取消；Viscri看可開放展示與短村街。",
+      "cutPlan": "15:00仍未離Rupea就縮短參觀；抵Brașov延誤優先Black Church，White Tower改廣場。"
+    },
+    {
+      "id": "ro30",
+      "date": "2026-09-30",
+      "title": "Libearty＋Seven Ladders｜保育與峽谷",
+      "summary": "住宿：Cosmo Studio。上午導覽先訂；下午戶外依當日開放與天候，不把長程模型寫成確定晴雨。",
+      "stops": [
+        {
+          "id": "ro30-1",
+          "time": "08:15出發；09:45–11:00",
+          "name": "Libearty Bear Sanctuary",
+          "description": "官方Classic Tour週二至日09:45／11:15，約75分鐘、2公里；成人95 RON起，語言與日期購票選定。",
+          "guide": {
+            "see": "觀察森林、水池與動物能否自行退開；保育中心的空間不應迫使熊為每位付費觀眾表演。",
+            "history": "園區接納曾遭私人圈養、展演或不當飼養的熊。長期圈養可能造成傷病、依賴人工餵養與失去對人的警戒，並非所有救援動物都適合野放。",
+            "story": "看不到近距離熊不代表服務失敗，反而可能表示牠能按自己的行為選擇隱蔽處。保育是改善一生的福利，不只是放回森林的單一結局。",
+            "tips": "不叫喊、餵食、引誘或使用閃光；相機規則與額外費用購票時核對。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.593020%2C25.385220",
+          "official": "https://millionsoffriends.org/en/amp-libearty/visit-the-sanctuary/",
+          "booking": "建議09:45英文場；尚未購票，容量有限。"
+        },
+        {
+          "id": "ro30-2",
+          "time": "11:10決策；約12:00起登",
+          "name": "Dâmbul Morii → Seven Ladders入口",
+          "description": "先吃自備簡餐，查當日峽谷／滑索開放。正常潮濕不等於必須取消，但持續雨、雷暴、水勢異常及工作人員警告均不進入。",
+          "guide": {
+            "see": "林間步道到狹谷可感受局部微氣候：日照減少、空氣變涼、石面長期潮濕。",
+            "history": "水沿石灰岩裂隙侵蝕，形成狹窄通道、瀑布與垂直落差；人工梯和平台只是讓人穿越地貌的工具。",
+            "story": "主角不是「七」這個數字，而是流水、岩層與時間；梯子則讓安全條件受水量與摩擦力直接影響。",
+            "tips": "此站地圖搜尋步道起點，下一站GPS是峽谷。不要開車導航到峽谷座標。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Dambul%20Morii%20Seven%20Ladders%20trailhead"
+        },
+        {
+          "id": "ro30-3",
+          "time": "13:00–14:00；14:00–16:00返程",
+          "name": "Seven Ladders Canyon與可選Zipline",
+          "description": "全程抓3–4小時，不把峽谷本體長度當成總健行距離。滑索依當天時間、體重限制與營運確認。",
+          "guide": {
+            "see": "金屬梯旁看瀑布、水蝕凹槽與層理；穩定站位才拍照，不一邊爬梯一邊操作手機。",
+            "history": "狹谷撤退空間有限，降雨會同時改變水量、落石、金屬表面摩擦力與保暖條件。",
+            "story": "滑索提供橫越森林的另一種感受，但不是必須完成的第二張門票；留下體力安全返回比湊滿活動重要。",
+            "tips": "穿抓地鞋，雙手保持可用；雨衣和保暖層收在防水袋，裝備與路線遵循現場人員。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.5674%2C25.64368"
+        },
+        {
+          "id": "ro30-4",
+          "time": "雨天替代｜下午",
+          "name": "Prejmer與Șchei文化線",
+          "description": "改走防禦教堂與Brașov羅馬尼亞社區，不再追加Bran。",
+          "guide": {
+            "see": "Prejmer看高牆內供家庭儲藏物資的房間；Șchei看St. Nicholas與First Romanian School，對照Black Church的德語世界。",
+            "history": "Prejmer把避難與儲糧高度制度化；Șchei的宗教及教育傳統提醒人，城牆內外曾有不同居住與經濟權利。",
+            "story": "三座防禦教堂可比較規模：Viscri農村、Biertan主教中心、Prejmer大型避難系統。",
+            "tips": "室內開放須當日核對；行程是替代，不與峽谷版同時完成。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Prejmer%20Fortified%20Church"
+        }
+      ],
+      "rainPlan": "Libearty後改Prejmer Fortified Church → Șchei → First Romanian School／St. Nicholas；各館依開放。",
+      "cutPlan": "先取消Zipline，再縮短峽谷外步道；有雷暴、持續雨、水量警告或官方封閉，整段峽谷取消。"
+    },
+    {
+      "id": "ro01",
+      "date": "2026-10-01",
+      "title": "Cantacuzino → Peleș → Sinaia｜貴族與王室",
+      "summary": "住宿：Upon Boutique。Cantacuzino 10:00才入場；Pelișor室內維護關閉，外觀移至Peleș結束後，時間不重疊。",
+      "stops": [
+        {
+          "id": "ro01-1",
+          "time": "07:45退房；08:20出發；09:25–09:55",
+          "name": "Brașov → Bușteni",
+          "description": "咖啡與山景；道路時間留彈性，未到開門時間不安排入館。"
+        },
+        {
+          "id": "ro01-2",
+          "time": "10:00–11:00",
+          "name": "Cantacuzino Castle",
+          "description": "週一至四10:00開始，室內票依當期展示選擇；11:00離開前往Sinaia。",
+          "guide": {
+            "see": "看拱廊、柱式、石雕、木作與家族徽章，再從露台向西望Bucegi。上午較利看清山壁，雲層仍可能完全遮擋。",
+            "history": "1911年完成的貴族宮邸屬Gheorghe Grigore Cantacuzino，不是王室夏宮。Neo-Romanian從Brâncovenesc、修道院與傳統建築提取國家風格。",
+            "story": "富有主人被稱為Nabob；《Wednesday》取景是今日附加故事，影集畫面還包含影像製作，不等於現場每一棟建築。",
+            "tips": "與Bucharest的法式宮殿比較：前者尋求國際西化，Neo-Romanian則追問本國現代建築應有何種樣貌。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.41395%2C25.54292",
+          "official": "https://www.cantacuzinocastle.com/"
+        },
+        {
+          "id": "ro01-3",
+          "time": "11:00–11:50交通；11:50–12:35外觀",
+          "name": "Peleș庭園與入場準備",
+          "description": "包含停車及步行，先拍外觀，提早到售票指定入口。",
+          "guide": {
+            "see": "看陡屋頂、半木構、塔樓與山林莊園意象；與Cantacuzino拱廊語彙比較，不把兩棟都簡化成同樣的城堡。",
+            "history": "Carol I出身Hohenzollern-Sigmaringen，Peleș的德國新文藝復興語彙反映王朝背景，也服務羅馬尼亞新王國的歐洲形象。",
+            "story": "它既是家，也是外交舞台；來訪者看到的工藝、收藏與技術都傳遞統治者的文化權威。",
+            "tips": "正午光較硬，找局部側光與木作細節；勿在拍照中錯過時窗。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.35972%2C25.54278"
+        },
+        {
+          "id": "ro01-4",
+          "time": "12:45–14:30",
+          "name": "Peleș Castle室內",
+          "description": "100 RON成人參考。12:45–14:30為入場時窗；目標12:45英文導覽，依入口組團與票務規則，非已預約成功。",
+          "guide": {
+            "see": "Honor Hall看木雕與垂直尺度；Armoury看收藏如何建立軍事與騎士形象；各國風格房間比較木作、玻璃與裝飾。\n\n電力、暖氣及其他現代設備則顯示王室希望同時擁有歷史感與技術進步。",
+            "history": "19世紀末王國需要國內合法性與歐洲承認。收藏多國藝術和先進設備，是向外交訪客展示國家穩定、文明與現代化的方式。",
+            "story": "「房間很多、國王有錢」只描述表面；更值得問哪些房間給誰看、如何引導訪客，以及私人生活如何被安排在公開權力形象後面。",
+            "tips": "依實際導覽結束時間調整午餐；指定時窗票不可退改，先確認交通再購買。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.35972%2C25.54278",
+          "official": "https://peles.ro/en/program-si-taxe/",
+          "booking": "需購票；英文12:45組團不等於購買時窗就保證席位。"
+        },
+        {
+          "id": "ro01-5",
+          "time": "14:30–14:50；14:50–15:30午餐",
+          "name": "Pelișor僅外觀",
+          "description": "2026/9/28–11/3全館清潔及預防性維護；不安排室內，也不與Peleș導覽重疊。",
+          "guide": {
+            "see": "從較小尺度及住宅感理解它與Peleș的差別，現場只看開放外圍。",
+            "history": "Pelișor與Queen Marie的Art Nouveau、拜占庭與凱爾特美學相關，呈現比Carol I正式國家舞台更私人的王室世界。",
+            "story": "不能進去時，保留這個比較就足夠：不是每一處歷史都必須透過當天入內才有意義。",
+            "tips": "施工圍設及禁行區以現場為準。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Pelisor%20Castle%20Sinaia",
+          "official": "https://peles.ro/en/anunturi/in-perioada-28-septembrie-3-noiembrie-2026-castelul-pelisor-va-fi-inchis-pentru-curatenie-generala-si-conservare-preventiva/"
+        },
+        {
+          "id": "ro01-6",
+          "time": "15:45–16:30",
+          "name": "Sinaia Monastery",
+          "description": "午餐後參觀，16:45–17:15入住。",
+          "guide": {
+            "see": "比較兩個庭院與不同時期教堂；門牆、封閉院落與宗教空間也反映山路上的保護與接待需求。",
+            "history": "Mihail Cantacuzino於1695年創建修道院，名稱源自西奈山聖凱薩琳修道院，城鎮後來以它命名。",
+            "story": "皇家山城並非先有宮殿才有歷史；修道院是王國旅遊與避暑興起前的重要節點。",
+            "tips": "不打斷禮拜；看17世紀舊教堂與19世紀大教堂的差異。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=45.35533%2C25.54962"
+        },
+        {
+          "id": "ro01-7",
+          "time": "17:30–19:00",
+          "name": "Dimitrie Ghica Park與Casino外觀",
+          "description": "步行散步、晚餐；隔天09:30還車版需早睡。",
+          "guide": {
+            "see": "看公園、旅館、Casino與車站如何共同服務避暑社交生活。",
+            "history": "1913年落成的Casino代表王室、政治與富裕階層的山城娛樂，Sinaia既是自然避暑地，也是身分展示場。",
+            "story": "今天悠閒公園背後曾有音樂、舞會、博彩與精英社交網絡。",
+            "tips": "不預設Casino室內開放；Kuib或其他餐廳依當日營業選擇。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Sinaia%20Casino"
+        }
+      ],
+      "rainPlan": "山景看不到仍可看建築；庭園縮短、優先已訂Peleș時窗。",
+      "cutPlan": "若DN1延誤，先縮短或刪Cantacuzino，保留Peleș；下午再刪Casino散步。"
+    },
+    {
+      "id": "ro02",
+      "date": "2026-10-02",
+      "title": "Sinaia → Bucharest｜還車與Spring Palace",
+      "summary": "住宿：New Boutique Central 2 camere Chic。預設09:30還車；延至12:00須已有SIXT書面確認，不能把建議當成已修改。",
+      "stops": [
+        {
+          "id": "ro02-1",
+          "time": "05:50起床；06:10出發；09:30完成",
+          "name": "SIXT還車｜主方案",
+          "description": "08:30–08:45補至合約要求油量，08:45–09:00到指定門市，09:30完成。DN1車流與事故留彈性；記錄車況、里程油量並保留交車文件。",
+          "booking": "確切門市、截止時間、燃油及費用以租约為準。"
+        },
+        {
+          "id": "ro02-2",
+          "time": "替代：07:30早餐；08:15出發",
+          "name": "僅限已確認12:00還車",
+          "description": "約11:30–12:00還車，12:30後才寄放行李及午餐；Spring Palace應改14:30或15:00且先取得票。不能套用主方案10:30寄物時間。"
+        },
+        {
+          "id": "ro02-3",
+          "time": "主方案10:30–12:45",
+          "name": "寄放行李、咖啡與午餐",
+          "description": "提早寄物需住宿同意，不預設房間已能入住。準備下午導覽票及翌日巴士站點。"
+        },
+        {
+          "id": "ro02-4",
+          "time": "主方案13:30–14:30",
+          "name": "Spring Palace／Ceaușescu Mansion",
+          "description": "Bulevardul Primăverii 50；隨英文或羅文導覽，約45分鐘，留報到緩衝。室內不攝影，依當日館規。",
+          "guide": {
+            "see": "看家庭成員房間、泳池、服務與生活動線，不只數昂貴家具與浴室。住宅如何隔離一般社會，本身就是權力結構。",
+            "history": "最高統治家庭享有和一般配給、能源限制不同的生活條件。它與人民宮互補：一個是對外公共權力舞台，一個是封閉私人特權。",
+            "story": "昨天Peleș公開以王室工藝及科技展示國家；今天住宅讓人比較另一種制度如何安排統治者生活。兩者皆豪華，並不代表政治意義相同。",
+            "tips": "未訂票；若12:00還車採14:30以後場次。無票改美術館，不到門口賭導覽名額。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Casa%20Ceausescu%20Bulevardul%20Primaverii%2050",
+          "official": "https://casaceausescu.ro/en/",
+          "booking": "需確認英文場與報到時間。"
+        },
+        {
+          "id": "ro02-5",
+          "time": "15:15–17:15",
+          "name": "King Michael I Park → Arcul de Triumf",
+          "description": "公園休息後看凱旋門外觀；18:00後回勝利大道晚餐。",
+          "guide": {
+            "see": "公園看居民慢跑、遛狗與湖岸生活，凱旋門則看法式紀念形式如何用於本國歷史。",
+            "history": "Herăstrău公園更名為King Michael I，反映後共產時代重新評估王室記憶；凱旋門連結戰爭、統一與王國時代首都形象。",
+            "story": "從Athenaeum到銀行宮殿再到凱旋門，現代國家透過文化、金融與軍事紀念形成一套城市語言。",
+            "tips": "不要越過圓環車道拍照。晚間買巴士用水、食物與少量現金，不囤需冷藏食品。"
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=44.467278%2C26.078361"
+        }
+      ],
+      "rainPlan": "公園與凱旋門縮短，保留已預訂室內導覽；沒票則美術館／咖啡。",
+      "cutPlan": "還車優先於觀光。若延時還車版拖晚，改晚一場Spring Palace或取消，不趕路。"
+    },
+    {
+      "id": "ro03",
+      "date": "2026-10-03",
+      "title": "Bucharest → Veliko Tarnovo",
+      "summary": "FlixBus 10:10。電子票完整站名、地址與營運更新為唯一上車點依據，本站不猜Militari或Filaret。",
+      "stops": [
+        {
+          "id": "ro03-1",
+          "time": "07:30–09:20",
+          "name": "早餐、退房與抵達票面站點",
+          "description": "07:30起床、08:00早餐、08:40退房；08:45–09:00叫車為市區估算，先按電子票地址重新計算。最晚09:20到站。",
+          "guide": {
+            "see": "護照、手機、行動電源、藥物與貴重品放隨身包，車牌、目的地與司機確認後再放大行李。",
+            "history": "羅馬尼亞與保加利亞同属東正教傳統影響的區域，但前者以羅曼語為主，後者以斯拉夫語為主。共同經歷帝國、王國與社會主義，不代表歷史認同完全一樣。",
+            "story": "從Bucharest前往Veliko Tarnovo，可把接下來的中世紀保加利亞國家敘事，與羅馬尼亞王國及瓦拉幾亞故事比較。",
+            "tips": "不因邊境常規檢查變動而把護照放行李艙；承運人及警方仍可能查驗身份。"
+          }
+        },
+        {
+          "id": "ro03-2",
+          "time": "10:10",
+          "name": "FlixBus出發",
+          "description": "發車時間依提供車票；到達時間未提供，不補猜。羅馬尼亞與保加利亞當時同為UTC+3。"
+        }
+      ],
+      "rainPlan": "雨天提前叫車，行李防水；車站候車條件依票面站點。",
+      "cutPlan": "取消所有早餐後觀光，保留最晚09:20到站；遠郊站點或交通差需再提早。"
+    }
+  ],
+  "budget": [
+    {
+      "item": "人民宮",
+      "amount": "約85 RON",
+      "unit": "成人",
+      "status": "提供資料參考，預約再確認"
+    },
+    {
+      "item": "Kadouch獨奏會",
+      "amount": "159.08 RON起",
+      "unit": "每人",
+      "status": "9/22售票頁；未購票"
+    },
+    {
+      "item": "Poenari",
+      "amount": "約30 RON",
+      "unit": "成人",
+      "status": "參考；團體與開放再確認"
+    },
+    {
+      "item": "Viscri修復期間",
+      "amount": "20 RON",
+      "unit": "成人",
+      "status": "官方公告；主教堂與主塔關閉"
+    },
+    {
+      "item": "Libearty Classic",
+      "amount": "95 RON起",
+      "unit": "成人",
+      "status": "官方價格起點；依日期語言結帳"
+    },
+    {
+      "item": "Peleș",
+      "amount": "100 RON",
+      "unit": "成人",
+      "status": "官網；指定時窗，不可退改"
+    },
+    {
+      "item": "Biertan、Clock Tower、Rupea、ASTRA、Black Church",
+      "amount": "依各場館現場／購票頁",
+      "unit": "每人",
+      "status": "不沿用未核實舊票價"
+    },
+    {
+      "item": "Seven Ladders與Zipline",
+      "amount": "依路線與當日營運報價",
+      "unit": "每人",
+      "status": "未預訂，滑索非必選"
+    },
+    {
+      "item": "SIXT延時還車",
+      "amount": "依書面報價",
+      "unit": "每筆合約",
+      "status": "未申請變更，可能按租車日計費"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Viscri官方｜修復與部分開放",
+      "url": "https://www.biserica-fortificata-viscri.ro/en/",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "Peleș官方｜時段、英文導覽、票價",
+      "url": "https://peles.ro/en/program-si-taxe/",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "Pelișor官方｜9/28–11/3關閉",
+      "url": "https://peles.ro/en/anunturi/in-perioada-28-septembrie-3-noiembrie-2026-castelul-pelisor-va-fi-inchis-pentru-curatenie-generala-si-conservare-preventiva/",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "Libearty官方｜新時段",
+      "url": "https://millionsoffriends.org/en/amp-libearty/visit-the-sanctuary/",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "Kadouch正式售票頁",
+      "url": "https://www.iabilet.ro/bilete-david-kadouch-recital-de-pian-bucharest-international-piano-festival-128514/",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "Biertan市政府｜秋季每日開放與午休",
+      "url": "https://comunabiertan.ro/turism/",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "Mureș區域旅遊｜Sighișoara博物館",
+      "url": "https://visitmures.com/sighisoara/patrimoniu/muzee/muzeul-de-istorie-sighisoara",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "STB｜機場站工程調整公告",
+      "url": "https://www.stb.ro/info.php?P=9",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "TVR 9/22｜初雪當時未影響交通",
+      "url": "https://tvrinfo.ro/prima-ninsoare-pe-transfagarasan-drumarii-spun-ca-nu-a-fost-nevoie-sa-intervina-iar-traficul-nu-este-afectat/",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "Argeș官方8月公告｜Poenari團體參觀",
+      "url": "https://www.cjarges.ro/en/programul-evenimentelor-cultural-artistice-in-perioada-15-23-august-2026",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "Duo Noema主辦方｜9/27 17:00",
+      "url": "https://stagiuneacamerala.ro/event/odae-cum-harmoniis-duo-noema/",
+      "checked": "2026-09-22查核；實際出發日仍依公告"
+    },
+    {
+      "title": "ASTRA官方",
+      "url": "https://muzeulastra.ro/",
+      "checked": "2026-09-22｜前11項已查核；其餘為官方後續查詢入口。歷史導覽整合使用者提供文本，GPS沿用提供座標。"
+    },
+    {
+      "title": "Cantacuzino官方｜出發前確認售票",
+      "url": "https://www.cantacuzinocastle.com/",
+      "checked": "預約前再確認，未把提供時段當作當日保證"
+    },
+    {
+      "title": "Spring Palace官方｜英文導覽確認",
+      "url": "https://casaceausescu.ro/en/",
+      "checked": "預約前再確認，未把提供時段當作當日保證"
+    }
+  ],
+  "budgetNote": "使用RON結帳並保留適量現金。景點、停車、餐飲與租車延時分開計算；住宿與交通已訂不代表活動門票已訂。"
+}

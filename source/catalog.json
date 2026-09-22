@@ -2,9 +2,19 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-09-19"
+    "updated": "2026-09-22"
   },
   "countries": [
+    {
+      "id": "romania",
+      "name": "羅馬尼亞",
+      "english": "Romania",
+      "code": "RO",
+      "region": "歐洲",
+      "summary": "Bucharest、Transfăgărășan、薩克森城鎮與皇家山城；11天詳細導覽。",
+      "currency": "RON／lei",
+      "timeZone": "Europe/Bucharest"
+    },
     {
       "id": "albania",
       "name": "阿爾巴尼亞",
@@ -57,6 +67,85 @@
     }
   ],
   "trips": [
+    {
+      "id": "romania-2026",
+      "title": "Bucharest → Transfăgărășan → Transylvania → Sinaia",
+      "subtitle": "羅馬尼亞｜11天隨身導覽、攝影座標與山區備案",
+      "countries": [
+        "romania"
+      ],
+      "start": "2026-09-23",
+      "end": "2026-10-03",
+      "verified": "2026-09-22",
+      "status": "依第四部分整合修正版",
+      "tags": [
+        "自駕",
+        "深度導覽",
+        "高山",
+        "攝影",
+        "音樂會"
+      ],
+      "content": "content/romania-2026.json",
+      "timeZone": "Europe/Bucharest",
+      "important": "住宿固定；Viscri部分關閉、Pelișor不入內；9/26山路與9/30峽谷當日決策。所有建議票務尚未預約。",
+      "days": [
+        {
+          "id": "ro23",
+          "date": "2026-09-23",
+          "label": "抵達Bucharest｜老城與王國立面"
+        },
+        {
+          "id": "ro24",
+          "date": "2026-09-24",
+          "label": "Bucharest｜人民宮、革命與Athenaeum音樂會"
+        },
+        {
+          "id": "ro25",
+          "date": "2026-09-25",
+          "label": "取車 → Curtea de Argeș → Vidraru湖畔"
+        },
+        {
+          "id": "ro26",
+          "date": "2026-09-26",
+          "label": "Transfăgărășan｜高山道路與冰斗湖"
+        },
+        {
+          "id": "ro27",
+          "date": "2026-09-27",
+          "label": "Sibiu＋ASTRA｜城市自治與農村技術"
+        },
+        {
+          "id": "ro28",
+          "date": "2026-09-28",
+          "label": "Biertan → Sighișoara｜教堂堡壘與行會城牆"
+        },
+        {
+          "id": "ro29",
+          "date": "2026-09-29",
+          "label": "Clock Tower → Viscri → Rupea → Brașov"
+        },
+        {
+          "id": "ro30",
+          "date": "2026-09-30",
+          "label": "Libearty＋Seven Ladders｜保育與峽谷"
+        },
+        {
+          "id": "ro01",
+          "date": "2026-10-01",
+          "label": "Cantacuzino → Peleș → Sinaia｜貴族與王室"
+        },
+        {
+          "id": "ro02",
+          "date": "2026-10-02",
+          "label": "Sinaia → Bucharest｜還車與Spring Palace"
+        },
+        {
+          "id": "ro03",
+          "date": "2026-10-03",
+          "label": "Bucharest → Veliko Tarnovo"
+        }
+      ]
+    },
     {
       "id": "albania-second-2026",
       "title": "Ohrid → Lin → Berat → Durrës → TIA",
