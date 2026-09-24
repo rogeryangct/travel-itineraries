@@ -2,7 +2,7 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-09-22"
+    "updated": "2026-09-24"
   },
   "countries": [
     {
@@ -76,8 +76,8 @@
       ],
       "start": "2026-09-23",
       "end": "2026-10-03",
-      "verified": "2026-09-22",
-      "status": "依第四部分整合修正版",
+      "verified": "2026-09-24",
+      "status": "詳細導覽＋UNESCO路線標注",
       "tags": [
         "自駕",
         "深度導覽",
@@ -87,7 +87,7 @@
       ],
       "content": "content/romania-2026.json",
       "timeZone": "Europe/Bucharest",
-      "important": "住宿固定；Viscri部分關閉、Pelișor不入內；9/26山路與9/30峽谷當日決策。所有建議票務尚未預約。",
+      "important": "住宿固定；Viscri部分關閉、Pelișor不入內；9/26山路與9/30峽谷當日決策。所有建議票務尚未預約。 UNESCO已標注：Biertan、Sighișoara、Viscri；9/29新增Saschiz外觀，Prejmer／Arutela為替代或條件式。",
       "days": [
         {
           "id": "ro23",

@@ -59,6 +59,201 @@
       }
     },
     {
+      "id": "ro-unesco",
+      "title": "UNESCO世界遺產｜11項與本次路線對照",
+      "paragraphs": [
+        "2026/9/24核對UNESCO正式名錄：羅馬尼亞11項（9文化、2自然）。原主線涵蓋2項：防禦教堂村落群與Sighișoara歷史中心；新增Saschiz仍屬同一村落群。只有實際走Olt備案並到訪Arutela，才再涵蓋第3項「羅馬帝國疆界—達契亞」。此處記錄計畫，不表示你已實際到訪。",
+        "標記說明：「UNESCO｜主線」為已排景點；「UNESCO｜新增短停」為順路加入；「UNESCO｜替代／條件式」只在指定方案採用。固定住宿、高山主線、熊保育導覽及Peleș安排保留。",
+        "UNESCO保護有明確邊界與構成點；在附近行車、遠望山林或參觀同類博物館，不自動算到訪。正式世界遺產、預備名單與非物質文化遺產分開標記。"
+      ],
+      "table": {
+        "headers": [
+          "項次",
+          "正式項目",
+          "列名",
+          "本次判斷",
+          "日期與安排理由"
+        ],
+        "rows": [
+          [
+            "1",
+            "Danube Delta｜多瑙河三角洲",
+            "1991｜自然",
+            "不順路",
+            "位於黑海方向；需要獨立濕地／船遊行程，本次不加。"
+          ],
+          [
+            "2",
+            "Churches of Moldavia｜摩爾達維亞教堂",
+            "1993／2010｜文化",
+            "不順路",
+            "Bucovina在北部；不以Sinaia或Curtea的東正教教堂代替計數。"
+          ],
+          [
+            "3",
+            "Hurezi Monastery｜霍雷祖修道院",
+            "1993｜文化",
+            "可繞但本次不建議",
+            "9/26若改DN7，仍須從Râmnicu Vâlcea向西繞行再返回；連參觀應另留約2.5–3小時規劃緩衝，非即時導航估算。優先安全抵Sibiu。"
+          ],
+          [
+            "4",
+            "Villages with Fortified Churches in Transylvania｜防禦教堂村落",
+            "1993／1999｜文化",
+            "已排＋順道新增",
+            "9/28 Biertan；9/29新增Saschiz外觀、原有Viscri；9/30 Prejmer為替代版。它們是同一項的不同構成村落，不是四項世界遺產。"
+          ],
+          [
+            "5",
+            "Dacian Fortresses of the Orăștie Mountains｜達契亞堡壘",
+            "1999｜文化",
+            "本次不加",
+            "六處包含Căpâlna、Sarmizegetusa Regia等；從Sibiu另走西側且涉及山路／步行，會占用ASTRA日。不是Rupea或羅馬軍營。"
+          ],
+          [
+            "6",
+            "Historic Centre of Sighișoara｜歷史中心",
+            "1999｜文化",
+            "已排",
+            "9/28–29城堡區、街巷與塔樓共同理解；Clock Tower是遺產區內地標，不另計一項。"
+          ],
+          [
+            "7",
+            "Wooden Churches of Maramureș｜木造教堂",
+            "1999｜文化",
+            "不順路",
+            "在北部，不能把ASTRA內任何木教堂都算成八座列名教堂之一。"
+          ],
+          [
+            "8",
+            "Ancient and Primeval Beech Forests｜原始山毛櫸林",
+            "跨國自然遺產；羅馬尼亞2017加入",
+            "地理接近，未排進核心區",
+            "Șinca及Cozia有列名林區，但開過DN7、走Seven Ladders或看見山毛櫸，不等於進入列名地塊。需依保護區規則安排另一次健行，本次不為計數加走。"
+          ],
+          [
+            "9",
+            "Roșia Montană Mining Landscape｜金礦景觀",
+            "2021｜文化",
+            "不順路",
+            "在Apuseni山區，需要另外安排交通及礦坑參觀；本次不加。"
+          ],
+          [
+            "10",
+            "Brâncuși Monumental Ensemble of Târgu Jiu｜雕塑紀念群",
+            "2024｜文化",
+            "不順路",
+            "Târgu Jiu在現有動線以西；不能將Bucharest展覽中的照片或作品複製品視為到訪遺產。"
+          ],
+          [
+            "11",
+            "Frontiers of the Roman Empire – Dacia｜羅馬帝國疆界",
+            "2024｜文化",
+            "條件式可新增",
+            "9/26只在採Olt河谷備案時短停Arutela（1718-237）；9/30 Cumidava雖近Libearty，因未確認訪客入口與路況，只列候選、不排固定。"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "title": "UNESCO羅馬尼亞正式名錄",
+          "url": "https://whc.unesco.org/en/statesparties/ro"
+        },
+        {
+          "title": "七個防禦教堂村落與邊界",
+          "url": "https://whc.unesco.org/en/list/596/maps/"
+        },
+        {
+          "title": "達契亞羅馬疆界277個構成點",
+          "url": "https://whc.unesco.org/en/list/1718/maps/"
+        },
+        {
+          "title": "山毛櫸林列名地塊",
+          "url": "https://whc.unesco.org/en/list/1133/maps/"
+        }
+      ]
+    },
+    {
+      "id": "ro-unesco-practical",
+      "title": "怎麼加才順｜時間、地圖與取捨",
+      "paragraphs": [
+        "9/29 Saschiz位於Sighișoara往Viscri方向的DN13沿線。新增10:35–10:55外觀短停；Viscri改11:40–12:40、午餐至13:15，再往Rupea，保留Brașov傍晚。這是規劃緩衝，遇塞車先刪Saschiz，不靠加速補時間。",
+        "Saschiz官方旅遊頁列週二、三室內關閉。9/29只在公共街道拍教堂與鐘塔；不等管理員、不新增登山丘避難堡。若臨時開放且想深入，改以它取代Rupea，不能三者都延長。",
+        "9/30若優先世界遺產文化，或峽谷不適合：Libearty 11:00結束 → 交通與午餐 → 13:00–14:15 Prejmer → 15:00後Șchei。這個版本取代Seven Ladders＋Zipline，不是追加在健行後。出發前確認當日教堂開放，聯絡+40 268 362 042。",
+        "9/26 Arutela僅用於Olt河谷備案：Hotel → Curtea de Argeș → Pitești → Râmnicu Vâlcea → Căciulata／Arutela → DN7 → Sibiu。參觀20–30分鐘，另留地方道路進出約20–30分鐘；遺址在河的東側，不可在DN7硬停或自行跨越道路。若天候或工地封閉就略過。",
+        "Saschiz可在上午從東南側公共位置向西北拍，較利顺／側光；Prejmer內院常有深陰影，陰天反而容易拍房間與木廊。Arutela以入口、牆基與河谷關係為重點，不為固定光線時刻趕路。"
+      ],
+      "table": {
+        "headers": [
+          "景點",
+          "定位／Google Maps",
+          "定位性質",
+          "停留"
+        ],
+        "rows": [
+          [
+            "Saschiz",
+            "46.194722,24.956111",
+            "UNESCO村落代表座標，非停車入口",
+            "20分鐘外觀"
+          ],
+          [
+            "Prejmer",
+            "45.722500,25.775556",
+            "UNESCO列名村落代表位置，依現場找教堂入口",
+            "60–75分鐘"
+          ],
+          [
+            "Arutela",
+            "45.276411,24.312425",
+            "UNESCO 1718-237遺址代表位置，非指定車位",
+            "20–30分鐘＋進出緩衝"
+          ],
+          [
+            "Cumidava（候選）",
+            "Google Maps搜尋Castrul Roman Cumidava",
+            "正式構成點1718-246；不是山上的Râșnov中世紀城堡",
+            "未核實訪客進入條件，不排固定"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "title": "Saschiz村中心",
+          "url": "https://www.google.com/maps/search/?api=1&query=46.194722%2C24.956111"
+        },
+        {
+          "title": "Prejmer教堂村落",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.722500%2C25.775556"
+        },
+        {
+          "title": "Arutela軍營",
+          "url": "https://www.google.com/maps/search/?api=1&query=45.276411%2C24.312425"
+        },
+        {
+          "title": "Cumidava｜僅供核對位置",
+          "url": "https://www.google.com/maps/search/?api=1&query=Castrul%20Roman%20Cumidava%20Rasnov"
+        }
+      ]
+    },
+    {
+      "id": "ro-unesco-boundaries",
+      "title": "別把相似景點算成UNESCO｜現場辨識",
+      "paragraphs": [
+        "Biertan、Viscri、Saschiz與Prejmer屬同一項七村系列；另外三村是Câlnic、Dârjiu、Valea Viilor。本次不再為集點繞行。七村不能全部簡化成德語薩克森社群，Dârjiu也呈現塞凱伊人的文化背景。",
+        "Sibiu老城、ASTRA、Brașov Black Church、Rupea、Transfăgărășan、Bâlea Lake及Bucharest人民宮，不是這11項正式世界遺產。名氣或美感並不取決於列名；Peleș等Sinaia皇家建築出現在預備名單，不等於正式列入。",
+        "Hurezi與Curtea de Argeș是不同修道院；Stavropoleos可以幫助理解Brâncovenesc語彙，但不能代替到訪Hurezi。Cozia修道院也不是Hurezi，更不是原始山毛櫸林地塊。",
+        "Dacian Fortresses是羅馬征服前的達契亞王國防禦遺產；Arutela、Cumidava是羅馬征服後的帝國軍事網絡。Sarmizegetusa Regia與羅馬城市Ulpia Traiana Sarmizegetusa也不能混為一處。",
+        "掛毯織作、Horezu陶藝、傳統刺繡與放牧遷徙屬非物質文化遺產：保護技藝、知識與傳承。ASTRA能幫助理解相關生活方式，但館內一件掛毯或一棟移建木教堂，不因此成為正式世界遺產構成點。"
+      ],
+      "links": [
+        {
+          "title": "UNESCO非物質文化遺產｜Romania",
+          "url": "https://ich.unesco.org/en/state/romania-RO"
+        }
+      ]
+    },
+    {
       "id": "ro-actions",
       "title": "票務、住宿與當日決策",
       "paragraphs": [
@@ -775,9 +970,23 @@
           "name": "Sibiu入住與夜景",
           "description": "Crama Sibiul Vechi可作晚餐候選，先確認座位。劇場節若有適合語言及時間的節目才加入，不為活動壓縮山路。",
           "map": "https://www.google.com/maps/search/?api=1&query=45.7963%2C24.1518"
+        },
+        {
+          "id": "ro26-unesco-arutela",
+          "time": "僅Olt河谷備案｜途中20–30分鐘",
+          "name": "UNESCO條件式新增｜Arutela羅馬軍營",
+          "description": "僅當DN7C不適合而南返改走DN7時加入；高山版不去。Arutela為「羅馬帝國疆界—達契亞」構成點1718-237，可讓本次路線多涵蓋一項正式世界遺產。時間取決於改道，勿與Bâlea排在同一天。",
+          "map": "https://www.google.com/maps/search/?api=1&query=45.276411%2C24.312425",
+          "official": "https://romania-atractiva.ro/ro/profiles/castrul-roman-arutela",
+          "guide": {
+            "see": "辨認城門、低矮牆基與軍營布局，再看Olt河谷通道。現存可辨識部分包含現代重建，不把完整門樓當作未曾改動的羅馬原件。",
+            "history": "軍營屬羅馬占領Dacia後的邊疆交通與防禦網絡。國家文化旅遊平台記載其建立於Hadrian時代，任務與控制Cozia通道有關。",
+            "story": "平台介紹曾有來自敘利亞的弓箭部隊在此服務，提醒人羅馬軍隊與邊疆社會是跨地域流動的系統。它和征服前的達契亞山堡是不同歷史階段。",
+            "tips": "平台同時標示可參觀及修復中，列自由入場、附近停車，但非當日全面開放保證。以施工圍設為準，受限則僅看合法可見區或跳過。GPS是遺址中心，不是安全停車點。"
+          }
         }
       ],
-      "rainPlan": "道路關閉或積雪結冰、強風濃霧不宜通行：Hotel → Curtea de Argeș → Pitești → Râmnicu Vâlcea → DN7 Olt Valley → Sibiu。當天也查DN7施工與管制，按導航加入休息，直接前往住宿。",
+      "rainPlan": "道路關閉或積雪結冰、強風濃霧不宜通行：Hotel → Curtea de Argeș → Pitești → Râmnicu Vâlcea → DN7 Olt Valley → Sibiu。當天也查DN7施工與管制，按導航加入休息，直接前往住宿。 可在Căciulata附近加入Arutela20–30分鐘（另留進出緩衝）；晚出發、雨勢大或施工限制就直接赴Sibiu。不加入Hurezi繞路。",
       "cutPlan": "先刪高處步道，再縮短湖邊停留；道路條件不適合就改線，不以已付款住宿作為冒險理由。"
     },
     {
@@ -827,7 +1036,7 @@
             "see": "每棟建築問四題：能源從哪裡來？水如何取得？食物如何保存？這戶靠什麼維生？比較磨坊的傳動系統，不只看外形。\n\n水車與風車把自然能量轉成磨麵、鋸木、處理羊毛或製油的勞動；牧民住宅則反映季節移動與乳製品保存。",
             "history": "博物館以不同地區移建及保存的建築、工具與工坊呈現工業化前的生產系統。農戶不只是消費者，也生產衣物、食物與日用品。",
             "story": "木教堂除了禮拜，也是婚喪、消息與社群記憶中心。磨坊控制者在地方經濟中往往重要，因為許多人的糧食加工都依賴它。",
-            "tips": "9月露天區長時段開放不等於每棟室內全天開門。園區大，先看入口當日圖與展示開放；17:15返程保留晚餐。"
+            "tips": "9月露天區長時段開放不等於每棟室內全天開門。園區大，先看入口當日圖與展示開放；17:15返程保留晚餐。 UNESCO辨識：此景點本身不屬羅馬尼亞目前11項正式世界遺產，仍保留原本參觀價值。"
           },
           "map": "https://www.google.com/maps/search/?api=1&query=45.75394%2C24.11459",
           "official": "https://muzeulastra.ro/"
@@ -852,8 +1061,8 @@
         {
           "id": "ro28-1",
           "time": "08:20出發；10:00–12:00",
-          "name": "Biertan Fortified Church",
-          "description": "09:50抵達。市政府列9–10月每天10–17，13–14午休；12–13午餐與村落散步，13:10離開。",
+          "name": "UNESCO｜Biertan Fortified Church",
+          "description": "【主線｜第4項防禦教堂村落群】09:50抵達。市政府列9–10月每天10–17，13–14午休；12–13午餐與村落散步，13:10離開。",
           "guide": {
             "see": "由外牆、塔樓、坡度、儲藏空間依序看到中央教堂；聖器室門的多點鎖具說明教堂也保管重要財產與文書。",
             "history": "現存晚期哥德教堂及環繞防禦系統服務村落避難，1572–1867為薩克森路德宗主教座所在地。居民無法每戶築城，便集中保護公共核心。",
@@ -866,8 +1075,8 @@
         {
           "id": "ro28-2",
           "time": "14:20–14:40入住；15:00–16:15",
-          "name": "Sighișoara城堡區與Clock Tower外觀",
-          "description": "Citadel Square → Vlad Dracul House → Venetian House → 行會塔樓。今天星期一不安排History Museum內部。",
+          "name": "UNESCO｜Sighișoara歷史中心與Clock Tower外觀",
+          "description": "【主線｜第6項歷史中心】Citadel Square → Vlad Dracul House → Venetian House → 行會塔樓。今天星期一不安排History Museum內部。",
           "guide": {
             "see": "認出Tailors、Butchers、Tinsmiths等塔名，把城牆當成一張行會責任地圖；時鐘塔同時是城門、市政權力與公共時間的象徵。",
             "history": "世界遺產城堡區仍有人居住、上學與經商。工匠行會控制學徒、商品品質與市場，也維修城市特定防禦段落。",
@@ -904,13 +1113,13 @@
       "id": "ro29",
       "date": "2026-09-29",
       "title": "Clock Tower → Viscri → Rupea → Brașov",
-      "summary": "住宿：Cosmo Studio。Viscri按修復狀況縮短；Rupea保留為可刪支線，保住Black Church室內。",
+      "summary": "住宿：Cosmo Studio。Viscri按修復狀況縮短；Rupea保留為可刪支線，保住Black Church室內。 新增Saschiz20分鐘外觀，Viscri與午餐稍縮短。",
       "stops": [
         {
           "id": "ro29-1",
           "time": "07:15–08:00晨拍；09:00–10:00",
           "name": "Clock Tower／History Museum",
-          "description": "早餐、退房後參觀，行李寄放或安全收妥；10:10出發。",
+          "description": "【第6項歷史中心內的地標，非獨立一項】早餐、退房後參觀，行李寄放或安全收妥；10:10出發。",
           "guide": {
             "see": "先看城市模型，再從高處辨認昨日的城門、教堂、學校和行會防禦線。機械人偶把宗教與公共時間變成可見的城市秩序。",
             "history": "塔樓不只為看風景而建；報時協調交易、禮拜與社會活動，也展示市政機構對公共生活的管理。",
@@ -921,10 +1130,24 @@
           "official": "https://visitmures.com/sighisoara/patrimoniu/muzee/muzeul-de-istorie-sighisoara"
         },
         {
+          "id": "ro29-unesco-saschiz",
+          "time": "10:35–10:55｜新增外觀短停",
+          "name": "UNESCO｜Saschiz防禦教堂村落",
+          "description": "10:10離開Sighișoara後沿DN13短停；9/29星期二，官方頁列室內關閉，只看公共街道可見的St. Stephen教堂及鐘塔。10:55離開，約11:40到Viscri。",
+          "map": "https://www.google.com/maps/search/?api=1&query=46.194722%2C24.956111",
+          "official": "https://turism.saschiz.ro/locatii/biserica-sfantul-stefan",
+          "guide": {
+            "see": "看教堂外部扶壁、上方防禦層與獨立鐘塔，再把街道住宅一起拍入。這次不爬遠處山丘避難堡；從村中心就能比較宗教核心與聚落關係。",
+            "history": "Saschiz是「特蘭西瓦尼亞防禦教堂村落」七個列名構成村之一。中世紀晚期，宗教建築兼有避難、防守功能，與Biertan的多重院牆形成不同的空間解法。",
+            "story": "鐘塔容易讓人想到剛離開的Sighișoara；把兩座放在一起看，可理解小村落如何借用區域中心的城市形象。不要把同一項中的多個村落算成多項世界遺產。",
+            "tips": "官方旅遊頁列週二、三室內閉館，無需為此次外觀短停預設購票。若交通延誤先刪這站；若要入內且現場例外開放，須用Rupea時間交換。上午東南方光，沿公共道路找側順光，勿站DN13車流中。"
+          }
+        },
+        {
           "id": "ro29-2",
-          "time": "11:15–12:45；12:45–13:30午餐",
-          "name": "Viscri村落與修復中的防禦教堂",
-          "description": "主教堂及主塔關閉。看村落博物館、陶器展、South Bastion上層、Bacon Tower；成人20 RON，村外官方停車免費。",
+          "time": "11:40–12:40；12:40–13:15午餐",
+          "name": "UNESCO｜Viscri村落與修復中的防禦教堂",
+          "description": "【主線｜第4項防禦教堂村落群】主教堂及主塔關閉。看村落博物館、陶器展、South Bastion上層、Bacon Tower；成人20 RON，村外官方停車免費。",
           "guide": {
             "see": "按「街道→立面→大門→院落→穀倉→長形地塊」觀察，每戶其實是一個生產單位。高大木門讓馬車、牲畜與農產品通行。",
             "history": "Viscri德名Weisskirch，村落的防禦教堂把宗教、储糧與避難集中；社區修復與傳統工藝延續比單棟藍房子更重要。",
@@ -943,7 +1166,7 @@
             "see": "由下往上看不同高度防禦區、城牆轉折與玄武岩基座；觀察它如何利用孤立丘體控制附近交通。",
             "history": "與村落教堂不同，Rupea是依山丘地形發展的防禦聚落，分期擴張讓不同高度形成多層保護。",
             "story": "比較四種防禦：Viscri農村避難、Biertan宗教中心、Sighișoara城鎮行會、Rupea山丘交通控制。它們不是四次重複看城牆。",
-            "tips": "風大、雨後石路滑時不上高處。"
+            "tips": "風大、雨後石路滑時不上高處。 UNESCO辨識：此景點本身不屬羅馬尼亞目前11項正式世界遺產，仍保留原本參觀價值。"
           },
           "map": "https://www.google.com/maps/search/?api=1&query=46.03715%2C25.21241"
         },
@@ -956,7 +1179,7 @@
             "see": "先找鄂圖曼／安納托利亞地毯，再看哥德空間、管風琴與商人捐贈。地毯出現在路德宗教堂，正說明宗教邊界不等於商業邊界。",
             "history": "Brașov德名Kronstadt，靠跨山貿易富裕。16世紀Johannes Honterus推動宗教改革，德語教育與教會制度也隨之轉變。",
             "story": "Black Church之名通常與1689年大火後建築外觀相聯；真正值得看的並不只是顏色，而是商業財富如何轉成宗教藝術。",
-            "tips": "攝影與音樂會另依館規；勿為拍外觀錯過最後入場。"
+            "tips": "攝影與音樂會另依館規；勿為拍外觀錯過最後入場。 UNESCO辨識：此景點本身不屬羅馬尼亞目前11項正式世界遺產，仍保留原本參觀價值。"
           },
           "map": "https://www.google.com/maps/search/?api=1&query=45.6410%2C25.5880"
         },
@@ -975,7 +1198,7 @@
         }
       ],
       "rainPlan": "Rupea高處濕滑或雷雨則取消；Viscri看可開放展示與短村街。",
-      "cutPlan": "15:00仍未離Rupea就縮短參觀；抵Brașov延誤優先Black Church，White Tower改廣場。"
+      "cutPlan": "先刪Saschiz短停，再刪Rupea；保留Viscri短訪與Brașov Black Church入館，不能為新增景點壓縮行車安全。"
     },
     {
       "id": "ro30",
@@ -1026,16 +1249,17 @@
         },
         {
           "id": "ro30-4",
-          "time": "雨天替代｜下午",
-          "name": "Prejmer與Șchei文化線",
-          "description": "改走防禦教堂與Brașov羅馬尼亞社區，不再追加Bran。",
+          "time": "替代峽谷｜13:00–14:15 Prejmer；15:00後Șchei",
+          "name": "UNESCO替代版｜Prejmer＋Șchei",
+          "description": "【第4項防禦教堂村落群】Libearty後經交通與午餐，改走Prejmer。雨天或想優先完整防禦教堂都可採用；與Seven Ladders互斥。",
           "guide": {
-            "see": "Prejmer看高牆內供家庭儲藏物資的房間；Șchei看St. Nicholas與First Romanian School，對照Black Church的德語世界。",
+            "see": "先穿入口通道，看厚重圍牆內多層家庭房間與儲藏室，再走允許開放的木廊。教堂本體由外圍巨大防禦圈保護，與Viscri直接強化教堂的方式比較。室內留意哥德式翼狀祭壇。",
             "history": "Prejmer把避難與儲糧高度制度化；Șchei的宗教及教育傳統提醒人，城牆內外曾有不同居住與經濟權利。",
             "story": "三座防禦教堂可比較規模：Viscri農村、Biertan主教中心、Prejmer大型避難系統。",
-            "tips": "室內開放須當日核對；行程是替代，不與峽谷版同時完成。"
+            "tips": "出發前致電+40 268 362 042確認9/30開放；此次不寫未核實的新票價。走廊昏暗、木階窄，拍照先讓人通行。票價與房間開放依現場。"
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Prejmer%20Fortified%20Church"
+          "map": "https://www.google.com/maps/search/?api=1&query=45.722500%2C25.775556",
+          "official": "https://kirchenburgen.org/en/location/tartlau-prejmer/"
         }
       ],
       "rainPlan": "Libearty後改Prejmer Fortified Church → Șchei → First Romanian School／St. Nicholas；各館依開放。",
@@ -1076,7 +1300,7 @@
             "see": "看陡屋頂、半木構、塔樓與山林莊園意象；與Cantacuzino拱廊語彙比較，不把兩棟都簡化成同樣的城堡。",
             "history": "Carol I出身Hohenzollern-Sigmaringen，Peleș的德國新文藝復興語彙反映王朝背景，也服務羅馬尼亞新王國的歐洲形象。",
             "story": "它既是家，也是外交舞台；來訪者看到的工藝、收藏與技術都傳遞統治者的文化權威。",
-            "tips": "正午光較硬，找局部側光與木作細節；勿在拍照中錯過時窗。"
+            "tips": "正午光較硬，找局部側光與木作細節；勿在拍照中錯過時窗。 UNESCO辨識：此景點本身不屬羅馬尼亞目前11項正式世界遺產，仍保留原本參觀價值。"
           },
           "map": "https://www.google.com/maps/search/?api=1&query=45.35972%2C25.54278"
         },
@@ -1351,6 +1575,56 @@
       "title": "Spring Palace官方｜英文導覽確認",
       "url": "https://casaceausescu.ro/en/",
       "checked": "預約前再確認，未把提供時段當作當日保證"
+    },
+    {
+      "title": "UNESCO｜Romania正式名錄",
+      "url": "https://whc.unesco.org/en/statesparties/ro",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "UNESCO｜七村構成點",
+      "url": "https://whc.unesco.org/en/list/596/maps/",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "UNESCO｜Sighișoara",
+      "url": "https://whc.unesco.org/en/list/902/",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "UNESCO｜Hurezi",
+      "url": "https://whc.unesco.org/en/list/597/",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "UNESCO｜羅馬疆界構成點與座標",
+      "url": "https://whc.unesco.org/en/list/1718/maps/",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "UNESCO｜山毛櫸林邊界",
+      "url": "https://whc.unesco.org/en/list/1133/maps/",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "Saschiz官方旅遊中心｜週二三閉館",
+      "url": "https://turism.saschiz.ro/locatii/biserica-sfantul-stefan",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "防禦教堂基金會｜Prejmer",
+      "url": "https://kirchenburgen.org/en/location/tartlau-prejmer/",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "國家文化旅遊平台｜Arutela",
+      "url": "https://romania-atractiva.ro/ro/profiles/castrul-roman-arutela",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
+    },
+    {
+      "title": "UNESCO非物質文化遺產｜Romania",
+      "url": "https://ich.unesco.org/en/state/romania-RO",
+      "checked": "2026-09-24｜UNESCO路線補充；開放狀況以到訪日為準"
     }
   ],
   "budgetNote": "使用RON結帳並保留適量現金。景點、停車、餐飲與租車延時分開計算；住宿與交通已訂不代表活動門票已訂。"
