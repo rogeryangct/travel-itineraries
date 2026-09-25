@@ -32,3 +32,20 @@ html{scroll-padding-top:calc(var(--sitebar-height) + 72px)}
 .trip-toolbar{grid-template-columns:minmax(0,1fr);padding:7px 0;margin-bottom:12px}
 .trip-toolbar select{height:40px;min-height:40px;max-width:440px;background:#fff}
 .trip-intro{padding:12px 0 4px}.trip-intro h1{margin-bottom:12px}
+
+/* Travel history: year tabs and compact itinerary cards */
+.history-years{display:flex;gap:8px;overflow-x:auto;padding:10px 0 14px;scrollbar-width:thin}
+.history-years a{padding:9px 15px;white-space:nowrap;border-radius:20px;background:#edf2f5;color:#183951;text-decoration:none}
+.history-years a[aria-current]{background:#112d46;color:white}
+.history-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:20px 0}
+.history-stats>div{background:#112d46;color:white;border-radius:12px;padding:20px}
+.history-stats strong{display:block;font-size:38px;line-height:1.4;font-variant-numeric:tabular-nums}
+.history-stats span{display:block;font-size:12px;color:#cedee7}
+.history-year{margin:28px 0 12px;font-size:25px}
+.history-card{display:flex;gap:20px;padding:24px;background:white;border:1px solid #dce4e9;border-radius:12px;margin:10px 0}
+.history-date{flex:0 0 72px;align-self:flex-start;text-align:center;background:#edf3f6;border-radius:9px;padding:15px 7px;color:#183951}
+.history-date strong,.history-date small{display:block}.history-date strong{font-size:20px}
+.history-body{min-width:0;flex:1}.history-title{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.history-title h3{margin:0;font-size:20px}.history-card p{margin:9px 0}.history-card summary{cursor:pointer;color:#315d79}
+.history-card details{margin-top:14px}.history-card li{margin:8px 0}.history-card .btn{margin:5px 8px 5px 0}
+@media(max-width:600px){.history-stats{grid-template-columns:repeat(2,1fr);gap:9px}.history-stats>div{padding:15px}.history-card{padding:17px 12px;gap:12px}.history-date{flex-basis:55px}.history-title h3{font-size:18px}.top-actions{overflow-x:auto;flex-wrap:nowrap;max-width:100%}.top-actions a{white-space:nowrap}.history-card .btn{white-space:normal}}

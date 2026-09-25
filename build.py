@@ -86,6 +86,7 @@ def render_structured(t,d):
 
 def build():
     catalog=json.loads((SRC/'catalog.json').read_text())
+    catalog['history']=json.loads((SRC/'history.json').read_text())
     ids=set();country_ids={c['id'] for c in catalog['countries']}
     if len(country_ids)!=len(catalog['countries']):raise ValueError('Duplicate country IDs')
     for c in catalog['countries']:
@@ -114,7 +115,7 @@ def build():
         templates.append('<template id="content-'+t['id']+'">'+body+'</template>')
     css=scope_css((SRC/'content/legacy.css').read_text())+'\n'+(SRC/'site.css').read_text()
     data=json.dumps(catalog,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')
-    page=(SRC/'shell.html').read_text().replace('/*STYLE*/',css).replace('/*CATALOG*/',data).replace('<!--TRIPS-->','\n'.join(templates)).replace('/*SCRIPT*/',(SRC/'app.js').read_text())
+    page=(SRC/'shell.html').read_text().replace('/*STYLE*/',css).replace('/*CATALOG*/',data).replace('<!--TRIPS-->','\n'.join(templates)).replace('/*SCRIPT*/',(SRC/'history.js').read_text()+'\n'+(SRC/'app.js').read_text())
     (ROOT/'index.html').write_text(page)
     print('Built index.html:',len(page.encode()),'bytes;',len(catalog['countries']),'countries;',len(catalog['trips']),'trips')
 if __name__=='__main__':build()
