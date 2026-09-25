@@ -10,3 +10,9 @@ let a=ctx.historyRecords().find(r=>r.id==='auto-test');assert.equal(a.end,'2027-
 C.trips.find(t=>t.id==='romania-2026').end='2026-10-04';assert.equal(ctx.historyRecords().find(r=>r.id==='2026-romania').end,'2026-10-04');
 for(const row of C.history.records){assert.ok(row.start<=row.end);if(row.reportedDays)assert.equal(ctx.historyDays(row.start,row.end),row.reportedDays,row.title);}
 console.log('PASS: 76 PDF records; 89 merged segments; date union, cross-year, future city, automatic additions and linked date updates.');
+const baseline=ctx.historyStats(ctx.historyRecords(),'all','2026-09-25');
+assert.equal(ctx.visitedCountryList('2026-09-25').length,57);
+assert.equal(baseline.countries.length,44);
+assert.equal(baseline.days,1148);
+assert.equal(ctx.historyStats(ctx.historyRecords(),'2025','2026-09-25').countries.includes('Monaco'),false);
+console.log('PASS: 57 flag countries, unchanged 1148 elapsed days, undated countries excluded from annual totals.');

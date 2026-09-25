@@ -7,3 +7,5 @@
 Statistics use unique ISO calendar dates and split at year boundaries; segment cards show full inclusive ranges. Elapsed statistics are schedule-based, not an assertion that every reservation was fulfilled. Country/region and city totals deduplicate exact normalized canonical names. No inferred distance or carbon estimate. Romania historical city visits use planned dated arrival points. Existing localStorage and country routes must remain intact.
 
 Build with `python build.py`; publish modified sources and generated index.html together.
+
+The user-supplied flag roster (`visitedCountries`, snapshot 2026-09-25) is authoritative for the All countries total, includes Taiwan, Hong Kong and Macau, and preserves image order. This independent roster does not create trip records or days. Undated flag additions do not affect yearly country totals. Future dated countries are unioned with the roster when their trip starts. The flag list is available at #visited-countries. Monaco is the second red/white flag in the supplied list.
