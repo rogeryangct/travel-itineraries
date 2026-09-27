@@ -3,7 +3,7 @@ function historyRecords(){
  const rows=C.history.records.map(r=>({...r,countries:[...r.countries],cities:[...r.cities]}));
  const covered=new Set(rows.flatMap(r=>r.tripIds||[]));
  rows.forEach(r=>{if(r.syncDates){const ts=(r.tripIds||[]).map(trip).filter(Boolean);if(ts.length){r.start=ts.map(t=>t.start).sort()[0];r.end=ts.map(t=>t.end).sort().at(-1);}}});
- C.trips.filter(t=>!covered.has(t.id)).forEach(t=>{const h=t.history||{};rows.push({id:'auto-'+t.id,title:h.title||t.title,start:h.start||t.start,end:h.end||t.end,countries:(h.countries||[t.countries[0]]).map(id=>country(id)?.english||id),cities:h.cities||[],cityVisits:h.cityVisits||[],tripIds:[t.id],source:'自動同步國家行程',note:h.note||'跨國行程預設僅計主要國家；未列明的城市不推估。'});});
+ C.trips.filter(t=>!covered.has(t.id)).forEach(t=>{const h=t.history||{};rows.push({id:'auto-'+t.id,title:h.title||t.title,start:h.start||t.start,end:h.end||t.end,countries:(h.countries||[t.countries[0]]).map(id=>country(id)?.english||id),cities:h.cities||[],cityVisits:h.cityVisits||[],details:h.details||[],tripIds:[t.id],source:'自動同步國家行程',note:h.note||'跨國行程預設僅計主要國家；未列明的城市不推估。'});});
  return rows.sort((a,b)=>b.start.localeCompare(a.start)||b.end.localeCompare(a.end));
 }
 function historyDays(a,b){return Math.max(0,Math.round((Date.parse(b)-Date.parse(a))/86400000)+1);}

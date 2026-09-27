@@ -9,3 +9,8 @@ Statistics use unique ISO calendar dates and split at year boundaries; segment c
 Build with `python build.py`; publish modified sources and generated index.html together.
 
 The user-supplied flag roster (`visitedCountries`, snapshot 2026-09-25) is authoritative for the All countries total, includes Taiwan, Hong Kong and Macau, and preserves image order. This independent roster does not create trip records or days. Undated flag additions do not affect yearly country totals. Future dated countries are unioned with the roster when their trip starts. The flag list is available at #visited-countries. Monaco is the second red/white flag in the supplied list.
+
+
+## Bulgaria 2026-10-03–2026-10-13
+
+Added through catalog trip.history with dated cityVisits and accommodation/transport details. The 11 inclusive trip dates add 10 unique planned dates beyond Romania (October 3 is shared). October 10 alternative bookings count as one night and one trip. The 57-country flag roster is unchanged before October 3; Bulgaria is appended by the existing dated-history union when the trip begins. Optional Melnik and alternative route dates are not assumed visited. Statistics follow itinerary dates, not live location tracking.

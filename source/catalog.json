@@ -2,9 +2,19 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-09-25"
+    "updated": "2026-09-27"
   },
   "countries": [
+    {
+      "id": "bulgaria",
+      "name": "保加利亞",
+      "english": "Bulgaria",
+      "code": "BG",
+      "region": "歐洲",
+      "summary": "Tarnovo、Plovdiv、Sofia與Rila–Pirin；11天深度導覽、演出與山區A/B方案。",
+      "currency": "EUR／€",
+      "timeZone": "Europe/Sofia"
+    },
     {
       "id": "romania",
       "name": "羅馬尼亞",
@@ -67,6 +77,134 @@
     }
   ],
   "trips": [
+    {
+      "id": "bulgaria-2026",
+      "title": "Veliko Tarnovo → Plovdiv → Sofia → Rila → Bansko",
+      "subtitle": "保加利亞｜11天深度導覽與高山備案",
+      "countries": [
+        "bulgaria"
+      ],
+      "start": "2026-10-03",
+      "end": "2026-10-13",
+      "verified": "2026-09-27",
+      "status": "每日導覽＋七湖A/B＋Pirin調整",
+      "tags": [
+        "深度導覽",
+        "世界遺產",
+        "自駕",
+        "高山",
+        "芭蕾"
+      ],
+      "content": "content/bulgaria-2026.json",
+      "timeZone": "Europe/Sofia",
+      "important": "10/3聲光秀、10/8芭蕾已公布但未代購；10/10住宿二選一需核對取消期限，Pirin改10/12。10/13提前還車須書面確認。",
+      "days": [
+        {
+          "id": "bg03",
+          "date": "2026-10-03",
+          "label": "Bucharest → Veliko Tarnovo｜河谷山城與聲光秀"
+        },
+        {
+          "id": "bg04",
+          "date": "2026-10-04",
+          "label": "Veliko Tarnovo → Arbanasi｜帝國與商人住宅"
+        },
+        {
+          "id": "bg05",
+          "date": "2026-10-05",
+          "label": "Veliko Tarnovo → Plovdiv｜06:50直達車與城市散步"
+        },
+        {
+          "id": "bg06",
+          "date": "2026-10-06",
+          "label": "Plovdiv｜羅馬劇場、復興宅邸與馬賽克"
+        },
+        {
+          "id": "bg07",
+          "date": "2026-10-07",
+          "label": "Plovdiv → Sofia｜Serdica地下城市與礦泉街區"
+        },
+        {
+          "id": "bg08",
+          "date": "2026-10-08",
+          "label": "Sofia｜國家歷史、週四美術館與芭蕾"
+        },
+        {
+          "id": "bg09",
+          "date": "2026-10-09",
+          "label": "SOF取車 → Dupnitsa → Sapareva Banya"
+        },
+        {
+          "id": "bg10",
+          "date": "2026-10-10",
+          "label": "Seven Rila Lakes A／Rila Monastery B｜當晨決策"
+        },
+        {
+          "id": "bg11",
+          "date": "2026-10-11",
+          "label": "Rila Monastery轉移日／Bansko完整日｜避開Vihren賽事"
+        },
+        {
+          "id": "bg12",
+          "date": "2026-10-12",
+          "label": "Pirin短走 → Sofia｜13:00左右北返"
+        },
+        {
+          "id": "bg13",
+          "date": "2026-10-13",
+          "label": "Sofia Airport還車 → ATH → CAI"
+        }
+      ],
+      "history": {
+        "title": "Bulgaria｜帝國山城、Sofia與Rila–Pirin",
+        "countries": [
+          "bulgaria"
+        ],
+        "cityVisits": [
+          {
+            "name": "Veliko Tarnovo",
+            "date": "2026-10-03"
+          },
+          {
+            "name": "Arbanasi",
+            "date": "2026-10-04"
+          },
+          {
+            "name": "Plovdiv",
+            "date": "2026-10-05"
+          },
+          {
+            "name": "Sofia",
+            "date": "2026-10-07"
+          },
+          {
+            "name": "Dupnitsa",
+            "date": "2026-10-09"
+          },
+          {
+            "name": "Sapareva Banya",
+            "date": "2026-10-09"
+          },
+          {
+            "name": "Bansko",
+            "date": "2026-10-11"
+          }
+        ],
+        "note": "10/3–13共11個日曆日、10晚；10/3與羅馬尼亞重疊日只計一次。10/10住宿與路線二選一不重複累加；Bansko以兩案共同的10/11計城市日期，若提早抵達再更新。未到訪前不加入已旅行國家數；僅按排程經過日期計算，行程變更請更新。",
+        "details": [
+          "10/3–5｜Aleko Apartments City Center｜Veliko Tarnovo，2晚",
+          "10/5–7｜2BD Heart of Plovdiv Boheme Flat｜Plovdiv，2晚",
+          "10/7–9｜Luxury Apartments 1｜Sofia，2晚",
+          "10/9–10｜Апартаменти ЗДРАВЕ｜Sapareva Banya，1晚",
+          "10/10–11｜Апартаменти ЗДРАВЕ 或 Ski Nomad Bansko｜A七湖成功續住Sapareva；B改修道院後到Bansko，二擇一",
+          "10/11–12｜Ski Nomad Bansko｜Bansko，1晚",
+          "10/12–13｜N9 Studentski Loft｜Sofia，1晚",
+          "10/3 FlixBus Bucharest→Veliko Tarnovo 10:10；電子票為準",
+          "10/9 08:30–10/13 TOP租車；10/13提前還車待書面確認",
+          "10/13 10:55 Aegean SOF→ATH→CAI，依使用者航班資料"
+        ]
+      }
+    },
     {
       "id": "romania-2026",
       "title": "Bucharest → Transfăgărășan → Transylvania → Sinaia",

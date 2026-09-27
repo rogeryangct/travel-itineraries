@@ -4,15 +4,27 @@ const ctx={C,trip:id=>C.trips.find(t=>t.id===id),country:id=>C.countries.find(c=
 const r=[{start:'2025-12-30',end:'2026-01-02',countries:['Japan'],cities:['Tokyo']},{start:'2026-01-02',end:'2026-01-04',countries:['Japan'],cities:['Tokyo']}];
 const all=ctx.historyStats(r,'all','2026-01-03'),year=ctx.historyStats(r,'2026','2026-01-03');
 assert.equal(all.days,5);assert.equal(all.planned,6);assert.equal(year.days,3);assert.equal(year.planned,4);assert.equal(all.countries.length,1);assert.equal(all.cities.length,1);
-assert.equal(ctx.historyRecords().length,89);
+assert.equal(ctx.historyRecords().length,90);
 C.trips.push({id:'test',title:'Future country',start:'2027-01-01',end:'2027-01-03',countries:['romania'],history:{cityVisits:[{name:'Future City',date:'2027-01-02'}]}});
 let a=ctx.historyRecords().find(r=>r.id==='auto-test');assert.equal(a.end,'2027-01-03');assert.equal(ctx.historyStats([a],'all','2026-09-25').days,0);assert.equal(ctx.historyStats([a],'all','2027-01-01').cities.length,0);assert.equal(ctx.historyStats([a],'all','2027-01-02').cities.length,1);
 C.trips.find(t=>t.id==='romania-2026').end='2026-10-04';assert.equal(ctx.historyRecords().find(r=>r.id==='2026-romania').end,'2026-10-04');
 for(const row of C.history.records){assert.ok(row.start<=row.end);if(row.reportedDays)assert.equal(ctx.historyDays(row.start,row.end),row.reportedDays,row.title);}
-console.log('PASS: 76 PDF records; 89 merged segments; date union, cross-year, future city, automatic additions and linked date updates.');
+console.log('PASS: 76 PDF records; 90 merged segments; date union, cross-year, future city, automatic additions and linked date updates.');
 const baseline=ctx.historyStats(ctx.historyRecords(),'all','2026-09-25');
 assert.equal(ctx.visitedCountryList('2026-09-25').length,57);
 assert.equal(baseline.countries.length,44);
 assert.equal(baseline.days,1148);
 assert.equal(ctx.historyStats(ctx.historyRecords(),'2025','2026-09-25').countries.includes('Monaco'),false);
 console.log('PASS: 57 flag countries, unchanged 1148 elapsed days, undated countries excluded from annual totals.');
+
+const bg=ctx.historyRecords().find(r=>r.id==='auto-bulgaria-2026');
+assert.equal(ctx.historyDays(bg.start,bg.end),11);
+assert.equal(bg.details.length,10);
+assert.equal(ctx.historyStats([bg],'2026','2026-09-27').countries.length,0);
+assert.equal(ctx.visitedCountryList('2026-09-27').length,57);
+assert.equal(ctx.visitedCountryList('2026-10-03').length,58);
+assert.deepEqual(Array.from(ctx.historyStats([bg],'2026','2026-10-03').cities),['Veliko Tarnovo']);
+const ro={start:'2026-09-23',end:'2026-10-03',countries:['Romania'],cities:[]};
+assert.equal(ctx.historyStats([ro,bg],'2026','2026-10-13').days,21);
+assert.equal(ctx.historyStats([ro,bg],'2026','2026-09-27').days,5);
+console.log('PASS: Bulgaria 11 days / 10 nights; boundary day deduplicated; future country excluded; 57 → 58 only on start date.');
