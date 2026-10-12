@@ -2,9 +2,19 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-09-27"
+    "updated": "2026-10-12"
   },
   "countries": [
+    {
+      "id": "egypt",
+      "name": "埃及",
+      "english": "Egypt",
+      "code": "EG",
+      "region": "非洲",
+      "summary": "20天19晚｜Giza、Cairo、黑白沙漠、Aswan、Abu Simbel與Luxor；完整現場導覽。",
+      "currency": "EGP／埃及鎊",
+      "timeZone": "Africa/Cairo"
+    },
     {
       "id": "bulgaria",
       "name": "保加利亞",
@@ -77,6 +87,184 @@
     }
   ],
   "trips": [
+    {
+      "id": "egypt-2026",
+      "title": "Giza → Cairo → White Desert → Aswan → Abu Simbel → Luxor",
+      "subtitle": "埃及｜20天19晚完整中文現場導覽",
+      "countries": [
+        "egypt"
+      ],
+      "start": "2026-10-13",
+      "end": "2026-11-01",
+      "verified": "2026-10-12",
+      "status": "依已訂住宿整合｜20天深度導覽",
+      "tags": [
+        "深度導覽",
+        "世界遺產",
+        "沙漠",
+        "包車",
+        "博物館"
+      ],
+      "content": "content/egypt-2026.json",
+      "timeZone": "Africa/Cairo",
+      "important": "10/26住Abu Simbel、10/28包車至Luxor、11/1搭機；Dendera改10/29。10/29跨10/30結束夏令時間。",
+      "days": [
+        {
+          "id": "eg1013",
+          "date": "2026-10-13",
+          "label": "SOF → ATH → CAI｜抵達與吉薩入住"
+        },
+        {
+          "id": "eg1014",
+          "date": "2026-10-14",
+          "label": "Giza｜金字塔群、獅身人面像與王權地景"
+        },
+        {
+          "id": "eg1015",
+          "date": "2026-10-15",
+          "label": "GEM｜從王權到日常生活的完整博物館日"
+        },
+        {
+          "id": "eg1016",
+          "date": "2026-10-16",
+          "label": "Saqqara → Memphis → Dahshur｜金字塔如何被發明"
+        },
+        {
+          "id": "eg1017",
+          "date": "2026-10-17",
+          "label": "Giza → Bahariya → Black & White Desert｜綠洲與古海床"
+        },
+        {
+          "id": "eg1018",
+          "date": "2026-10-18",
+          "label": "White Desert日出 → Cairo／Zamalek"
+        },
+        {
+          "id": "eg1019",
+          "date": "2026-10-19",
+          "label": "Egyptian Museum → Downtown｜考古史與近代開羅"
+        },
+        {
+          "id": "eg1020",
+          "date": "2026-10-20",
+          "label": "Coptic Cairo＋NMEC｜基督教、伊斯蘭與木乃伊"
+        },
+        {
+          "id": "eg1021",
+          "date": "2026-10-21",
+          "label": "Historic Cairo｜堡壘、馬穆魯克與工藝街"
+        },
+        {
+          "id": "eg1022",
+          "date": "2026-10-22",
+          "label": "Manial＋Nilometer → Zamalek｜王室品味與尼羅河數據"
+        },
+        {
+          "id": "eg1023",
+          "date": "2026-10-23",
+          "label": "Cairo → Aswan｜尼羅河第一瀑布與努比亞門戶"
+        },
+        {
+          "id": "eg1024",
+          "date": "2026-10-24",
+          "label": "Aswan｜Philae、花崗岩與努比亞博物館"
+        },
+        {
+          "id": "eg1025",
+          "date": "2026-10-25",
+          "label": "Elephantine＋Felucca｜河流、社群與慢旅行"
+        },
+        {
+          "id": "eg1026",
+          "date": "2026-10-26",
+          "label": "Aswan → Abu Simbel｜納瑟湖邊住一晚"
+        },
+        {
+          "id": "eg1027",
+          "date": "2026-10-27",
+          "label": "Abu Simbel晨光 → Aswan｜帝國宣傳與保存工程"
+        },
+        {
+          "id": "eg1028",
+          "date": "2026-10-28",
+          "label": "Aswan → Kom Ombo → Edfu → Luxor｜包車神廟日"
+        },
+        {
+          "id": "eg1029",
+          "date": "2026-10-29",
+          "label": "Dendera → Luxor Temple夜景｜Hathor與王權更新"
+        },
+        {
+          "id": "eg1030",
+          "date": "2026-10-30",
+          "label": "Luxor West Bank｜帝王谷、女性法老與工匠"
+        },
+        {
+          "id": "eg1031",
+          "date": "2026-10-31",
+          "label": "熱氣球候選＋Karnak＋Luxor Museum｜旅程收束"
+        },
+        {
+          "id": "eg1101",
+          "date": "2026-11-01",
+          "label": "LXR → CAI → AMM｜離開埃及"
+        }
+      ],
+      "history": {
+        "title": "Egypt｜金字塔、沙漠、努比亞與底比斯",
+        "countries": [
+          "egypt"
+        ],
+        "cityVisits": [
+          {
+            "name": "Giza",
+            "date": "2026-10-13"
+          },
+          {
+            "name": "Cairo",
+            "date": "2026-10-18"
+          },
+          {
+            "name": "Aswan",
+            "date": "2026-10-23"
+          },
+          {
+            "name": "Abu Simbel",
+            "date": "2026-10-26"
+          },
+          {
+            "name": "Kom Ombo",
+            "date": "2026-10-28"
+          },
+          {
+            "name": "Edfu",
+            "date": "2026-10-28"
+          },
+          {
+            "name": "Luxor",
+            "date": "2026-10-28"
+          },
+          {
+            "name": "Dendera",
+            "date": "2026-10-29"
+          }
+        ],
+        "note": "依2026/10/12已訂資料：20個日曆日、19晚；與Bulgaria共享10/13在總天數只計一次。10/17露營計1晚，Luxor兩筆訂單合計4晚。取消舊規劃河輪及紅海，不累計Hurghada或11/2–6；Jordan僅為11/1銜接航班，未新增完整國家行程。不把機場轉機算Athens城市到訪。城市按預定實際參觀日累計，並非即時到訪追蹤。",
+        "details": [
+          "10/13–17｜Brassbell | By the Pyramids｜Giza，4晚",
+          "10/17–18｜黑白沙漠露營｜Western Desert，1晚；團商與包含項目依訂單確認",
+          "10/18–23｜Studio 18 Airbnb_Abu Al Feda｜Cairo／Zamalek，5晚",
+          "10/23–26｜Pajama Hostel Nile View｜Aswan，3晚",
+          "10/26–27｜Hllol Hotel Abu Simbel｜Abu Simbel，1晚",
+          "10/27–28｜Pajama Hostel Nile View｜Aswan，1晚",
+          "10/28–11/1｜Temple & Nile view｜Luxor，4晚；兩筆訂單，確認10/29是否須換房",
+          "10/13 Aegean A3981／A3934 SOF→ATH→CAI 10:55–19:05",
+          "10/23 Air Cairo SM94 CAI→ASW 14:30–15:50；ASW住宿接送待再次確認",
+          "10/28 包車 Aswan→Kom Ombo→Edfu→Luxor",
+          "11/1 EgyptAir LXR→CAI 08:55–10:05；CAI→AMM 17:05–19:25；航廈與直掛以票務為準"
+        ]
+      }
+    },
     {
       "id": "bulgaria-2026",
       "title": "Veliko Tarnovo → Plovdiv → Sofia → Rila → Bansko",

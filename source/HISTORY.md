@@ -14,3 +14,8 @@ The user-supplied flag roster (`visitedCountries`, snapshot 2026-09-25) is autho
 ## Bulgaria 2026-10-03–2026-10-13
 
 Added through catalog trip.history with dated cityVisits and accommodation/transport details. The 11 inclusive trip dates add 10 unique planned dates beyond Romania (October 3 is shared). October 10 alternative bookings count as one night and one trip. The 57-country flag roster is unchanged before October 3; Bulgaria is appended by the existing dated-history union when the trip begins. Optional Melnik and alternative route dates are not assumed visited. Statistics follow itinerary dates, not live location tracking.
+
+
+## Egypt added 2026-10-12
+
+The Egypt catalog entry covers 2026-10-13 through 2026-11-01: 20 inclusive calendar days and 19 booked nights. October 13 overlaps Bulgaria and counts only once in global totals. Eight dated city visits are projected from the itinerary; future visits do not count as elapsed travel. The superseded Nile cruise and Red Sea extension are excluded. The 57-country flag baseline is unchanged.
