@@ -31,6 +31,16 @@ def scope_css(css):
             out.append(','.join(selectors)+'{'+body+'}')
         p=end
     return '\n'.join(out)
+def render_attachment(filename):
+    path=(SRC/'content'/filename).resolve()
+    if not path.is_relative_to((SRC/'content').resolve()):raise ValueError('Invalid attachment path')
+    document=path.read_text()
+    body=re.search(r'<body[^>]*>([\s\S]*?)</body>',document).group(1)
+    body=re.sub(r'<script\b[^>]*>[\s\S]*?</script>','',body)
+    body=re.sub(r'\bid="([^"]+)"',lambda m:'id="gem-'+m[1]+'"',body)
+    body=re.sub(r'href="#([^"]+)"',lambda m:'href="#gem-'+m[1]+'"',body)
+    return '<section class="gem-guide" id="gem-full-guide">'+body+'</section>'
+
 def render_structured(t,d):
     parts=['<nav>'+''.join('<a href="#'+esc(x['id'])+'">'+esc(x['date'][5:])+' '+esc(x['label'])+'</a>' for x in t['days'])+'<a href="#budget">費用</a><a href="#guidebook">景點導覽</a><a href="#sources">來源</a></nav><main>']
     guides=[]
@@ -46,6 +56,11 @@ def render_structured(t,d):
         parts.append('</section>')
     for day in d['days']:
         parts.append('<section class="day" id="'+esc(day['id'])+'"><span class="tag">'+esc(day['date'])+'</span><h2>'+esc(day['title'])+'</h2><p>'+esc(day.get('summary',''))+'</p>')
+        for related in day.get('relatedGuides',[]):
+            parts.append('<p class="soft"><a href="#'+esc(related['id'])+'">'+esc(related['title'])+'</a></p>')
+        if day.get('attachment'):
+            parts.append(render_attachment(day['attachment']))
+            parts.append('<details class="original-plan"><summary>原規劃保留｜吉薩金字塔日（與新版GEM時段重疊，勿同時照走）</summary>')
         if day.get('alternatives'):
             parts.append('<nav><a href="#'+esc(day['id'])+'-original-a">方案 A｜原行程</a>'+''.join('<a href="#'+esc(a['id'])+'">'+esc(a['title'])+'</a>' for a in day['alternatives'])+'</nav>')
             for alternative in day['alternatives']:
@@ -77,6 +92,7 @@ def render_structured(t,d):
             parts.append('</div></div>')
         for key,title in [('rainPlan','雨天備案'),('cutPlan','延誤時怎麼刪減')]:
             if day.get(key):parts.append('<div class="soft"><b>'+title+'</b><p>'+esc(day[key])+'</p></div>')
+        if day.get('attachment'):parts.append('</details>')
         parts.append('</section>')
     parts.append('<section id="budget"><h2>費用與預算</h2><div class="tablewrap"><table><thead><tr><th>項目</th><th>價格</th><th>計價單位</th><th>確認狀態</th></tr></thead><tbody>')
     for b in d.get('budget',[]):parts.append('<tr>'+''.join('<td>'+esc(b.get(k,''))+'</td>' for k in ['item','amount','unit','status'])+'</tr>')
@@ -114,6 +130,12 @@ def build():
         if not {d['id'] for d in t['days']}<=set(local_ids):raise ValueError('Missing day sections')
         templates.append('<template id="content-'+t['id']+'">'+body+'</template>')
     css=scope_css((SRC/'content/legacy.css').read_text())+'\n'+(SRC/'site.css').read_text()
+    attachments={day['attachment'] for t in catalog['trips'] if t['content'].endswith('.json') for day in json.loads((SRC/t['content']).read_text())['days'] if day.get('attachment')}
+    for filename in sorted(attachments):
+        document=(SRC/'content'/filename).read_text()
+        attachment_css=re.search(r'<style>([\s\S]*?)</style>',document).group(1)
+        css+='\n'+scope_css(attachment_css).replace('.legacy','.legacy .gem-guide')
+    css+='\n.legacy .gem-guide{padding:0;min-width:0}.legacy .gem-guide section{border:0;box-shadow:none;background:transparent;padding:0}.legacy .gem-guide nav{position:static}.legacy .gem-guide .hidden{display:none!important}.legacy .gem-guide h1{color:inherit}.legacy .gem-guide [id]{scroll-margin-top:calc(var(--sitebar-height,70px) + 65px)}.legacy .gem-guide .searchbar{position:static}.original-plan{margin:24px 0}@media print{.legacy .gem-guide .hidden{display:block!important}}'
     data=json.dumps(catalog,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')
     page=(SRC/'shell.html').read_text().replace('/*STYLE*/',css).replace('/*CATALOG*/',data).replace('<!--TRIPS-->','\n'.join(templates)).replace('/*SCRIPT*/',(SRC/'history.js').read_text()+'\n'+(SRC/'app.js').read_text())
     (ROOT/'index.html').write_text(page)

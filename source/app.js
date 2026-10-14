@@ -10,7 +10,7 @@ function toast(s){const n=document.getElementById('toast');n.textContent=s;n.cla
 function persist(){try{localStorage.setItem(storageKey,JSON.stringify(state));storageOK=true;return true;}catch(e){storageOK=false;toast('瀏覽器無法儲存，請匯出備份；目前資料仍可暫時使用。');return false;}}
 document.body.classList.remove('large-text');
 const records=[];
-C.trips.forEach(t=>{const temp=document.getElementById('content-'+t.id);temp.content.querySelectorAll('.slot,details.guide-card,section[id]').forEach(el=>{const heading=el.querySelector('h2,h3,summary');if(!heading||!el.id)return;records.push({trip:t.id,id:el.id,title:heading.textContent.trim(),text:el.textContent.replace(/\s+/g,' ').trim(),type:el.matches('details')?'景點導覽':el.matches('.slot')?'行程景點':'行程章節'});});});
+C.trips.forEach(t=>{const temp=document.getElementById('content-'+t.id);temp.content.querySelectorAll('.slot,details.guide-card,details.card,section[id]').forEach(el=>{const heading=el.querySelector('h2,h3,summary');if(!heading||!el.id)return;records.push({trip:t.id,id:el.id,title:heading.textContent.trim(),text:el.textContent.replace(/\s+/g,' ').trim(),type:el.matches('details')?'景點導覽':el.matches('.slot')?'行程景點':'行程章節'});});});
 const recordKey=r=>r.trip+'::'+r.id;
 function crumb(items){return '<div class="crumb"><a href="#home">國家首頁</a>'+items.map(i=>' <span>/</span> '+(i.href?'<a href="'+i.href+'">'+esc(i.label)+'</a>':'<span>'+esc(i.label)+'</span>')).join('')+'</div>';}
 function searchForm(q=''){return '<form class="searchform" id="search-form"><input id="search-input" name="q" aria-label="搜尋國家、城市或景點" placeholder="搜尋國家、城市或景點，例如 Sarajevo、刺殺" value="'+esc(q)+'" type="search"><button class="primary" type="submit">搜尋</button></form>';}
@@ -26,6 +26,7 @@ legacy.querySelectorAll('[data-map]').forEach(a=>{a.href='https://www.google.com
 const rp=legacy.querySelector('#route');if(rp){['Sarajevo Bosnia and Herzegovina','Foca Bosnia and Herzegovina','Hum border crossing Bosnia Montenegro','Scepan Polje Montenegro','Pluzine Montenegro','Piva Monastery Montenegro','Jasenovo Polje Niksic Montenegro','Savnik Montenegro','Zabljak Montenegro'].forEach((p,i)=>{const a=document.createElement('a');a.className='map';a.href='https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(p);a.textContent=(i+1)+'. '+p;a.target='_blank';a.rel='noopener noreferrer';rp.append(a);});}
 records.filter(r=>r.trip===t.id&&r.type!=='行程章節').forEach(r=>{const el=legacy.querySelector('[id="'+CSS.escape(r.id)+'"]');if(!el)return;const wrap=document.createElement('div');wrap.className='no-print';wrap.innerHTML=savedButton(r);if(el.matches('details'))el.append(wrap);else(el.children[1]||el).append(wrap);});
 legacy.querySelectorAll('a[target="_blank"]').forEach(a=>a.rel='noopener noreferrer');
+initGemGuide(legacy);
 }
 function showTarget(id){if(!id){window.scrollTo(0,0);return;}const el=document.getElementById(id);if(!el)return;let p=el;while(p){if(p.tagName==='DETAILS')p.open=true;p=p.parentElement;}requestAnimationFrame(()=>el.scrollIntoView({block:'start'}));const sel=document.getElementById('day-jump');if(sel)sel.value=trip(activeTrip).days.some(d=>d.id===id)?id:'';}
 function resultCard(r){const t=trip(r.trip);return '<article class="result"><div class="result-meta">'+esc(t.title)+' · '+esc(r.type)+'</div><h3><a href="'+link(t,r.id)+'">'+esc(r.title)+'</a></h3><p>'+esc(r.text.slice(0,155))+'…</p>'+savedButton(r)+'</article>';}
@@ -51,3 +52,15 @@ addEventListener('hashchange',route);route();
 function measureNavigation(){document.documentElement.style.setProperty('--sitebar-height',document.getElementById('sitebar').getBoundingClientRect().height+'px');}
 measureNavigation();if(typeof ResizeObserver!=='undefined')new ResizeObserver(measureNavigation).observe(document.getElementById('sitebar'));else addEventListener('resize',measureNavigation);
 
+
+function initGemGuide(root){
+ const guide=root.querySelector('.gem-guide');if(!guide)return;
+ const q=guide.querySelector('#gem-q'),cards=[...guide.querySelectorAll('details.card')];
+ function filter(){const value=q.value.trim().toLowerCase();let count=0;cards.forEach(card=>{const match=card.textContent.toLowerCase().includes(value);card.classList.toggle('hidden',!match);if(match)count++;if(value&&match)card.open=true;});guide.querySelectorAll('.objectgroup').forEach(group=>group.classList.toggle('hidden',![...group.querySelectorAll('.card')].some(card=>!card.classList.contains('hidden'))));guide.querySelector('#gem-count').textContent=`顯示 ${count} / ${cards.length} 個閱讀站`;}
+ q.addEventListener('input',filter);
+ guide.querySelector('#gem-expand').onclick=()=>cards.filter(card=>!card.classList.contains('hidden')).forEach(card=>card.open=true);
+ guide.querySelector('#gem-collapse').onclick=()=>cards.forEach(card=>card.open=false);
+ guide.querySelector('#gem-clear').onclick=()=>{q.value='';filter();};
+ guide.addEventListener('click',event=>{if(event.target.closest('a[href*="/gem-"]')){q.value='';filter();}});
+ filter();
+}
