@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-10-31",
   "records": [
     {
       "id": "archive-2026-06-05",
@@ -1290,6 +1290,113 @@
           "name": "Sinaia",
           "date": "2026-10-01"
         }
+      ]
+    },
+    {
+      "id": "2026-jordan-out",
+      "title": "Jordan｜安曼至沙漠",
+      "start": "2026-11-01",
+      "end": "2026-11-15",
+      "countries": [
+        "Jordan"
+      ],
+      "cities": [],
+      "cityVisits": [
+        {
+          "name": "Amman",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "As-Salt",
+          "date": "2026-11-05"
+        },
+        {
+          "name": "Ajloun",
+          "date": "2026-11-05"
+        },
+        {
+          "name": "Jerash",
+          "date": "2026-11-05"
+        },
+        {
+          "name": "Madaba",
+          "date": "2026-11-06"
+        },
+        {
+          "name": "Dead Sea",
+          "date": "2026-11-07"
+        },
+        {
+          "name": "Karak",
+          "date": "2026-11-08"
+        },
+        {
+          "name": "Wadi Musa / Petra",
+          "date": "2026-11-08"
+        },
+        {
+          "name": "Wadi Rum",
+          "date": "2026-11-11"
+        }
+      ],
+      "tripIds": [
+        "jordan-jerusalem-2026"
+      ],
+      "source": "2026/10/31使用者行程與官網查核",
+      "note": "規劃行程，跨境依實際執行；重疊跨境日以日期聯集計算。",
+      "details": [
+        "Jordan｜安曼至沙漠",
+        "11/14不跨境；耶路撒冷11/15–18，住宿及入境條件待確認。"
+      ]
+    },
+    {
+      "id": "2026-jerusalem",
+      "title": "Jerusalem｜條件式跨境",
+      "start": "2026-11-15",
+      "end": "2026-11-18",
+      "countries": [
+        "Israel"
+      ],
+      "cities": [],
+      "cityVisits": [
+        {
+          "name": "Jerusalem",
+          "date": "2026-11-15"
+        }
+      ],
+      "tripIds": [
+        "jordan-jerusalem-2026"
+      ],
+      "source": "2026/10/31使用者行程與官網查核",
+      "note": "規劃行程，跨境依實際執行；重疊跨境日以日期聯集計算。",
+      "details": [
+        "Jerusalem｜條件式跨境",
+        "11/14不跨境；耶路撒冷11/15–18，住宿及入境條件待確認。"
+      ]
+    },
+    {
+      "id": "2026-jordan-return",
+      "title": "Jordan｜返程安曼",
+      "start": "2026-11-18",
+      "end": "2026-11-19",
+      "countries": [
+        "Jordan"
+      ],
+      "cities": [],
+      "cityVisits": [
+        {
+          "name": "Amman",
+          "date": "2026-11-18"
+        }
+      ],
+      "tripIds": [
+        "jordan-jerusalem-2026"
+      ],
+      "source": "2026/10/31使用者行程與官網查核",
+      "note": "規劃行程，跨境依實際執行；重疊跨境日以日期聯集計算。",
+      "details": [
+        "Jordan｜返程安曼",
+        "11/14不跨境；耶路撒冷11/15–18，住宿及入境條件待確認。"
       ]
     }
   ],

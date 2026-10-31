@@ -2,9 +2,29 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-10-14"
+    "updated": "2026-10-31"
   },
   "countries": [
+    {
+      "id": "jordan",
+      "name": "約旦",
+      "english": "Jordan",
+      "code": "JO",
+      "region": "西亞",
+      "summary": "安曼、Jerash、Madaba、死海、Petra與Wadi Rum；銜接耶路撒冷的19天逐時導覽。",
+      "currency": "JOD／約旦第納爾",
+      "timeZone": "Asia/Amman"
+    },
+    {
+      "id": "israel",
+      "name": "以色列／耶路撒冷",
+      "english": "Israel",
+      "code": "IL",
+      "region": "西亞",
+      "summary": "11/15–18耶路撒冷條件式跨境行程；舊城、博物館與當代藝術。",
+      "currency": "NIS／新謝克爾",
+      "timeZone": "Asia/Jerusalem"
+    },
     {
       "id": "egypt",
       "name": "埃及",
@@ -87,6 +107,130 @@
     }
   ],
   "trips": [
+    {
+      "id": "jordan-jerusalem-2026",
+      "title": "Amman → Petra → Wadi Rum → Jerusalem",
+      "subtitle": "約旦＋耶路撒冷｜19天逐小時深度導覽",
+      "countries": [
+        "jordan",
+        "israel"
+      ],
+      "start": "2026-11-01",
+      "end": "2026-11-19",
+      "verified": "2026-10-31",
+      "status": "依已訂住宿與租車｜跨境條件式執行",
+      "tags": [
+        "逐小時",
+        "世界遺產",
+        "藝術",
+        "沙漠",
+        "自駕"
+      ],
+      "content": "content/jordan-jerusalem-2026.json",
+      "timeZone": "Asia/Amman",
+      "important": "🇯🇴 11/11 15:00火車已訂；11/14安曼加住一晚未訂。🇮🇱 耶路撒冷改11/15–18三晚，過境、再入境資格及安全確認後執行。",
+      "days": [
+        {
+          "id": "jo1101",
+          "date": "2026-11-01",
+          "label": "抵達安曼｜AMM → Jabal Amman"
+        },
+        {
+          "id": "jo1102",
+          "date": "2026-11-02",
+          "label": "城堡山、羅馬劇場與Jordan Museum＋攝影展開幕"
+        },
+        {
+          "id": "jo1103",
+          "date": "2026-11-03",
+          "label": "藍頂清真寺、老城市場與安曼生活"
+        },
+        {
+          "id": "jo1104",
+          "date": "2026-11-04",
+          "label": "安曼藝術與當代文化深度日"
+        },
+        {
+          "id": "jo1105",
+          "date": "2026-11-05",
+          "label": "Dollar取車 → As-Salt → Ajloun → Jerash"
+        },
+        {
+          "id": "jo1106",
+          "date": "2026-11-06",
+          "label": "Jerash古城晨光 → Madaba馬賽克"
+        },
+        {
+          "id": "jo1107",
+          "date": "2026-11-07",
+          "label": "Mount Nebo → 耶穌受洗地 → 死海度假"
+        },
+        {
+          "id": "jo1108",
+          "date": "2026-11-08",
+          "label": "死海慢晨 → Karak → Wadi Musa"
+        },
+        {
+          "id": "jo1109",
+          "date": "2026-11-09",
+          "label": "Petra第一天｜峽谷、寶庫與皇家陵墓＋夜間場"
+        },
+        {
+          "id": "jo1110",
+          "date": "2026-11-10",
+          "label": "Petra第二天｜Ad-Deir修道院健行"
+        },
+        {
+          "id": "jo1111",
+          "date": "2026-11-11",
+          "label": "Petra → Wadi Rum｜15:00 Journey Through 1916"
+        },
+        {
+          "id": "jo1112",
+          "date": "2026-11-12",
+          "label": "Wadi Rum全天吉普車｜砂岩、銘文與星空"
+        },
+        {
+          "id": "jo1113",
+          "date": "2026-11-13",
+          "label": "Wadi Rum → 安曼｜17:30 Dollar還車"
+        },
+        {
+          "id": "jo1114",
+          "date": "2026-11-14",
+          "label": "安曼多留一晚｜文化散步與跨境準備"
+        },
+        {
+          "id": "jo1115",
+          "date": "2026-11-15",
+          "label": "安曼 → Allenby → 耶路撒冷｜雙時區跨境",
+          "timeZone": "Asia/Jerusalem"
+        },
+        {
+          "id": "jo1116",
+          "date": "2026-11-16",
+          "label": "耶路撒冷舊城深度歷史巡禮",
+          "timeZone": "Asia/Jerusalem"
+        },
+        {
+          "id": "jo1117",
+          "date": "2026-11-17",
+          "label": "Yad Vashem → 免費雙年展 → Israel Museum英文導覽",
+          "timeZone": "Asia/Jerusalem"
+        },
+        {
+          "id": "jo1118",
+          "date": "2026-11-18",
+          "label": "耶路撒冷 → Allenby → 安曼",
+          "timeZone": "Asia/Jerusalem"
+        },
+        {
+          "id": "jo1119",
+          "date": "2026-11-19",
+          "label": "安曼機場離境｜Saudia AMM → RUH"
+        }
+      ]
+    },
     {
       "id": "egypt-2026",
       "title": "Giza → Cairo → White Desert → Aswan → Abu Simbel → Luxor",

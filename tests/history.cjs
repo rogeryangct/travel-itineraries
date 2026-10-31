@@ -4,12 +4,12 @@ const ctx={C,trip:id=>C.trips.find(t=>t.id===id),country:id=>C.countries.find(c=
 const r=[{start:'2025-12-30',end:'2026-01-02',countries:['Japan'],cities:['Tokyo']},{start:'2026-01-02',end:'2026-01-04',countries:['Japan'],cities:['Tokyo']}];
 const all=ctx.historyStats(r,'all','2026-01-03'),year=ctx.historyStats(r,'2026','2026-01-03');
 assert.equal(all.days,5);assert.equal(all.planned,6);assert.equal(year.days,3);assert.equal(year.planned,4);assert.equal(all.countries.length,1);assert.equal(all.cities.length,1);
-assert.equal(ctx.historyRecords().length,91);
+assert.equal(ctx.historyRecords().length,94);
 C.trips.push({id:'test',title:'Future country',start:'2027-01-01',end:'2027-01-03',countries:['romania'],history:{cityVisits:[{name:'Future City',date:'2027-01-02'}]}});
 let a=ctx.historyRecords().find(r=>r.id==='auto-test');assert.equal(a.end,'2027-01-03');assert.equal(ctx.historyStats([a],'all','2026-09-25').days,0);assert.equal(ctx.historyStats([a],'all','2027-01-01').cities.length,0);assert.equal(ctx.historyStats([a],'all','2027-01-02').cities.length,1);
 C.trips.find(t=>t.id==='romania-2026').end='2026-10-04';assert.equal(ctx.historyRecords().find(r=>r.id==='2026-romania').end,'2026-10-04');
 for(const row of C.history.records){assert.ok(row.start<=row.end);if(row.reportedDays)assert.equal(ctx.historyDays(row.start,row.end),row.reportedDays,row.title);}
-console.log('PASS: 76 PDF records; 91 merged segments; date union, cross-year, future city, automatic additions and linked date updates.');
+console.log('PASS: 76 PDF records; 94 merged segments; date union, cross-year, future city, automatic additions and linked date updates.');
 const baseline=ctx.historyStats(ctx.historyRecords(),'all','2026-09-25');
 assert.equal(ctx.visitedCountryList('2026-09-25').length,57);
 assert.equal(baseline.countries.length,44);
@@ -37,3 +37,11 @@ assert.equal(ctx.historyStats([bg,eg],'2026','2026-11-01').days,30);
 assert.equal(ctx.historyStats([eg],'2026','2026-11-01').cities.length,8);
 assert.equal(ctx.visitedCountryList('2026-10-13').length,59);
 console.log('PASS: Egypt 20 days; Bulgaria boundary deduplicated; 8 planned cities; future dates excluded.');
+
+const jo=ctx.historyRecords().filter(r=>r.tripIds?.includes('jordan-jerusalem-2026'));
+assert.equal(jo.length,3);
+assert.equal(ctx.historyStats(jo,'2026','2026-11-19').days,19);
+assert.equal(ctx.historyStats(jo,'2026','2026-11-14').countries.includes('Israel'),false);
+assert.equal(ctx.historyStats(jo,'2026','2026-11-15').countries.includes('Israel'),true);
+assert.equal(ctx.visitedCountryList('2026-11-15').find(c=>c.name==='Israel').code,'IL');
+console.log('PASS: Jordan/Jerusalem 19-day union; Israel starts November 15; flag code retained.');

@@ -87,7 +87,7 @@ def render_structured(t,d):
             if stop.get('official'):parts.append('<a class="map" href="'+url(stop['official'])+'" target="_blank" rel="noopener">官方資訊</a>')
             if stop.get('guide'):
                 parts.append('<a class="guide-link" href="#'+esc(gid)+'">導覽</a>');g=stop['guide']
-                guides.append('<details class="guide-card" id="'+esc(gid)+'"><summary>'+esc(stop['name'])+'｜導覽</summary>'+''.join('<h3>'+esc(k)+'</h3>'+''.join('<p>'+esc(paragraph)+'</p>' for paragraph in v.split('\n\n')) for k,v in [('現場看什麼',g.get('see','')),('歷史背景',g.get('history','')),('相關故事',g.get('story','')),('實用提醒',g.get('tips',''))] if v)+'<a class="guide-return" href="#'+esc(sid)+'">回到行程</a></details>')
+                guides.append('<details class="guide-card" id="'+esc(gid)+'"><summary>'+esc(stop['name'])+'｜導覽</summary>'+''.join('<h3>'+esc(k)+'</h3>'+''.join('<p>'+esc(paragraph)+'</p>' for paragraph in v.split('\n\n')) for k,v in [('現場看什麼',g.get('see','')),('歷史背景',g.get('history','')),('相關故事',g.get('story','')),('實用提醒',g.get('tips',''))] if v)+('<p class="guide-sources">參考：'+ ' · '.join('<a href="'+url(ref['url'])+'" target="_blank" rel="noopener">'+esc(ref['title'])+'</a>' for ref in g.get('sources',[]))+'</p>' if g.get('sources') else '')+'<a class="guide-return" href="#'+esc(sid)+'">回到行程</a></details>')
             if stop.get('booking'):parts.append('<p><b>預約：</b>'+esc(stop['booking'])+'</p>')
             parts.append('</div></div>')
         for key,title in [('rainPlan','雨天備案'),('cutPlan','延誤時怎麼刪減')]:
