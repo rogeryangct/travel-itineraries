@@ -456,8 +456,7 @@
                 "url": "https://museums.visitjordan.com/en/Museum/5"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1102-s04",
@@ -491,8 +490,7 @@
                 "url": "https://jordanpass.jo/contents/Opening_Hours.aspx"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1102-s07",
@@ -537,8 +535,7 @@
                 "url": "https://mci.si.edu/ain-ghazal-statues"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1102-s11",
@@ -572,8 +569,7 @@
                 "url": "https://nationalgallery.org/event/antarctica-continent-of-peace/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1102-s14",
@@ -619,20 +615,12 @@
           "name": "King Abdullah I Mosque",
           "description": "欣賞圓頂、幾何和書法；禮拜期間改看外觀。",
           "map": "https://www.google.com/maps/search/?api=1&query=King%20Abdullah%20I%20Mosque%20Amman",
-          "official": "https://jordanpass.jo/contents/Opening_Hours.aspx",
           "guide": {
             "see": "先看藍色圓頂與兩座尖塔形成的城市輪廓，進入後辨認米哈拉布朝向壁龕、敏拜爾講壇、地毯上的禮拜排列與圓頂幾何。進門先問訪客可停留區域，不穿過正在禮拜者正前方。",
             "history": "清真寺是當代安曼的重要地標，名稱紀念約旦王國早期歷史中的Abdullah I。幾何、書法與光線共同塑造空間；不要把當代建築誤當中世紀遺存，應與城堡山倭馬亞宮殿作年代對照。",
             "story": "伊斯蘭藝術常以書法及幾何建立節奏，並非所有宗教建築都完全排斥人物圖像；此處重點是禮拜空間的功能與安靜。聽見宣禮時，可觀察城市如何隨共同時間改變節奏。",
-            "tips": "09:20時段是規劃，非已確認遊客入場時段。遮肩膝、女性帶頭巾、依規定脫鞋；非穆斯林能否進入及門票現場確認。遇禮拜改外觀，移用時間到Weibdeh。",
-            "sources": [
-              {
-                "title": "Jordan Pass｜冬季景點時間表",
-                "url": "https://jordanpass.jo/contents/Opening_Hours.aspx"
-              }
-            ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+            "tips": "09:20時段是規劃，非已確認遊客入場時段。遮肩膝、女性帶頭巾、依規定脫鞋；非穆斯林能否進入及門票現場確認。遇禮拜改外觀，移用時間到Weibdeh。"
+          }
         },
         {
           "id": "jo1103-s04",
@@ -661,20 +649,12 @@
           "name": "Al-Husseini Mosque外觀",
           "description": "以外觀及周邊街道為主，不保證入內。",
           "map": "https://www.google.com/maps/search/?api=1&query=Al%20Husseini%20Mosque%20Amman",
-          "official": "https://international.visitjordan.com/wheretogo/jerash/",
           "guide": {
             "see": "以清真寺外觀作定位，沿老城商業街走到Souk Al-Sukar，再看Nymphaeum外圍。注意麵包店、香料秤、咖啡研磨與水果攤陳列；買乾貨先問每公斤或每100克，避免將秤重商品誤作整袋價。",
             "history": "安曼的低地商業中心與山坡住宅相互依賴。Al-Husseini Mosque周圍呈現宗教、交通與市場的重疊；羅馬水神廟Nymphaeum則提醒人們城市曾透過公共水景展示繁榮。今日部分古水道已隱於現代道路之下。",
             "story": "飲食可用三個味道認識約旦：Mansaf的jameed乾酸乳、Maqluba倒扣飯的香料、Falafel與Hummus的豆類組合。Mansaf常按多人份供應，先問一份分量；沒有必要每餐都安排大份烤肉。",
-            "tips": "清真寺此站以外觀為主；Nymphaeum是否開放內部尚未確認。避開禮拜散場入口，拍攝攤商先示意。Hashem等店是原稿選項，未重新核實即日菜價，不標成已訂位。",
-            "sources": [
-              {
-                "title": "約旦旅遊局｜Jerash",
-                "url": "https://international.visitjordan.com/wheretogo/jerash/"
-              }
-            ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+            "tips": "清真寺此站以外觀為主；Nymphaeum是否開放內部尚未確認。避開禮拜散場入口，拍攝攤商先示意。Hashem等店是原稿選項，未重新核實即日菜價，不標成已訂位。"
+          }
         },
         {
           "id": "jo1103-s08",
@@ -696,20 +676,12 @@
           "name": "Rainbow Street黃昏",
           "description": "利用山坡層次拍照；露台依消費和現場規範。",
           "map": "https://www.google.com/maps/search/?api=1&query=Rainbow%20Street%20Amman",
-          "official": "https://daratalfunun.org/?page_id=11",
           "guide": {
             "see": "沿Jabal Amman石屋、轉角樓梯與小巷走一段，再到Wild Jordan Center周邊找可公開停留的觀景位置。拍建築時保留門窗與坡度，城市層次比單張咖啡館裝潢更有安曼辨識度。",
             "history": "安曼不是一座能平面步行的城市：住宅、商業與文化空間分布在山丘上，同樣一公里可能包含陡坡。20世紀的石造住宅、陽台與後來的商業改造，說明首都從小城擴張的過程。",
             "story": "Rainbow Street的休閒氛圍與Downtown市場形成對照，但兩者都屬真實城市的一部分。Wild Jordan的名稱連結約旦自然保育旅遊，適合把稍後的Wadi Rum放進「環境、社區、生計」的思考。",
-            "tips": "黃昏城市取景可行，但街道本身不是已核實無遮擋的日落點。餐廳露台須消費或獲同意；樓梯不一定是公共通道。回住宿爬坡累時直接叫車。",
-            "sources": [
-              {
-                "title": "Darat al Funun｜開放時間與入口",
-                "url": "https://daratalfunun.org/?page_id=11"
-              }
-            ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+            "tips": "黃昏城市取景可行，但街道本身不是已核實無遮擋的日落點。餐廳露台須消費或獲同意；樓梯不一定是公共通道。回住宿爬坡累時直接叫車。"
+          }
         },
         {
           "id": "jo1103-s11",
@@ -747,8 +719,7 @@
           "time": "09:00–10:00",
           "name": "Rainbow Street老住宅",
           "description": "對照昨日黃昏與早晨石屋光線。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Rainbow%20Street%20Amman",
-          "official": "https://daratalfunun.org/?page_id=11"
+          "map": "https://www.google.com/maps/search/?api=1&query=Rainbow%20Street%20Amman"
         },
         {
           "id": "jo1104-s03",
@@ -768,8 +739,7 @@
                 "url": "https://daratalfunun.org/?page_id=11"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1104-s04",
@@ -807,8 +777,7 @@
                 "url": "https://nationalgallery.org/event/antarctica-continent-of-peace/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1104-s07",
@@ -898,8 +867,7 @@
                 "url": "https://whc.unesco.org/en/list/689/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1105-s06",
@@ -937,8 +905,7 @@
                 "url": "https://jordanpass.jo/contents/Opening_Hours.aspx"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1105-s09",
@@ -1014,8 +981,7 @@
                 "url": "https://jordanpass.jo/contents/Opening_Hours.aspx"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1106-s04",
@@ -1035,8 +1001,7 @@
                 "url": "https://international.visitjordan.com/wheretogo/jerash/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1106-s05",
@@ -1067,8 +1032,7 @@
                 "url": "https://jordanpass.jo/contents/Opening_Hours.aspx"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1106-s07",
@@ -1119,8 +1083,7 @@
                 "url": "https://jordanpass.jo/contents/Opening_Hours.aspx"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1106-s12",
@@ -1140,8 +1103,7 @@
                 "url": "https://mota.gov.jo/EN/Pages/Madaba"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1106-s13",
@@ -1211,8 +1173,7 @@
                 "url": "https://mota.gov.jo/EN/Pages/Madaba"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1107-s05",
@@ -1273,20 +1234,12 @@
           "name": "死海漂浮",
           "description": "每次短時間下水，避免水入眼口，勿潛水；破皮先等癒合。",
           "map": "https://www.google.com/maps/search/?api=1&query=Movenpick%20Resort%20Spa%20Dead%20Sea%20Jordan",
-          "official": "https://baptismsite.com/how-to-visit/",
           "guide": {
             "see": "從飯店指定通道下岸，先辨認水邊高差與鹽結晶，再看對岸高地與低地地形。漂浮後充分沖洗、在躺椅休息；日落前保留相機不沾鹽水的岸上拍攝時間。",
             "history": "死海位於約旦裂谷低地，是蒸發強而沒有通向海洋出口的鹹水湖。流入量、取水與蒸發共同改變水位；沿岸舊設施離水面越來越遠，是地景變化的直觀線索。",
             "story": "「海」是名稱而非海洋分類。密度使身體較易浮起，但此處也涉及水資源、工業與環境管理；不要把整個區域描述成完全沒有生命，微生物及周邊生態仍存在。",
-            "tips": "依飯店海況與救生員指示，避免把鹽水濺入眼口、跳水或潛水；只走管理岸線，不去不明野灘。14:30能否使用設施與入住時間由飯店確認。下午以休息為主，若受洗地延誤就縮短泳池，不取消休息。",
-            "sources": [
-              {
-                "title": "受洗地管理局｜票價、接駁與冬季時間",
-                "url": "https://baptismsite.com/how-to-visit/"
-              }
-            ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+            "tips": "依飯店海況與救生員指示，避免把鹽水濺入眼口、跳水或潛水；只走管理岸線，不去不明野灘。14:30能否使用設施與入住時間由飯店確認。下午以休息為主，若受洗地延誤就縮短泳池，不取消休息。"
+          }
         },
         {
           "id": "jo1107-s11",
@@ -1375,8 +1328,7 @@
                 "url": "https://jordanpass.jo/contents/Opening_Hours.aspx"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1108-s06",
@@ -1459,8 +1411,7 @@
                 "url": "https://visitpetra.jo/en/Trail/1"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1109-s04",
@@ -1484,8 +1435,7 @@
                 "url": "https://jordantimes.com/news/local/from-lawrence-of-arabia-to-dune-jordans-cinematic-journey"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1109-s05",
@@ -1516,8 +1466,7 @@
                 "url": "https://visitpetra.jo/en/page/15/Inside-Petra"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1109-s07",
@@ -1544,8 +1493,7 @@
                 "url": "https://visitpetra.jo/en/Location/105"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1109-s09",
@@ -1576,8 +1524,7 @@
                 "url": "https://whc.unesco.org/en/list/326/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1109-s11",
@@ -1689,8 +1636,7 @@
                 "url": "https://visitpetra.jo/en/Openinghours"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1110-s05",
@@ -1889,8 +1835,7 @@
                 "url": "https://jordantimes.com/news/local/from-lawrence-of-arabia-to-dune-jordans-cinematic-journey"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         }
       ],
       "cutPlan": "保留15:00火車，刪除多餘繞行、先進營地與長健行；票面集合點優先。",
@@ -1946,8 +1891,7 @@
                 "url": "https://www.jhrc.jo/Site.aspx?Id=1"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1112-s05",
@@ -1967,8 +1911,7 @@
                 "url": "https://whc.unesco.org/en/list/1377/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1112-s06",
@@ -1992,8 +1935,7 @@
                 "url": "https://jordantimes.com/news/local/from-lawrence-of-arabia-to-dune-jordans-cinematic-journey"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1112-s07",
@@ -2020,8 +1962,7 @@
                 "url": "https://whc.unesco.org/en/list/1377/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1112-s09",
@@ -2197,8 +2138,7 @@
                 "url": "https://museums.visitjordan.com/en/Museum/22"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1114-s04",
@@ -2317,8 +2257,7 @@
                 "url": "https://www.boca.gov.tw/sp-foof-countrycp-01-48-9bc3c-1.html"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1115-s05",
@@ -2363,8 +2302,7 @@
                 "url": "https://travel.gc.ca/destinations/israel-and-palestine"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1115-s09",
@@ -2388,8 +2326,7 @@
                 "url": "https://www.tod.org.il/en/event/entrance-to-the-tower-of-david/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1115-s10",
@@ -2416,8 +2353,7 @@
                 "url": "https://www.motj.org.il/en/event/voices-of-brotherhood-and-tolerance-a-special-musical-performance-conducted-by-dan-rapoport/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1115-s12",
@@ -2473,8 +2409,7 @@
                 "url": "https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1116-s04",
@@ -2498,8 +2433,7 @@
                 "url": "https://whc.unesco.org/en/list/148/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1116-s05",
@@ -2523,8 +2457,7 @@
                 "url": "https://travel.gc.ca/destinations/israel-and-palestine"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1116-s06",
@@ -2555,8 +2488,7 @@
                 "url": "https://www.tod.org.il/en/event/the-night-spectacular/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1116-s08",
@@ -2587,8 +2519,7 @@
                 "url": "https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1116-s10",
@@ -2619,8 +2550,7 @@
                 "url": "https://www.custodia.org/en/sanctuaries/gethsemane-basilica-agony/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1116-s12",
@@ -2702,8 +2632,7 @@
                 "url": "https://www.yadvashemusa.org/plan-a-visit/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1117-s04",
@@ -2730,8 +2659,7 @@
                 "url": "https://whc.unesco.org/en/list/148/"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1117-s06",
@@ -2790,8 +2718,7 @@
                 "url": "https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land"
               }
             ]
-          },
-          "cost": "門票、Jordan Pass涵蓋／預約或免費入場規則見導覽；未確認費用不視為免費。"
+          }
         },
         {
           "id": "jo1117-s10",
