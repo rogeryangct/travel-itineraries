@@ -2,343 +2,107 @@
   "overview": [
     {
       "id": "jo-route",
-      "title": "🇯🇴 Jordan ＋ 🇮🇱 Israel／Jerusalem｜2026/11/1–19，兩人19天18晚",
+      "title": "🇯🇴 約旦 → 🇮🇱 耶路撒冷",
       "paragraphs": [
-        "依2026/10/31提供的住宿、Dollar租車、Jordan Pass及11/11 15:00火車安排整合。保留原網站每日時間、Google Maps、導覽與來源格式。時間是規劃視窗，並非交通班次或預約憑證。",
-        "三個重點：11/11火車為已訂固定活動；11/14週六不跨Allenby／Sheikh Hussein，安曼須增住一晚；耶路撒冷改11/15–18三晚，以入境資格、口岸及安全狀況允許為前提。",
-        "約旦UTC+3、以色列11月UTC+2。11/15調慢一小時，11/18調快一小時。Google Maps多為景點名稱搜尋；同名住宿、租車分店與火車集合點須用訂單或主辦定位核對。"
+        "11/13 已抵達耶路撒冷錫安廣場一帶。11/14–17 探索老城、聖地、博物館與市場；11/18 由 Allenby 回安曼。"
       ],
-      "table": {
-        "headers": [
-          "日期",
-          "住宿",
-          "晚數與狀態"
-        ],
-        "rows": [
-          [
-            "11/1–5",
-            "Nozoll Boutique Residences",
-            "4晚｜依提供訂房"
-          ],
-          [
-            "11/5–6",
-            "Jeeso Hotel，Jerash",
-            "1晚｜依提供訂房"
-          ],
-          [
-            "11/6–7",
-            "Madaba Apartment",
-            "1晚｜名稱及精確地址未提供"
-          ],
-          [
-            "11/7–8",
-            "Mövenpick Resort & Spa Dead Sea",
-            "1晚｜依提供訂房"
-          ],
-          [
-            "11/8–11",
-            "Corner View Hotel，Wadi Musa",
-            "3晚｜依提供訂房"
-          ],
-          [
-            "11/11–13",
-            "Moon Rum Camp",
-            "2晚｜接送、Jeep與含餐另確認"
-          ],
-          [
-            "11/13–14",
-            "Jawaher Hotel，Abdali",
-            "1晚｜依提供訂房"
-          ],
-          [
-            "11/14–15",
-            "建議續住Jawaher",
-            "1晚｜尚未預訂，新增"
-          ],
-          [
-            "11/15–18",
-            "Jerusalem，建議Damascus Gate北側",
-            "3晚｜尚未確認訂房"
-          ],
-          [
-            "11/18–19",
-            "Jawaher Hotel",
-            "1晚｜依提供訂房"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "jo-confirmed",
-      "title": "固定安排、可選活動與修正依據",
-      "paragraphs": [
-        "已預訂：Dollar 11/5 09:30取車、11/13 17:30還車，分店依訂單；1916 Train 11/11 15:00，QR和集合點以票面為準。Jordan Pass需確認涵蓋11/9–10連續兩日Petra。",
-        "待購／待約：11/9 Petra by Night當天購票；11/12全天Jeep；11/15音樂會；11/16夜間投影；Yad Vashem預約及Israel Museum入場。未標已訂者不能當已付款。",
-        "Petra景區本季官方頁列2026/10/2–2027/3/1 06:30–17:00，與Jordan Pass舊表06:00–16:00不一致；採景區專頁並留提早出園緩衝。11/10改13:15下山、16:15目標離開，不等到16:45。",
-        "11/15音樂會官方曲目介紹含Bach、Brahms、Rameau、Morricone等且為站席，原稿Beethoven／Bernstein／Cohen組合未獲該活動頁支持。11/17英文團17:00已見官方公告，需Cardo現場登記，最多30人。"
-      ],
-      "links": [
-        {
-          "title": "Petra景區｜2026–27冬季時間",
-          "url": "https://visitpetra.jo/en/Openinghours"
-        },
-        {
-          "title": "Petra by Night｜場次、票價與售票方式",
-          "url": "https://www.petrabynight.jo/"
-        },
-        {
-          "title": "JHRC｜火車起終點及聯絡方式",
-          "url": "https://jhrc.jo/BookingInfo2.aspx?TripId=11"
-        },
-        {
-          "title": "MOTJ｜11/15音樂會曲目與站席",
-          "url": "https://www.motj.org.il/en/event/voices-of-brotherhood-and-tolerance-a-special-musical-performance-conducted-by-dan-rapoport/"
-        },
-        {
-          "title": "Israel Museum｜11/17 17:00英文精華導覽",
-          "url": "https://www.imj.org.il/en/node/5517031"
-        }
-      ]
+      "links": []
     },
     {
       "id": "jo-border",
-      "title": "跨境執行條件與留約旦備案",
+      "title": "11/18 回安曼",
       "paragraphs": [
-        "IAA目前列Allenby週日至四08:00–18:30、週五08:00–15:30、週六關閉；Jordan River／Sheikh Hussein週六也關閉。這是查核時狀態，不是11月必然正常通行的保證；出發前一天及當晨再確認。",
-        "台灣免簽旅客需ETA-IL；外交部列25 NIS、建議至少提前72小時申請。取得許可不等於保證入境。使用官方PIBA入口，不把商業代辦當政府。",
-        "Allenby沒有一般落地簽證服務。原約旦入境資格能否於11/18再次使用，須向約旦主管機關或使館依台灣護照及實際票證確認；必要時事先取得適用簽證／核准。Jordan Pass本身不是簽證。英國政府的英籍條款不能直接套用台灣旅客。",
-        "加拿大目前對以色列及耶路撒冷建議避免非必要旅行，西岸多數地區更嚴格，通往Allenby的部分道路另有說明。原稿美國2026/10/23 Level 3日期與級別未在此重作確證，不照抄成最新結論。飯店及接送優先可取消，避免不可退預付。",
-        "若11/14仍未取得再入境資格、口岸確認或安全條件不允許，取消11/15–18耶路撒冷段，續住安曼；11/15休息、11/16市區館舍、11/17補看藝術及咖啡街、11/18整理返程。這是備案方向，續住房間與費用須另安排；不臨時遠繞Aqaba–Eilat。"
+        "08:15–09:00 從市中心出發。以方口岸週三公告 08:00–18:30，旅客最晚 15:30 抵達。抵達約旦端後快轉一小時。以方出境費兩人 416 NIS；JETT 普通跨橋基本票兩人 14 JOD，行李費及付款方式以當班櫃檯為準。"
       ],
       "links": [
         {
-          "title": "IAA｜Allenby營運時間",
+          "title": "IAA 開放及最晚抵達",
           "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/opening-hours/"
         },
         {
-          "title": "IAA｜Jordan River營運時間",
-          "url": "https://www.iaa.gov.il/en/land-border-crossings/jordan-river/opening-hours-jorden-river/"
-        },
-        {
-          "title": "台灣外交部｜以色列ETA-IL",
-          "url": "https://www.boca.gov.tw/sp-foof-countrycp-01-48-9bc3c-1.html"
-        },
-        {
-          "title": "PIBA｜ETA-IL官方申請",
-          "url": "https://israel-entry.piba.gov.il/"
-        },
-        {
-          "title": "英國政府｜約旦入境與Allenby限制（英籍說明不等於台灣資格）",
-          "url": "https://www.gov.uk/foreign-travel-advice/jordan/entry-requirements"
-        },
-        {
-          "title": "IAA｜Allenby離境費",
+          "title": "IAA 出境費與 Milgam 付款入口",
           "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/fees/"
         },
         {
-          "title": "加拿大政府｜以色列、巴勒斯坦與耶路撒冷風險",
-          "url": "https://travel.gc.ca/destinations/israel-and-palestine"
+          "title": "JETT 普通接駁 FAQ",
+          "url": "https://jett.com.jo/en/faq"
         }
       ]
     },
     {
-      "id": "jo-jerusalem-stay",
-      "title": "耶路撒冷住宿區域與原稿比價",
+      "id": "jo-jerusalem-maps",
+      "title": "耶路撒冷分段導航",
       "paragraphs": [
-        "兩人、不租車，首選Damascus Gate北側約300–700公尺的Salah ad-Din Street／Nablus Road；其次Jaffa Road／Zion Square。優先獨立浴室、近期清潔及安靜評價、免費取消條款。",
-        "步行時間僅概估，需依飯店門口及路線核對；不只因低價住到Mount of Olives深處，以免每天增加坡道與車資。"
+        "每日各站另附單點地圖。跨境日約旦端時間較耶路撒冷快一小時。"
       ],
-      "table": {
-        "headers": [
-          "區域",
-          "到舊城步行概估",
-          "比較"
-        ],
-        "rows": [
-          [
-            "Damascus Gate／Salah ad-Din",
-            "5–10分鐘",
-            "平價小吃與舊城便利，首選"
-          ],
-          [
-            "Jaffa Road／Zion Square",
-            "15–20分鐘",
-            "輕軌、餐廳便利，房價通常較高"
-          ],
-          [
-            "New Gate／Christian Quarter",
-            "0–10分鐘",
-            "歷史氣氛好，品質及價格落差較大"
-          ],
-          [
-            "Mahane Yehuda",
-            "25–30分鐘",
-            "市場與公寓多，對舊城稍遠"
-          ]
-        ]
-      },
       "links": [
         {
-          "title": "Damascus Gate｜Google Maps",
-          "url": "https://www.google.com/maps/search/?api=1&query=Damascus%20Gate%20Jerusalem"
+          "title": "11/14｜中午｜大衛塔 → 錫安門 → 西牆 → Lina",
+          "url": "https://www.google.com/maps/dir/?api=1&origin=Tower+of+David+Museum+Jerusalem&destination=Lina+Restaurant+Old+City+Jerusalem&travelmode=walking&waypoints=Zion+Gate+Jerusalem%7CWestern+Wall+Plaza+Jerusalem"
         },
         {
-          "title": "Salah ad Din Street｜Google Maps",
-          "url": "https://www.google.com/maps/search/?api=1&query=Salah%20ad%20Din%20Street%20Jerusalem"
+          "title": "11/14｜下午｜Lina → 大馬士革門 → First Station",
+          "url": "https://www.google.com/maps/dir/?api=1&origin=Lina+Restaurant+Old+City+Jerusalem&destination=The+First+Station+Jerusalem&travelmode=walking&waypoints=Damascus+Gate+Jerusalem%7CJaffa+Gate+Jerusalem"
         },
         {
-          "title": "Zion Square｜Google Maps",
-          "url": "https://www.google.com/maps/search/?api=1&query=Zion%20Square%20Jerusalem"
+          "title": "11/15｜下午｜猶太區 → 大衛城 → 南牆",
+          "url": "https://www.google.com/maps/dir/?api=1&origin=Hurva+Synagogue+Jerusalem&destination=Davidson+Center+Jerusalem&travelmode=walking&waypoints=Cardo+Jerusalem+Jewish+Quarter%7CCity+of+David+Visitor+Center+Jerusalem%7CDung+Gate+Jerusalem"
         },
         {
-          "title": "New Gate｜Google Maps",
-          "url": "https://www.google.com/maps/search/?api=1&query=New%20Gate%20Jerusalem"
+          "title": "11/16｜上午｜觀景台 → 主哭堂 → 客西馬尼 → 獅子門",
+          "url": "https://www.google.com/maps/dir/?api=1&origin=Mount+of+Olives+Viewpoint+Jerusalem&destination=Church+of+Saint+Anne+Jerusalem&travelmode=walking&waypoints=Dominus+Flevit+Church+Jerusalem%7CChurch+of+All+Nations+Jerusalem%7CLions+Gate+Jerusalem"
         },
         {
-          "title": "Mahane Yehuda Market｜Google Maps",
-          "url": "https://www.google.com/maps/search/?api=1&query=Mahane%20Yehuda%20Market%20Jerusalem"
+          "title": "11/16｜老城｜聖安妮 → 苦路 → 奧地利旅舍 → 大馬士革門",
+          "url": "https://www.google.com/maps/dir/?api=1&origin=Church+of+Saint+Anne+Jerusalem&destination=Damascus+Gate+Jerusalem&travelmode=walking&waypoints=Church+of+the+Flagellation+Jerusalem%7CAustrian+Hospice+Jerusalem%7CChurch+of+the+Holy+Sepulchre+Jerusalem"
+        },
+        {
+          "title": "11/16｜下午｜大馬士革門 → 以色列博物館",
+          "url": "https://www.google.com/maps/dir/?api=1&origin=Damascus+Gate+Jerusalem&destination=The+Israel+Museum+Jerusalem&travelmode=transit"
+        },
+        {
+          "title": "11/18｜約方｜King Hussein Bridge Terminal → 安曼",
+          "url": "https://www.google.com/maps/dir/?api=1&origin=King+Hussein+Bridge+Jordan+Border+Terminal&destination=Amman+Jordan&travelmode=driving"
         }
       ]
     },
     {
-      "id": "jo-hotel-prices",
-      "title": "11/15–18三晚房價｜使用者提供的比價快照，非即時可訂報價",
+      "id": "jo-food",
+      "title": "交通與平價餐食",
       "paragraphs": [
-        "原稿Booking條件為2人1房3晚，以EGP顯示。以下保留比較資料，未重新查到同條件現價，不保證仍有房或相同取消條款；總價也應核對稅費。",
-        "優先比較Rivoli、New Metropole、Stay Kook；低價SPACE ART須特別查獨立衛浴、房型及近期評價。以下連結是位置搜尋，不是假冒已驗證報價連結。"
+        "市中心以步行及輕軌為主；一般 15 公里內 8 NIS，合資格的 90 分鐘轉乘須用同一方式重新驗票。",
+        "Lina 點 Hummus 或 Musabaha；Al-Ayed 先問沙威瑪夾餅價；市場試 Aricha Sabich 與 Rahmo 的 Kubbeh 湯。兩人餐食每天約 120–200 NIS，依用餐方式調整。"
       ],
-      "table": {
-        "headers": [
-          "飯店",
-          "原稿三晚總價EGP",
-          "注意"
-        ],
-        "rows": [
-          [
-            "New Metropole",
-            "尚無同日期報價",
-            "Salah ad-Din St. 6，住宿較基本"
-          ],
-          [
-            "New Capitol Hotel Jerusalem",
-            "18,204",
-            "原稿8.1分；近期清潔及房況需重查"
-          ],
-          [
-            "Rivoli Hotel",
-            "16,030",
-            "Salah ad-Din St. 3，靠近Damascus Gate"
-          ],
-          [
-            "Stay Kook Jerusalem",
-            "17,158",
-            "Jaffa Road附近"
-          ],
-          [
-            "SPACE ART BOUTIQUE Downtown",
-            "10,219",
-            "確認浴室、房型、評價"
-          ]
-        ]
-      },
       "links": [
         {
-          "title": "New Metropole Hotel｜位置",
-          "url": "https://www.google.com/maps/search/?api=1&query=New%20Metropole%20Hotel%20Jerusalem"
-        },
-        {
-          "title": "New Capitol Hotel｜位置",
-          "url": "https://www.google.com/maps/search/?api=1&query=New%20Capitol%20Hotel%20Jerusalem"
-        },
-        {
-          "title": "Rivoli Hotel｜位置",
-          "url": "https://www.google.com/maps/search/?api=1&query=Rivoli%20Hotel%20Jerusalem"
-        },
-        {
-          "title": "Stay Kook｜位置",
-          "url": "https://www.google.com/maps/search/?api=1&query=Stay%20Kook%20Jerusalem"
-        },
-        {
-          "title": "SPACE ART BOUTIQUE Downtown｜位置",
-          "url": "https://www.google.com/maps/search/?api=1&query=SPACE%20ART%20BOUTIQUE%20Downtown%20Jerusalem"
+          "title": "輕軌付款及轉乘",
+          "url": "https://j-t.org.il/l3/payment"
         }
       ]
-    },
-    {
-      "id": "jo-weather",
-      "title": "天氣、日照與衣物｜區分原稿快照和已查核資訊",
-      "paragraphs": [
-        "以下溫度保留使用者提供資料，未獨立刷新氣象預報，不標為本次即時預測。出發前及每日早晨重新看當地氣象、降雨和封園公告。",
-        "11/8以後僅氣候規劃：Petra與Wadi Rum日夜溫差大，耶路撒冷11月中旬可能有雨且夜冷。帶可分層保暖外套、防風層、雨衣、遮陽帽、防滑鞋。",
-        "日照近似值沿用原稿：安曼11/2 06:53／17:45、Petra11/9約07:00／17:40、Wadi Rum11/12約07:00／17:40、耶路撒冷11/15約06:07／16:39、11/17約06:08／16:38；僅作候光參考，不保證地形遮蔽下可見日出日落。",
-        "有大雨或洪水警報不進Siq、狹谷或乾河床，遵守景區封閉；冬季日照短，山路與沙漠不為追景點趕夜車。"
-      ],
-      "table": {
-        "headers": [
-          "日期／地區",
-          "原稿天氣與高／低溫",
-          "使用方式"
-        ],
-        "rows": [
-          [
-            "11/1 Amman",
-            "晴23／13°C",
-            "未刷新快照"
-          ],
-          [
-            "11/2 Amman",
-            "多雲時晴26／16°C",
-            "未刷新快照"
-          ],
-          [
-            "11/3 Amman",
-            "晴25／12°C",
-            "未刷新快照"
-          ],
-          [
-            "11/4 Amman",
-            "晴時多雲23／12°C",
-            "未刷新快照"
-          ],
-          [
-            "11/5北部",
-            "約20／12°C",
-            "原稿區域估值"
-          ],
-          [
-            "11/6北部",
-            "約21／11°C",
-            "原稿區域估值"
-          ],
-          [
-            "11/7 Madaba／死海",
-            "安曼區19／7°C；死海較暖",
-            "不能把安曼數字當死海實測"
-          ],
-          [
-            "11/15–18 Jerusalem",
-            "原稿季節參考17–22°C，夜冷",
-            "非逐日預報"
-          ]
-        ]
-      }
     },
     {
       "id": "jo-reading",
-      "title": "把19天串成一條文化閱讀線",
+      "title": "在地歷史與延伸閱讀",
       "paragraphs": [
-        "地理：安曼山丘、北部高地、約旦河裂谷、死海低地、Petra砂岩與Wadi Rum沙漠各有不同水源及交通條件。城堡、商道與聚落位置不是隨機；先看地勢，再看建築如何取水、通行與防禦。",
-        "歷史：史前Ain Ghazal造像→希臘羅馬公共城市→納巴泰商道與水利→拜占庭馬賽克→伊斯蘭宮殿及中世紀城堡→鄂圖曼與近代城市→當代藝術。景點並非年代順序，用這條線比較比背年份更有用。",
-        "信仰：Mount Nebo、受洗地與耶路撒冷連成神聖地理；宗教傳統、考古證據及今日政治現實應分開說明。尊重祈禱者、墓園與不同社群，不把活的宗教場所只當攝影背景。",
-        "作品：Madaba地圖、Ain Ghazal造像、死海古卷與銅卷、Petra岩刻建築、Wadi Rum銘文、安曼攝影與當代藝術、耶路撒冷影像及雙年展可互相對讀。電影《阿拉伯的勞倫斯》《絕地救援》《沙丘》及Petra的《聖戰奇兵》是文化參照，未核實取景坐標不亂標。",
-        "飲食：Mansaf以乾酸乳jameed形成風味，Maqluba用倒扣方式呈現米飯與配料；豆泥、芝麻醬、橄欖、麵包跨越地區與社群。先問分量與計價單位，兩人分享更易嘗到差異。"
+        "用在 Madaba 看過的馬賽克對照老城 Cardo；從約旦死海的地理位置讀昆蘭手稿。各站導覽附宗教傳統、攝影角度與相關作品。",
+        "伯利恆備查：聖誕教堂與朝聖路線屬世界遺產；台灣外交部將約旦河西岸列紅色警示，本次維持耶路撒冷。"
+      ],
+      "links": [
+        {
+          "title": "台灣外交部｜約旦河西岸",
+          "url": "https://www.boca.gov.tw/sp-trwa-content-3102-5d8fb-1.html"
+        },
+        {
+          "title": "UNESCO｜伯利恆聖誕教堂",
+          "url": "https://whc.unesco.org/en/list/1433/"
+        }
       ]
     },
     {
       "id": "jo-maps",
       "title": "約旦自駕分段地圖",
       "paragraphs": [
-        "路線是導航查詢，車程不保證。Dollar分店、Madaba公寓與營地停車點未提供精確地址，請先替換成訂單定位。普通租車不開進沙漠，11/13回安曼後不帶租車跨境。"
+        "約旦前段自駕路線留作回顧。11/12 已返回安曼還車。"
       ],
       "links": [
         {
@@ -360,10 +124,6 @@
         {
           "title": "11/11 Wadi Musa → Wadi Rum區域（非火車票集合點）",
           "url": "https://www.google.com/maps/dir/?api=1&origin=Wadi%20Musa%20Jordan&destination=Wadi%20Rum%20Visitor%20Center&travelmode=driving"
-        },
-        {
-          "title": "11/13 Wadi Rum → Amman",
-          "url": "https://www.google.com/maps/dir/?api=1&origin=Wadi%20Rum%20Visitor%20Center&destination=Amman%20Jordan&travelmode=driving"
         }
       ]
     }
@@ -1844,172 +1604,19 @@
     {
       "id": "jo1112",
       "date": "2026-11-12",
-      "title": "Wadi Rum全天吉普車｜砂岩、銘文與星空",
-      "summary": "Moon Rum Camp｜第2晚。全天Jeep路線為待向營地預訂的建議，不代表已含在房價；順序可依實際營地位置調整。",
+      "title": "Wadi Rum → 安曼｜提前還車",
+      "summary": "11/12 從瓦迪倫回安曼，提早一天還車。",
       "stops": [
         {
-          "id": "jo1112-s01",
-          "time": "06:15–07:15",
-          "name": "日出攝影",
-          "description": "06:15是準備與候光，原稿日出約07:00，不是06:15已日出。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Protected%20Area%20Jordan",
-          "official": "https://whc.unesco.org/en/list/1377/"
-        },
-        {
-          "id": "jo1112-s02",
-          "time": "07:15–08:30",
-          "name": "早餐",
-          "description": "確認全天團包含午餐、飲水、停靠站與回程。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Moon%20Rum%20Camp%20Wadi%20Rum"
-        },
-        {
-          "id": "jo1112-s03",
-          "time": "08:30–09:00",
-          "name": "裝備準備",
-          "description": "水、帽、外套、相機防沙袋。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Moon%20Rum%20Camp%20Wadi%20Rum"
-        },
-        {
-          "id": "jo1112-s04",
-          "time": "09:00–10:00",
-          "name": "Lawrence’s Spring",
-          "description": "名稱、地形與電影敘事分開解讀。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Lawrence%20Spring%20Wadi%20Rum%20Jordan",
-          "official": "https://whc.unesco.org/en/list/1377/",
-          "guide": {
-            "see": "在山腳看岩壁與植被帶，再問嚮導水源如何影響人與動物停留。若上坡到泉眼須攀爬，先看腳下路線與回程難度；一般遊覽不必以摸到水為目標。",
-            "history": "沙漠聚落與隊商的活動受水源、陰影與季節支配。Wadi Rum不只有沒有人的風景，而是長期有人居住、放牧與通行的文化地景；水源附近的聚集可幫助理解這種歷史。",
-            "story": "許多旅遊名稱冠上Lawrence，並不等於每個點都有可核實的本人活動證據。更值得問的是當地人怎麼稱這裡、過去如何用水、今天觀光又如何改變生活。",
-            "tips": "全天團站序由實際營地位置與嚮導決定；本時間表是預訂時的路線要求，不保證已成交。不飲用未確認的自然水源；帶足飲水，午餐與水是否包含須書面確認。",
-            "sources": [
-              {
-                "title": "UNESCO｜Wadi Rum自然文化遺產",
-                "url": "https://whc.unesco.org/en/list/1377/"
-              },
-              {
-                "title": "JHRC｜1916火車歷史體驗",
-                "url": "https://www.jhrc.jo/Site.aspx?Id=1"
-              }
-            ]
-          }
-        },
-        {
-          "id": "jo1112-s05",
-          "time": "10:00–11:00",
-          "name": "Khazali Canyon",
-          "description": "銘文、岩畫與古代移動；不觸摸刻痕。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Khazali%20Canyon%20Wadi%20Rum%20Jordan",
-          "official": "https://whc.unesco.org/en/list/1377/",
-          "guide": {
-            "see": "進入狹窄岩縫後先適應光線，尋找人物、動物圖像與不同文字刻痕。拍照以側光表現凹痕，不用手描線、不潑水增強顏色；只沿嚮導認可的入口段走。",
-            "history": "Wadi Rum的岩畫與銘文記錄多個時期的活動，包含生活、行旅與身分表達。不同字形與圖像未必同時刻成；這裡的文化價值正是長時段的累積，不只是「很老的塗鴉」。",
-            "story": "看駱駝圖像時可想像運輸方式和移動尺度，但單一圖形不能直接證明某一場歷史事件。請嚮導指出一處能讀出的銘文，並區分翻譯、推測與傳說。",
-            "tips": "雨前雨後不進狹谷，岩面濕滑或有水就改外圍。站點可能擁擠，留20–40分鐘而非全程一小時攀爬；保育標示優先於打卡路線。",
-            "sources": [
-              {
-                "title": "UNESCO｜Wadi Rum自然文化遺產",
-                "url": "https://whc.unesco.org/en/list/1377/"
-              }
-            ]
-          }
-        },
-        {
-          "id": "jo1112-s06",
-          "time": "11:00–12:00",
-          "name": "Red Sand Dune",
-          "description": "按體力爬沙丘，風大保護鏡頭。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Red%20Sand%20Dunes%20Wadi%20Rum%20Jordan",
-          "official": "https://whc.unesco.org/en/list/1377/",
-          "guide": {
-            "see": "從坡腳找一條既有上坡線，慢走至安全高度後側向看沙紋與岩壁。人物放小、保留腳印的延伸方向；上坡喘時停下，比硬衝坡頂更能維持全天體力。",
-            "history": "砂粒來源、風向與周圍岩石色澤共同構成紅沙景觀。砂岩山體與沙丘不是同一種形成速度：巨岩保留漫長地質過程，細沙表面則可在一陣風後改變。",
-            "story": "《絕地救援／The Martian》（2015）和《沙丘／Dune》系列利用Wadi Rum的地貌營造異星；眼前是真實地景，電影畫面往往另加佈景與視效，不宣稱每個紅沙坡都是某一鏡頭精確位置。",
-            "tips": "沙容易進鞋和相機，鏡頭少換、帶防塵袋。爬沙坡是可選，不想爬也能拍岩壁。團費是否含沙板與保險另問，不因行程寫了沙丘就假定有滑沙。",
-            "sources": [
-              {
-                "title": "UNESCO｜Wadi Rum自然文化遺產",
-                "url": "https://whc.unesco.org/en/list/1377/"
-              },
-              {
-                "title": "Jordan Times｜約旦電影取景史",
-                "url": "https://jordantimes.com/news/local/from-lawrence-of-arabia-to-dune-jordans-cinematic-journey"
-              }
-            ]
-          }
-        },
-        {
-          "id": "jo1112-s07",
-          "time": "12:00–13:00",
-          "name": "Bedouin午餐",
-          "description": "陰影處休息、補水。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Protected%20Area"
-        },
-        {
-          "id": "jo1112-s08",
-          "time": "13:00–14:00",
-          "name": "Um Fruth Rock Bridge",
-          "description": "上橋不是必須；留在地面同樣可看地形。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Um%20Frouth%20Rock%20Bridge%20Wadi%20Rum%20Jordan",
-          "official": "https://whc.unesco.org/en/list/1377/",
-          "guide": {
-            "see": "先在橋下看拱橋輪廓與岩體裂隙，再決定是否上攀。地面以人作比例已能拍出高度；上攀段沒有可靠保護時不要把登頂列成必做。",
-            "history": "砂岩的裂隙、差異風化與侵蝕形成各種天然拱橋。外觀看似脆弱的細橋能保留，是長期不同部位侵蝕速率的結果；旅遊命名不一定代表同一個GPS點，請嚮導確認橋名。",
-            "story": "Wadi Rum也有其他拱橋，不能把Um Fruth、Little Bridge和Burdah混為一談。Burdah較長攀登不是一般一日吉普隨停活動，沒有預訂健行嚮導就不臨時加碼。",
-            "tips": "恐高、鞋底不穩或風大直接留地面。午餐後走訪白沙與岩壁的實際區域須在訂團前講清；不要用抽象的「白色沙漠」當作已保證的景點清單。",
-            "sources": [
-              {
-                "title": "UNESCO｜Wadi Rum自然文化遺產",
-                "url": "https://whc.unesco.org/en/list/1377/"
-              }
-            ]
-          }
-        },
-        {
-          "id": "jo1112-s09",
-          "time": "14:00–15:00",
-          "name": "白沙地形與岩壁",
-          "description": "確切站點依司機與營地路線，不虛構固定坐標。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Protected%20Area"
-        },
-        {
-          "id": "jo1112-s10",
-          "time": "15:00–16:30",
-          "name": "沙漠全景、自然拱橋",
-          "description": "用遠近岩體讀尺度；避免重複繞路。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Protected%20Area"
-        },
-        {
-          "id": "jo1112-s11",
-          "time": "16:30–17:45",
-          "name": "金色時段與日落",
-          "description": "由嚮導選當日安全觀景點。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Protected%20Area"
-        },
-        {
-          "id": "jo1112-s12",
-          "time": "18:00–19:00",
-          "name": "返回營地",
-          "description": "日落後溫度下降，車上加衣。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Moon%20Rum%20Camp%20Wadi%20Rum"
-        },
-        {
-          "id": "jo1112-s13",
-          "time": "19:00–20:00",
-          "name": "晚餐",
-          "description": "與營地確認明日08:00退房接駁。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Moon%20Rum%20Camp%20Wadi%20Rum"
-        },
-        {
-          "id": "jo1112-s14",
-          "time": "20:00–22:00",
-          "name": "觀星與長曝",
-          "description": "是否適合銀河依月光、雲及光害，不保證能見。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Protected%20Area%20Jordan",
-          "official": "https://whc.unesco.org/en/list/1377/"
+          "id": "jo1112-return",
+          "time": "白天",
+          "name": "Wadi Rum → 安曼",
+          "description": "返回安曼，當天完成 Dollar 還車。",
+          "map": "https://www.google.com/maps/dir/?api=1&origin=Wadi+Rum+Village&destination=Abdali+Boulevard+Amman&travelmode=driving"
         }
       ],
-      "cutPlan": "延誤先刪購物、咖啡與加看站，保留交通、用餐及住宿；不要為追時間趕路。",
-      "rainPlan": "遇雨縮短戶外段，改室內展覽或住宿休息；山路與石階放慢。",
+      "cutPlan": "",
+      "rainPlan": "",
       "relatedGuides": [
         {
           "id": "guide-jo1111-s14",
@@ -2024,858 +1631,647 @@
     {
       "id": "jo1113",
       "date": "2026-11-13",
-      "title": "Wadi Rum → 安曼｜17:30 Dollar還車",
-      "summary": "Jawaher Hotel，Abdali｜1晚。",
+      "title": "今天在耶路撒冷：入住、晚餐與週六補給",
+      "summary": "已抵達錫安廣場一帶，現在從市區安排。先確認入住、晚餐與週六早餐。安息日已開始，附近商店是否開門以現場或電話為準。",
       "stops": [
         {
           "id": "jo1113-s01",
-          "time": "06:15–07:00",
-          "name": "最後日出候光",
-          "description": "不遠離營地，07:00開始早餐。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Moon%20Rum%20Camp%20Wadi%20Rum"
+          "time": "現在",
+          "name": "公寓入住與補給",
+          "description": "已抵達錫安廣場一帶。今晚確認入住、晚餐和週六早餐，店家營業以現場或電話為準。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zion+Square+Jerusalem",
+          "guide": {
+            "see": "今晚買什麼｜現場先看原味優格、起司、雞蛋、Pita、水果及明早手沖咖啡需要的牛奶。優格與起司以每 100 g 單價比較。雞蛋和生肉只在房內確定可烹調時買。\n\n安息日怎麼安排｜Chabad 列 11/13 16:01 點燭、11/14 約 17:19 結束。商店有各自收店時間，輕軌與部分公車於週六晚上按班表陸續恢復。週六步行日帶水和小點。安息日源於《創世記》七日敘事與《出埃及記》休息誡命，實踐方式依家庭和社群而異。Havdalah 以酒、香料和多芯蠟燭標示安息日結束。",
+            "sources": [
+              {
+                "title": "Chabad",
+                "url": "https://www.chabad.org/calendar/candlelighting_cdo/c/247"
+              }
+            ]
+          },
+          "official": "https://www.chabad.org/calendar/candlelighting_cdo/c/247"
         },
         {
           "id": "jo1113-s02",
-          "time": "07:00–08:00",
-          "name": "早餐、退房",
-          "description": "核對所有行李及充電器。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Moon%20Rum%20Camp%20Wadi%20Rum"
+          "time": "飯後可選",
+          "name": "錫安廣場、Ben Yehuda",
+          "description": "住宿旁就能走到錫安廣場與 Ben Yehuda 行人街。吃完飯若還有體力，可散步一小圈。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zion+Square+Jerusalem"
         },
         {
           "id": "jo1113-s03",
-          "time": "08:00–09:00",
-          "name": "Jeep送回停車處",
-          "description": "實際停車點依11/11協議，不擅自假定在遊客中心。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Wadi%20Rum%20Visitor%20Center"
-        },
-        {
-          "id": "jo1113-s04",
-          "time": "09:00–11:30",
-          "name": "Desert Highway北上",
-          "description": "遵守速限，留意貨車及減速丘。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Desert%20Highway%20Jordan"
-        },
-        {
-          "id": "jo1113-s05",
-          "time": "11:30–12:15",
-          "name": "休息、午餐",
-          "description": "在合法服務站停，不路肩休息。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Desert%20Highway%20Jordan"
-        },
-        {
-          "id": "jo1113-s06",
-          "time": "12:15–15:30",
-          "name": "繼續開往安曼",
-          "description": "遇壅塞提前通知Dollar。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Amman%20Jordan"
-        },
-        {
-          "id": "jo1113-s07",
-          "time": "15:30–16:30",
-          "name": "加油與整理車輛",
-          "description": "按租約油量規則，保留收據。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Amman%20Jordan"
-        },
-        {
-          "id": "jo1113-s08",
-          "time": "16:30–17:30",
-          "name": "Dollar還車驗收",
-          "description": "17:30還車期限；拍油表、車況與交車憑證，確認押金解除流程。 精確地址未提供，依訂單定位，避免使用同名錯誤地點。"
-        },
-        {
-          "id": "jo1113-s09",
-          "time": "17:30–18:30",
-          "name": "移動、Jawaher入住",
-          "description": "位於Abdali／King Hussein Street一帶；核對訂房地址，不當舊城飯店。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
-        },
-        {
-          "id": "jo1113-s10",
-          "time": "18:30–20:00",
-          "name": "晚餐、休息",
-          "description": "確認可否續住11/14–15。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Boulevard%20Amman"
+          "time": "有體力再去",
+          "name": "Mamilla 或晚餐",
+          "description": "從住宿沿主要街道往 Mamilla，看看夜間街景。腳累就回房，先備好明早早餐。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mamilla+Mall+Jerusalem",
+          "guide": {
+            "see": "在現場看｜從錫安廣場走向 Mamilla，對比有軌電車的雅法路、整修的石造立面及隔天入老城後的曲折巷道。Mamilla 東端望向雅法門，傍晚可把城門和亮起的街燈放入同一畫面。\n\n歷史｜19 世紀城市逐漸向老城外擴張，往地中海雅法港的道路成為新城軸線。1948 年後 Mamilla 一帶鄰近分隔城市的停戰線，1967 年後重新連通，今天的購物街反映後來的城市更新。\n\n閱讀對照｜Amos Oz《愛與黑暗的故事》以家庭記憶寫英國託管末期和建國初期的耶路撒冷，2015 年有 Natalie Portman 執導的電影改編。把石屋、街區距離和語言環境帶回作品，會比對著購物街找拍攝點更容易理解故事。",
+            "sources": []
+          }
         }
       ],
-      "cutPlan": "不加Aqaba或沿途景點；還車期限優先。",
-      "rainPlan": "遇雨縮短戶外段，改室內展覽或住宿休息；山路與石階放慢。"
+      "rainPlan": "留在住宿附近採買或用餐。",
+      "cutPlan": "採買與晚餐優先，夜間散步可省。"
     },
     {
       "id": "jo1114",
       "date": "2026-11-14",
-      "title": "安曼多留一晚｜文化散步與跨境準備",
-      "summary": "Jawaher追加11/14–15｜尚未預訂。",
+      "title": "老城初探｜聖墓、大衛塔與安息日",
+      "summary": "大衛塔週六 09:00–15:00、最晚 14:00 入館。西牆安息日收起相機與手機。First Station 場館官網列免費民俗舞 16:30–19:30。LiveJLM 的 15:30 為不同刊載，這份行程採場館時間。",
       "stops": [
         {
           "id": "jo1114-s01",
-          "time": "08:00–09:00",
-          "name": "早餐",
-          "description": "今天不去Allenby或Sheikh Hussein，一般旅客週六關閉。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
+          "time": "07:30–08:15",
+          "name": "Mamilla → 雅法門",
+          "description": "早餐後由住宿步行。門外先拍城牆全景，進門再看折角與城堡位置。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Jaffa+Gate+Jerusalem",
+          "guide": {
+            "see": "辨認｜今日主要城牆是鄂圖曼蘇萊曼一世在 16 世紀修建。站在門外找狹窄、轉折的古門通道，再找城堡旁可行車的寬開口。後者與 1898 年德皇威廉二世訪城時改造通行動線有關。\n\n故事｜阿拉伯名 Bab al-Khalil 指向希伯崙，英語 Jaffa Gate 則指往雅法的西路。1917 年英軍將領 Allenby 由此步行入城，老城門名與這趟過境用的口岸同時碰到一段英國歷史。\n\n攝影｜從 Mamilla 一側先拍牆和門的比例。上午廣角可同收城門與城堡，近拍城門石紋時請站在不妨礙行人的位置。",
+            "sources": [
+              {
+                "title": "UNESCO 耶路撒冷老城",
+                "url": "https://whc.unesco.org/en/list/148/"
+              }
+            ]
+          },
+          "official": "https://whc.unesco.org/en/list/148/"
         },
         {
           "id": "jo1114-s02",
-          "time": "09:00–09:30",
-          "name": "前往皇家汽車博物館",
-          "description": "先確認當天營運，若未開改休息。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Royal%20Automobile%20Museum%20Amman"
+          "time": "08:15–09:00",
+          "name": "聖墓教堂",
+          "description": "第一站優先看各各他、塗膏石與圓廳。入墓隊伍過長就先看圓廳與走道，週一苦路走完再回來。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Church+of+the+Holy+Sepulchre+Jerusalem",
+          "guide": {
+            "see": "順路看五處｜入口仰望外牆窗臺上的梯子 → 右手上樓看各各他兩座小堂 → 下樓看塗膏石 → 圓形大廳中央的小聖墓殿 Edicule → 若開放，沿後側階梯看聖海倫娜小堂。墓室入口低，排隊和入內時間由現場人員控制。\n\n歷史分層｜4 世紀君士坦丁時期興建聖堂，傳統將尋獲真十字架與海倫娜相連。1009 年教堂受破壞，後續重建，12 世紀十字軍改造奠定現今格局。今天塗膏石的位置承載安葬前抹油的敬禮，眼前石板為後來配置。\n\n教派與梯子｜希臘正教、亞美尼亞使徒教會與羅馬天主教是主要管理方，科普特、敘利亞正教與衣索比亞正教也有特定空間或權利。鄂圖曼時期形成的 Status Quo 規範各方禮儀與使用權。窗臺梯子常用來說明共享管理的複雜性，穆斯林家族參與保管鑰匙與開門的傳統則是另一段共同生活史。\n\n讀與看｜讀《約翰福音》19–20 章，把受難、安葬、抹大拉馬利亞發現空墓分成三幕。IMAX 紀錄片《Jerusalem》（2013）可用來認教堂、聖殿山與西牆在城中的相對位置。\n\n實務｜免費。冬季常規 04:00–19:00，禮拜和個別小堂另有安排。遮肩及膝，安靜、關閃光燈並依告示拍攝。若只能留 25 分鐘，優先各各他、塗膏石與圓廳。",
+            "sources": [
+              {
+                "title": "教堂開放",
+                "url": "https://www.cicts.org/our-services/"
+              },
+              {
+                "title": "聯合國聖地 Status Quo 資料",
+                "url": "https://www.un.org/unispal/document/auto-insert-212180/"
+              }
+            ]
+          },
+          "official": "https://www.cicts.org/our-services/"
         },
         {
           "id": "jo1114-s03",
-          "time": "10:00–11:45",
-          "name": "Royal Automobile Museum",
-          "description": "從車輛、影像與王國現代史觀察國家敘事。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Royal%20Automobile%20Museum%20Amman%20Jordan",
-          "official": "https://museums.visitjordan.com/en/Museum/22",
+          "time": "09:00–10:45",
+          "name": "大衛塔博物館",
+          "description": "新入口靠雅法門，先問 Phasael 觀景台動線。走一圈主展與庭院，再上塔找隔天的聖殿山與週一的橄欖山。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Tower+of+David+Museum+Jerusalem",
           "guide": {
-            "see": "依展場時間線看國王使用車、公務或儀式車、摩托車與特殊車輛，讀照片中的場景而非只看品牌。找一輛與日常通勤差異最大的車，問它在政治與社會中的用途。",
-            "history": "汽車博物館把20世紀約旦的國家建設、外交、交通和王室生活串起來。汽車不只是收藏品，也代表當時的工業設計、道路條件與公共形象；展示車的年代與歷史照片應一起閱讀。",
-            "story": "電影或探險用特殊車若當天展出，可與Wadi Rum的拍攝文化連結；沒有查到當日清單就不保證特定車輛一定在場。看板、照片和保存狀態往往比背出馬力數字更有意義。",
-            "tips": "11/14 10:00–11:45為計畫，前一天核對官方營運與票價。位置在Al Hussein Public Parks，與Downtown有距離，預留車程與回程叫車時間；不為填滿下午重複看完的美術館。",
+            "see": "先找城市比例｜庭院看不同年代的牆基和增建，再上 Phasael Tower，用老城西端視角辨識圓頂、東邊山稜和城外新城。若展望台因天候關閉，將時間留給主展的城市模型和年代地圖。\n\n名字的典故｜館址是長期修築的軍事城堡。Phasael 名字來自希律為其兄弟命名的古塔傳統，辨認古塔的對應仍有學術討論；今日常見的大衛塔剪影多指鄂圖曼宣禮塔。明天的大衛城在老城東南山脊。\n\n對照約旦｜想起你們在 Madaba 聖喬治教堂看的 6 世紀馬賽克：古地圖把耶路撒冷放得很大，可找主要柱廊大道和聖墓教堂的相對位置。隔天去猶太區看 Cardo，就能對上實體地形。\n\n實務｜成人 55 NIS。週六 09:00–15:00，14:00 最後入館。鞋要抓地，觀景台有階梯；若住宿提到折價，購票前請房東給可使用的券。",
             "sources": [
               {
-                "title": "約旦旅遊局｜皇家汽車博物館",
-                "url": "https://museums.visitjordan.com/en/Museum/22"
+                "title": "大衛塔博物館",
+                "url": "https://www.tod.org.il/en/faqs/"
               }
             ]
-          }
+          },
+          "official": "https://www.tod.org.il/en/faqs/",
+          "cost": "55 NIS／成人"
         },
         {
           "id": "jo1114-s04",
-          "time": "11:45–12:30",
-          "name": "返回市區",
-          "description": "保留交通彈性。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Amman"
+          "time": "10:45–11:45",
+          "name": "亞美尼亞區 → 錫安門",
+          "description": "沿 Armenian Patriarchate Road 走公共街道，錫安門看彈痕。如有餘裕再去城外晚餐廳一帶。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zion+Gate+Jerusalem",
+          "guide": {
+            "see": "在路上看｜沿亞美尼亞宗主教區外牆找亞美尼亞文字、十字石與陶瓷招牌。教會院落、修道院和住宅有各自開放條件；聖雅各主教座堂遇可訪時段才進。\n\n故事｜亞美尼亞教會長久維持耶路撒冷的修院與朝聖網絡。部分陶瓷工藝家於 20 世紀初由鄂圖曼帝國的屈塔希亞來到耶路撒冷，藍綠植物、鳥獸圖樣也見於城市的街牌。\n\n錫安門現場｜門外石面密集彈痕可連到 1948 年戰鬥史。時間夠才往城外的 Cenacle（最後晚餐廳）與安眠修道院。Cenacle 上層可看中世紀哥德式拱頂與後來的伊斯蘭構件；晚餐地點屬宗教傳統。可對讀《路加福音》22 章。下層另有大衛墓傳統。\n\n閱讀與影視｜Dominique Lapierre、Larry Collins《O Jerusalem!》從多方人物敘述 1948 年城市爭奪，後有電影改編。用它理解城門、街區補給與城內外距離，歷史細節可再與大衛塔展覽對照。",
+            "sources": []
+          }
         },
         {
           "id": "jo1114-s05",
-          "time": "12:30–13:30",
-          "name": "午餐",
-          "description": "不安排遠程餐廳。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Boulevard%20Amman"
+          "time": "11:45–12:30",
+          "name": "西牆安息日",
+          "description": "先在廣場外整理好手機和相機，進場依安檢及服裝要求。今天觀察祈禱節奏，週日再拍。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Western+Wall+Plaza+Jerusalem"
         },
         {
           "id": "jo1114-s06",
-          "time": "13:30–15:00",
-          "name": "國家美術館補看或休息",
-          "description": "若11/2、11/4已完整看完就留飯店休息，不必重購票。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jordan%20National%20Gallery%20of%20Fine%20Arts%20Amman",
-          "official": "https://nationalgallery.org/programs/"
+          "time": "12:30–13:30",
+          "name": "Lina 午餐",
+          "description": "兩人可點 Hummus 和 Musabaha 各一份分食，配 Pita，先問價格和當天品項。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Lina+Restaurant+Old+City+Jerusalem"
         },
         {
           "id": "jo1114-s07",
-          "time": "15:00–16:00",
-          "name": "咖啡與散步",
-          "description": "補買明日跨境簡餐與水。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Boulevard%20Amman"
+          "time": "13:30–14:30",
+          "name": "大馬士革門與市場",
+          "description": "觀察城門、階梯、攤位與進出的人流。若人潮過密、管制或行走不便，從基督教區直接回雅法門。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Damascus+Gate+Jerusalem",
+          "guide": {
+            "see": "看城門｜門外階梯提供很好的正面視角；找門頂垛口與進門後折轉。阿拉伯名 Bab al-Amud（柱門）保留羅馬城門內曾有柱子的記憶。馬達巴地圖也畫出柱與 Cardo，對照後能理解北門如何接上古城南北軸。\n\n吃與拍｜Lina 在基督教區，可用「الخانقة 41، القدس」詢路。Musabaha 保留整顆豆粒，口感和滑順 Hummus 不同；先問 Falafel 是否有供應。午餐參考 20–40 NIS／人。市場拍攤販先示意，避開安檢點和阻塞通道的位置。",
+            "sources": []
+          }
         },
         {
           "id": "jo1114-s08",
-          "time": "16:00–17:30",
-          "name": "Abdali城市街景",
-          "description": "比較現代商業街區與Jabal Amman尺度。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Boulevard%20Amman"
+          "time": "14:30–15:30",
+          "name": "步行往 First Station",
+          "description": "由雅法門外走主要街道往 David Remez St. 4。預留喝水、找洗手間及途中上下坡。",
+          "map": "https://www.google.com/maps/search/?api=1&query=The+First+Station+Jerusalem"
         },
         {
           "id": "jo1114-s09",
-          "time": "17:30–18:30",
-          "name": "晚餐",
-          "description": "早點返回。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Boulevard%20Amman"
+          "time": "15:30–16:30",
+          "name": "車站與休息",
+          "description": "先看站房和鐵軌，喝水或吃點心。",
+          "map": "https://www.google.com/maps/search/?api=1&query=The+First+Station+Jerusalem"
         },
         {
           "id": "jo1114-s10",
-          "time": "18:30–20:00",
-          "name": "證件、接送與安全確認",
-          "description": "確認ETA-IL、約旦再入境資格、雙向口岸營運、接送和可取消住宿；任何一項無法確認就啟用留約旦備案。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
+          "time": "16:30–19:30",
+          "name": "First Station 民俗舞",
+          "description": "免費。看半小時或留下，晚餐後步行或查安息日結束後的實際班次。",
+          "map": "https://www.google.com/maps/search/?api=1&query=The+First+Station+Jerusalem",
+          "guide": {
+            "see": "看站房｜耶路撒冷與雅法之間的鐵路 1892 年通車，舊站在今日成為步行與藝文空間。先找軌道、月臺和站房，聯想從海港換馬車或火車上山的旅程。\n\n看舞｜活動由 Ofer Tzofi 帶領。留意牽手圓舞和隊形變換；Hora 圓舞在現代以色列民俗舞中有代表性，樂曲和舞步也吸收多種移民文化。站圈外看幾首，有開放加入時再跟外圈。",
+            "sources": [
+              {
+                "title": "場館 16:30–19:30",
+                "url": "https://www.firststation.co.il/events/rikude-am/"
+              }
+            ]
+          },
+          "official": "https://www.firststation.co.il/events/rikude-am/",
+          "cost": "免費"
         }
       ],
-      "cutPlan": "延誤先刪購物、咖啡與加看站，保留交通、用餐及住宿；不要為追時間趕路。",
-      "rainPlan": "遇雨縮短戶外段，改室內展覽或住宿休息；山路與石階放慢。",
-      "relatedGuides": [
-        {
-          "id": "guide-jo1104-s06",
-          "title": "國家美術館補看或休息｜完整現場導覽"
-        }
-      ]
+      "rainPlan": "以聖墓和大衛塔室內為主，石階濕滑時略過展望台。",
+      "cutPlan": "縮短市場和城牆散步，直接走雅法門往 First Station。"
     },
     {
       "id": "jo1115",
       "date": "2026-11-15",
-      "title": "安曼 → Allenby → 耶路撒冷｜雙時區跨境",
-      "summary": "耶路撒冷第1晚｜住宿待訂。11/15–18僅在邊境、入境資格及安全均允許時執行。下午時間為以色列當地時間。",
+      "title": "聖殿山、西牆、猶太區與大衛城",
+      "summary": "07:15 目標抵達 Mughrabi 入口，備護照、遮肩及膝。若非穆斯林通道臨時關閉，直接走西牆、Cardo 與大衛城。今日日落約 16:39。",
       "stops": [
         {
           "id": "jo1115-s01",
-          "time": "06:30–07:15 約旦",
-          "name": "早餐、退房",
-          "description": "帶護照、ETA、再入境文件、飯店資料、現金與水。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
+          "time": "06:30–07:15",
+          "name": "出發去 Mughrabi 入口",
+          "description": "導航先設 Dung Gate，再找西牆廣場南側的遊客安檢入口。跟著現場排隊動線。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mughrabi+Bridge+Jerusalem"
         },
         {
           "id": "jo1115-s02",
-          "time": "07:15–08:30 約旦",
-          "name": "預約車赴King Hussein Bridge",
-          "description": "車程是估計；接送必須知道約旦端入口。",
-          "map": "https://www.google.com/maps/search/?api=1&query=King%20Hussein%20Bridge%20Jordan"
+          "time": "07:15–09:00",
+          "name": "聖殿山／尊貴禁地",
+          "description": "外部庭園能否入內按現場決定。若封閉，提早去西牆與猶太區，下午無須為第二時段折返。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Temple+Mount+Jerusalem",
+          "guide": {
+            "see": "入口與時段｜一般參考週日至週四冬季 07:00–10:30、12:30–13:30。Mughrabi Gate 是非穆斯林訪客常規入口，免費。警方可依現場狀況調整開放；兩座主要聖祠的室內一般不對非穆斯林開放。帶護照、簡化行李，遵守衣著及安檢指示。\n\n三個位置｜金色圓頂是岩石圓頂 Dome of the Rock（Qubbat al-Sakhra），7 世紀倭馬亞哈里發阿卜杜勒・馬利克時期建造。南端灰色圓頂是 Al-Qibli 祈禱堂，常在狹義上稱 Al-Aqsa Mosque；Al-Aqsa 在更廣義用法也指整座院區。西牆則在平台的西側外部。\n\n傳統與年代｜猶太傳統將此地與兩座聖殿相連；第一聖殿在前 586 年左右被巴比倫摧毀，第二聖殿經希律大幅擴建，西元 70 年羅馬攻城後遭摧毀。伊斯蘭傳統將此地與穆罕默德夜行及登霄相連，可讀《古蘭經》17:1。岩石圓頂的八角形平面可和你們在約旦看過的倭馬亞建築比較。\n\n攝影｜先辨識建築，再依現場規定拍全景，保持通道暢通。管制時可把金頂留到週一橄欖山或奧地利旅舍。",
+            "sources": [
+              {
+                "title": "訪客時段和入口",
+                "url": "https://www.israel.com/places/old-city-jerusalem/things-to-do/temple-mount"
+              }
+            ]
+          },
+          "official": "https://www.israel.com/places/old-city-jerusalem/things-to-do/temple-mount"
         },
         {
           "id": "jo1115-s03",
-          "time": "08:30–09:00 約旦",
-          "name": "抵達、排隊準備",
-          "description": "等於以色列07:30–08:00；IAA所列08:00開放是以色列時間。",
-          "map": "https://www.google.com/maps/search/?api=1&query=King%20Hussein%20Bridge%20Jordan"
+          "time": "09:00–10:00",
+          "name": "西牆",
+          "description": "先看石層與廣場全景，再依男女祈禱區動線靠近牆面。攝影以廣場規定為準。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Western+Wall+Plaza+Jerusalem",
+          "guide": {
+            "see": "看哪裡｜先在廣場看牆的長度和石層差異。下部部分巨石可見平整外框與中央略凸，與希律時期石工有關；較高處小石塊反映後代修築。西牆是擴建聖殿平台的擋土結構，地下還有石層。\n\n在場禮儀｜廣場及祈禱區免費，有安檢。進祈禱區遮肩及膝，男性按規定戴頭巾；祈禱區男女分開。安息日及猶太節日遵守禁拍與電子設備規則，平日攝影避開禱告者近臉。字條可帶，但不要取碰他人留下的祈禱紙條。\n\n讀與看｜約瑟夫斯《猶太戰記》可對讀西元 70 年攻城。廣場的開闊也與近代城市史相連，1967 年戰爭後，原本毗鄰的摩洛哥街區被拆除，才形成今日廣場。",
+            "sources": [
+              {
+                "title": "西牆基金會",
+                "url": "https://thekotel.org/en/visitor_information_/procedures/"
+              }
+            ]
+          },
+          "official": "https://thekotel.org/en/visitor_information_/procedures/"
         },
         {
           "id": "jo1115-s04",
-          "time": "09:00–12:30 約旦／08:00–11:30 以色列",
-          "name": "出境、接駁與入境",
-          "description": "預留3.5小時仍可能更久；不得把已取得ETA當入境保證。",
-          "map": "https://www.google.com/maps/search/?api=1&query=King%20Hussein%20Bridge%20Jordan%20Passenger%20Terminal",
-          "official": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/opening-hours/",
+          "time": "10:00–11:30",
+          "name": "猶太區 Cardo、Hurva",
+          "description": "先找 Cardo 的柱列和古地圖，再走 Hurva 廣場；室內另看當天票價、禮儀及開放。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Cardo+Jerusalem+Jewish+Quarter",
           "guide": {
-            "see": "把流程拆成四段：抵達正確旅客航站、原國出境、指定跨境接駁、另一側入境與續程車。預先將護照、ETA、回程入境文件、住宿與離境機票整理成離線資料；兩人各自保存一份。",
-            "history": "King Hussein／Allenby是同一通道兩側常用名稱，橋位於約旦河谷。其交通制度與地緣政治背景不同於一般自由步行國境，不能因地圖看起來只隔一條河就當作兩分鐘散步。",
-            "story": "這裡適合把之前Nebo、受洗地的古代宗教地景與現代行政邊界分開理解。旅遊敘事不能取代當日入境規則，ETA核准也不等於保證獲准入境。",
-            "tips": "IAA現列週日–四08:00–18:30、週五08:00–15:30、週六關閉，須提早至少3小時抵達；均為以色列端時間。11月以色列UTC+2、約旦UTC+3。台灣護照是否須預訂約旦端名額及11/18再入境資格，需直接向主管機關確認；不拿他國案例保證適用。口岸不攝影。",
-            "sources": [
-              {
-                "title": "IAA｜Allenby營運時間",
-                "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/opening-hours/"
-              },
-              {
-                "title": "IAA｜Jordan River營運時間",
-                "url": "https://www.iaa.gov.il/en/land-border-crossings/jordan-river/opening-hours-jorden-river/"
-              },
-              {
-                "title": "英國政府｜約旦入境與Allenby限制（英籍說明不等於台灣資格）",
-                "url": "https://www.gov.uk/foreign-travel-advice/jordan/entry-requirements"
-              },
-              {
-                "title": "台灣外交部｜以色列ETA-IL",
-                "url": "https://www.boca.gov.tw/sp-foof-countrycp-01-48-9bc3c-1.html"
-              }
-            ]
+            "see": "現場找柱距｜找主街石板、柱列與柱廊旁的鋪面，想像屋簷下的行人和店家。Cardo 是羅馬城市常見的南北大道，現可見的南段與拜占庭擴建相關。把 Madaba 地圖上的柱廊和今天老城的地勢疊起來看。\n\n進廣場看圓頂｜Hurva 在 19 世紀重建，1948 年戰爭時遭毀，2010 年重建後開放。Hurva 的希伯來文意思是「廢墟」。想看更早的城市防禦，可找 Broad Wall 的公共觀察點，該段牆常與鐵器時代城市擴張相連。\n\n閱讀｜《The Beauty Queen of Jerusalem》是 Sarit Yishai-Levi 的家族小說，也有劇集改編。以它對照塞法迪家庭、拉迪諾語與英國託管前後的城市生活。",
+            "sources": []
           }
         },
         {
           "id": "jo1115-s05",
-          "time": "11:30–13:00 以色列",
-          "name": "前往耶路撒冷",
-          "description": "此後均以色列UTC+2，時鐘調慢1小時；車種、費用依現場合法服務。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Damascus%20Gate%20Jerusalem"
+          "time": "11:30–12:15",
+          "name": "午餐",
+          "description": "吃 Pita 夾餅、Falafel 或輕食，預留水和下午體力。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Hurva+Square+Jerusalem"
         },
         {
           "id": "jo1115-s06",
-          "time": "13:00–14:00",
-          "name": "Damascus Gate附近午餐",
-          "description": "若通關延誤直接簡餐入住。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Salah%20ad%20Din%20Street%20Jerusalem"
+          "time": "12:15–14:30",
+          "name": "大衛城自助考古",
+          "description": "入口在城牆外。先選乾路或濕路，再確認出口、回程及末入場。以乾路較容易保留南牆時間。",
+          "map": "https://www.google.com/maps/search/?api=1&query=City+of+David+Visitor+Center+Jerusalem",
+          "guide": {
+            "see": "先看地形｜站在入口展望處向下看 Silwan／西羅亞一帶，辨認東南狹長山脊與谷地。早期居民接近基訓泉 Gihon，取水與防禦都受地形影響。今日老城城牆把這段較早的聚落核心留在外面。\n\n怎麼選路｜自助票官方列 16 NIS 起，成人適用方案及包含路段請看選票頁。希西家濕水道約 500 公尺，狹窄、黑暗、有水及階梯；兩人都能涉水才走，各帶頭燈、可濕鞋與乾袋。乾路依園方當日開放；出口可能遠離入口，官方列步行回去或 7 NIS 付費接駁，先問末班。\n\n考古與經文｜希西家水道通常和鐵器時代後期的水利工程相連。《列王紀下》20:20 記載引水入城，西羅亞銘文記下工人從兩端相遇，原件存於伊斯坦堡。大衛王宮等遺構的辨識和年代有爭論，現場可先看地形、水道與可辨識的牆體。\n\n回程｜西羅亞池的不同年代遺構應依現場開放。可對讀《約翰福音》9 章。園區陡坡、潮濕石面多；雨天先問路況。離園後沿主要開放路線往 Dung Gate。",
+            "sources": [
+              {
+                "title": "官方票種",
+                "url": "https://cityofdavid.org.il/en/product/entrance-to-the-city-of-david-national-park/"
+              },
+              {
+                "title": "園區常見問題",
+                "url": "https://cityofdavid.org.il/en/faq-eng/"
+              }
+            ]
+          },
+          "official": "https://cityofdavid.org.il/en/product/entrance-to-the-city-of-david-national-park/",
+          "cost": "自助票 16 NIS 起，依票種。"
         },
         {
           "id": "jo1115-s07",
-          "time": "14:00–15:00",
-          "name": "飯店入住",
-          "description": "此為建議住宿區地圖，不是已訂飯店。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Salah%20ad%20Din%20Street%20Jerusalem"
+          "time": "14:30–15:30",
+          "name": "Dung Gate、Ophel、南牆",
+          "description": "在公共路段辨認南牆、階梯與考古區。若要進 Davidson Center，先查另票、末入場及時間。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Davidson+Center+Jerusalem",
+          "guide": {
+            "see": "看得見的線索｜在允許的位置找南側大階梯、古門遺跡及可能曾供朝聖者行前潔淨的浴池，理解從低處上平台的人流。Davidson Center 是單獨票區。附近西南角的 Robinson's Arch 遺構可連到昔日上平台的通道。\n\n攝影｜下午用斜光拍石階及牆面的凹凸；若想讓人當比例尺，可拍遠景，避開安檢及管制點。",
+            "sources": []
+          }
         },
         {
           "id": "jo1115-s08",
-          "time": "15:00–16:30",
-          "name": "Damascus Gate與城牆",
-          "description": "Sultan Suleiman Street慢走，辨認城門與城牆層次。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Damascus%20Gate%20Jerusalem",
-          "official": "https://whc.unesco.org/en/list/148/",
-          "guide": {
-            "see": "先從北側廣場看門樓與城牆，再穿門看轉折通道如何通向商業街。步行時觀察阿拉伯文、希伯來文與英文並列的招牌，保留人行通道，不在安檢設施前停拍。",
-            "history": "今日城牆主體屬鄂圖曼時期，門下及附近仍有更早城市的考古層。Damascus Gate的朝向與名稱提示城市與北方交通的關係；舊城並不是各宗教社群彼此完全隔離的四個封閉盒子。",
-            "story": "Salah ad-Din與Nablus Road周邊是東耶路撒冷的生活和商業區，住宿通常方便進舊城，但「地點方便」不等於每家飯店品質相同。選房應比較近期清潔、隔音、獨立衛浴與取消條款。",
-            "tips": "11/15是跨境緩衝日，延誤就只吃飯入住，不硬補日落。耶路撒冷地位具有爭議；網站國家分類作旅遊導航，不代表主權判定。若當地警示升高、出現示威或封路，改用住宿建議路線。",
-            "sources": [
-              {
-                "title": "UNESCO｜耶路撒冷舊城與城牆",
-                "url": "https://whc.unesco.org/en/list/148/"
-              },
-              {
-                "title": "加拿大政府｜以色列、巴勒斯坦與耶路撒冷風險",
-                "url": "https://travel.gc.ca/destinations/israel-and-palestine"
-              }
-            ]
-          }
-        },
-        {
-          "id": "jo1115-s09",
-          "time": "16:30–17:30",
-          "name": "Jaffa Gate與Mamilla",
-          "description": "黃昏散步，音樂會日不要拖晚。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jaffa%20Gate%20Jerusalem",
-          "official": "https://whc.unesco.org/en/list/148/",
-          "guide": {
-            "see": "從Jaffa Gate看城門與城堡，再走Mamilla至西側市中心；留意城牆內外尺度差異，街道從狹窄石巷變成商業步行空間。黃昏可拍城牆受光部分，不必追求直接看到落日。",
-            "history": "耶路撒冷從舊城向城外發展，不同時期的政治、經濟與交通需求塑造今日路網。Mamilla包含現代商業更新與歷史建築保存的張力，不能只當成與歷史無關的購物街。",
-            "story": "可把這裡和安曼的Abdali Boulevard對照：兩座城市都用新街區表達現代生活，但舊城邊界、宗教意義與都市發展條件不同。只需選一間咖啡店坐下，觀察人流便能看見變化。",
-            "tips": "城內石板不平；去MOTJ需預留步行和安檢。11/15音樂會18:30開始，17:45前離開舊城較從容。",
-            "sources": [
-              {
-                "title": "UNESCO｜耶路撒冷舊城與城牆",
-                "url": "https://whc.unesco.org/en/list/148/"
-              },
-              {
-                "title": "Tower of David｜常設展與入場",
-                "url": "https://www.tod.org.il/en/event/entrance-to-the-tower-of-david/"
-              }
-            ]
-          }
-        },
-        {
-          "id": "jo1115-s10",
-          "time": "17:30–18:15",
-          "name": "晚餐、移動與入場",
-          "description": "若參加18:30演出，晚餐縮短並預留安檢。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Tolerance%20Jerusalem"
-        },
-        {
-          "id": "jo1115-s11",
-          "time": "18:30–19:30",
-          "name": "可選：Voices of Brotherhood and Tolerance",
-          "description": "官方日期確認；全程站席、票未買，僅過境順利且體力允許才參加。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Tolerance%20Jerusalem%2032%20Hillel%20Street",
-          "official": "https://www.motj.org.il/en/event/voices-of-brotherhood-and-tolerance-a-special-musical-performance-conducted-by-dan-rapoport/",
-          "guide": {
-            "see": "演出在連接樓層的階梯空間進行，注意不同高度與距離如何改變合唱聲部的混合。先找不擋通道的位置，聽低聲部的支撐與高聲部的旋律，再看指揮如何處理收尾。",
-            "history": "11/15 18:30–19:30由Dan Rapoport帶領Ensemble Nuances，官方列16位歌者。這是一場以寬容與人際連結為主題的當代文化活動，與古城宗教場所的禮拜音樂不是同一種場合。",
-            "story": "官方現列Bach、Brahms、Rameau、Morricone、Salomone Rossi、Paul Ben-Haim及Yosef Sarig等；原稿的Beethoven、Bernstein、Leonard Cohen組合未獲這份節目支持。可聽文藝復興／巴洛克聲部與近現代和聲的差異，實際曲名依當晚節目。",
-            "tips": "全程站席，過境後若疲累不必勉強；官方有訂票入口，票價與餘位待確認。不是免費活動承諾，也不是已購票。",
-            "sources": [
-              {
-                "title": "MOTJ｜11/15音樂會曲目與站席",
-                "url": "https://www.motj.org.il/en/event/voices-of-brotherhood-and-tolerance-a-special-musical-performance-conducted-by-dan-rapoport/"
-              }
-            ]
-          }
-        },
-        {
-          "id": "jo1115-s12",
-          "time": "19:30–20:00",
-          "name": "返回住宿",
-          "description": "地址依最後訂房，必要時合法計程車。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Salah%20ad%20Din%20Street%20Jerusalem"
+          "time": "15:30–16:45",
+          "name": "夕照與回程",
+          "description": "如日照與動線合適，在老城外拍牆面；沒去南牆也可走雅法門外側，避開東側陡坡。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Jaffa+Gate+Jerusalem"
         }
       ],
-      "cutPlan": "通關拖延就刪散步與音樂會，住宿和休息優先；不買不可退的跨境日活動。",
-      "rainPlan": "遇雨縮短戶外段，改室內展覽或住宿休息；山路與石階放慢。"
+      "rainPlan": "大衛城先問乾路與路況。",
+      "cutPlan": "聖殿山關閉就先走西牆、Cardo 與大衛城。"
     },
     {
       "id": "jo1116",
       "date": "2026-11-16",
-      "title": "耶路撒冷舊城深度歷史巡禮",
-      "summary": "耶路撒冷第2晚｜以色列時間。",
+      "title": "橄欖山晨光、苦路與以色列博物館",
+      "summary": "天候與通行都合適才走橄欖山。日出約 06:08，建議 06:45 後拍。若中午延誤，跳過屋頂或改外帶午餐，優先保住博物館時間。",
       "stops": [
         {
           "id": "jo1116-s01",
-          "time": "06:30–07:15",
-          "name": "Damascus Gate晨景",
-          "description": "在公共開放區域拍攝，避開管制與安保人員。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Damascus%20Gate%20Jerusalem",
-          "official": "https://whc.unesco.org/en/list/148/"
+          "time": "06:30–06:55",
+          "name": "搭車到橄欖山觀景台",
+          "description": "下車點說 Seven Arches Hotel 附近官方觀景平台。避免天未亮走陌生坡道。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mount+of+Olives+Viewpoint+Jerusalem"
         },
         {
           "id": "jo1116-s02",
-          "time": "07:15–08:00",
-          "name": "阿拉伯早餐",
-          "description": "簡單熱食、麵包和咖啡。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Salah%20ad%20Din%20Street%20Jerusalem"
+          "time": "06:55–08:15",
+          "name": "橄欖山拍攝",
+          "description": "先用廣角交代汲淪谷、老城與天空，再用手機 2× 或 3× 收金頂。日光升起後沿公開道路往下。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mount+of+Olives+Viewpoint+Jerusalem",
+          "guide": {
+            "see": "光線與取景｜11/16 日出 06:08、日落 16:39。由東側向西看老城，上午東南方陽光通常照亮面向山坡的城牆。廣角收谷地，長焦把金頂和層疊屋頂拉近；先對亮部測光，手機可微降曝光保金頂細節。\n\n依序辨認｜近景是橄欖山墓園與汲淪谷，中景是老城東牆及岩石圓頂，遠處為城市西側丘陵。墓園體現猶太社群長期安葬傳統，也與末世復活信仰相連。請在公共觀景點停留。\n\n下坡｜留意濕石、行車和階梯。兩人一起走主要道路；遇封閉、天候不佳或公告不宜前往，改白天從雅法門入老城，之後直去博物館。",
+            "sources": [
+              {
+                "title": "日出日落",
+                "url": "https://www.timeanddate.com/sun/israel/jerusalem?month=11&year=2026"
+              }
+            ]
+          },
+          "official": "https://www.timeanddate.com/sun/israel/jerusalem?month=11&year=2026"
         },
         {
           "id": "jo1116-s03",
-          "time": "08:00–09:30",
-          "name": "聖墓教堂",
-          "description": "膏抹石、Golgotha、圓形殿與墓龕，按排隊取捨。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Church%20of%20the%20Holy%20Sepulchre%20Jerusalem",
-          "official": "https://www.custodia.org/en/santuari/",
-          "guide": {
-            "see": "從入口先定位膏抹石，再依人流上Golgotha小堂，接著到圓形殿與墓龕Edicule；若墓龕排隊長，先看整體空間與各宗派禮儀，不把90分鐘全耗在隊伍。",
-            "history": "基督教傳統把此處與耶穌受難、安葬及復活連結。教堂經歷4世紀建設、毀壞、十字軍重建及後世修復，今日空間是多時代的疊合，並非耶穌時代原樣保存的一座教堂。",
-            "story": "多個宗派依Status Quo共同管理，空間、時間與儀式權利細密交織。「不動的梯子」常被用來講共同管理的複雜性，但參觀時更應觀察不同祭服、燈具與聖歌。宗教認定與考古證據要分開說明。",
-            "tips": "衣著遮肩膝、安靜、不打斷儀式；個別小堂與通道會因禮拜調整。08:00不是保證無人，若隊伍超過30分鐘就先看其餘部分。與教堂人物合照先問，避免把信仰行動當表演。",
-            "sources": [
-              {
-                "title": "聖地保管會｜各聖地歷史",
-                "url": "https://www.custodia.org/en/santuari/"
-              },
-              {
-                "title": "基督徒資訊中心｜聖地開放時間",
-                "url": "https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land"
-              }
-            ]
-          }
+          "time": "08:30–09:00",
+          "name": "主哭耶穌堂 Dominus Flevit",
+          "description": "開門後看祭壇的窗框、教堂外形和墓葬遺構。若關閉，直接下到客西馬尼。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Dominus+Flevit+Church+Jerusalem"
         },
         {
           "id": "jo1116-s04",
-          "time": "09:30–10:45",
-          "name": "Christian Quarter與Via Dolorosa",
-          "description": "這段由西向東是部分逆向閱讀，不是完整順序苦路巡禮。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Via%20Dolorosa%20Jerusalem",
-          "official": "https://www.custodia.org/en/santuari/",
+          "time": "09:00–09:45",
+          "name": "客西馬尼園與萬國教堂",
+          "description": "先看橄欖樹，再進堂看祭壇前受難之岩、星空拱頂與馬賽克。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Church+of+All+Nations+Jerusalem",
           "guide": {
-            "see": "沿苦路站牌辨認敘事節點，注意通道同時是商店、住宅和朝聖路線。此行從聖墓教堂向東走部分路段，是便於安排的逆向閱讀，不宣稱完整依第一至第十四站順序完成。",
-            "history": "Via Dolorosa是後世逐步定型的紀念路線。今日街面高程、道路和城市邊界經多次變動，所以不能把每一塊路石都稱為耶穌親自走過。路線的價值同時在信仰實踐與城市記憶。",
-            "story": "可把基督教的受難敘事和身旁市場的日常並置閱讀：相同路口對朝聖者、居民和商販意義不同。導覽尊重各信仰，不以某一個宗派的解釋作所有人的唯一歷史。",
-            "tips": "不跟隨陌生人被帶去購物或付費路線。道路擁擠時不要逆擋朝聖隊伍；若附近管制，回熟悉主街，不嘗試穿封鎖巷。",
+            "see": "主哭堂｜Dominus Flevit 意為「主哭了」，對照《路加福音》19:41–44。Antonio Barluzzi 的 20 世紀教堂採淚滴意象；站在後方，透過祭壇的十字架窗將城牆和金頂納入構圖。週一常規 08:30 開放。\n\n客西馬尼｜名稱常解作「榨油處」。福音書敘事把此地與耶穌被捕前的祈禱相連，可讀《馬可福音》14:32–50；萬國教堂的暗色室內與穹頂星光營造守夜氣氛。看祭壇前裸露岩面、外牆三角山牆馬賽克，以及不同捐助國的裝飾。\n\n橄欖樹與旁站｜園內古橄欖樹承載長久的栽種與敬禮歷史，眼前樹齡勿直接等同福音書年代。若早到且開放，可加訪路對面的聖母墓傳統地點；金色洋蔥頂的抹大拉馬利亞教堂週一以外觀為主。",
             "sources": [
               {
-                "title": "聖地保管會｜各聖地歷史",
-                "url": "https://www.custodia.org/en/santuari/"
-              },
-              {
-                "title": "UNESCO｜耶路撒冷舊城與城牆",
-                "url": "https://whc.unesco.org/en/list/148/"
+                "title": "教堂開放",
+                "url": "https://www.cicts.org/our-services/"
               }
             ]
-          }
+          },
+          "official": "https://www.cicts.org/our-services/"
         },
         {
           "id": "jo1116-s05",
-          "time": "10:45–11:30",
-          "name": "Western Wall西牆",
-          "description": "新增重點站，預留安檢；若前段延誤就縮短，不排聖殿山入內。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Western%20Wall%20Jerusalem",
-          "official": "https://whc.unesco.org/en/list/148/",
+          "time": "09:45–10:30",
+          "name": "獅子門 → 聖安妮及 Bethesda",
+          "description": "經獅子門往城內。把羅馬式教堂和旁邊不同年代的水池遺構放在一起看。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Church+of+Saint+Anne+Jerusalem",
           "guide": {
-            "see": "從公共觀景位置先看廣場與擋土牆的尺度，進祈禱區前依安檢與分區規範。看石塊邊框、較大的下層石及後代增砌，分清保存牆體與後來廣場改造。",
-            "history": "西牆是第二聖殿山擴建平台的部分擋土牆，不是聖殿本體的一面牆。其宗教意義與失去聖殿後的記憶密切相連；今天場域同時具有信仰、國族與政治意義。",
-            "story": "從橄欖山看到的金頂是Dome of the Rock岩石圓頂聖所；不要與南側的Al-Aqsa祈禱建築混稱。此行只把金頂作外部地景辨識，未排Temple Mount／Haram al-Sharif入內，不保證非穆斯林開放。",
-            "tips": "11/16 10:45–11:30為補入的精選站，若苦路或聖墓延誤就縮短。安檢預留15分鐘，拍攝遵守現場標示與祈禱者意願；不拍安全人員。",
+            "see": "門上找浮雕｜俗稱獅子的四隻獸有時辨作豹，常聯繫蘇丹拜巴爾的象徵；今日城門屬鄂圖曼城牆。英文還常見 St Stephen’s Gate，名稱背後有不同朝聖記憶。\n\n教堂和水池分開看｜12 世紀十字軍時期羅馬式教堂以石造拱頂和迴音聞名，傳統紀念聖母瑪利亞的母親安妮。旁邊先看水池的落差與兩池格局，再辨認後來的宗教建築遺跡。《約翰福音》5 章可配合池邊治病故事閱讀。\n\n實務｜成人門票抓 12 NIS。週一 08:00–12:00、14:00–16:00。安排上午參觀。請保持安靜，歌唱或錄音先問。",
             "sources": [
               {
-                "title": "UNESCO｜耶路撒冷舊城與城牆",
-                "url": "https://whc.unesco.org/en/list/148/"
-              },
-              {
-                "title": "加拿大政府｜以色列、巴勒斯坦與耶路撒冷風險",
-                "url": "https://travel.gc.ca/destinations/israel-and-palestine"
+                "title": "教堂開放",
+                "url": "https://www.cicts.org/our-services/"
               }
             ]
-          }
+          },
+          "official": "https://www.cicts.org/our-services/",
+          "cost": "12 NIS／人"
         },
         {
           "id": "jo1116-s06",
-          "time": "11:30–12:30",
-          "name": "午餐",
-          "description": "依步行位置選餐廳。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jewish%20Quarter%20Jerusalem"
+          "time": "10:30–11:45",
+          "name": "苦路 Via Dolorosa",
+          "description": "前往第一、二站一帶起走，沿羅馬數字看路標。週六若已入聖墓，今天最後五站可只走最關心的兩處。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Church+of+the+Flagellation+Jerusalem",
+          "guide": {
+            "see": "東段 I–V｜I 傳統判刑處（Al-Omariyya 學校一帶）、II 領十字架（鞭笞堂及判刑堂）、III 首次跌倒、IV 遇見母親、V 古利奈人西門幫忙背十字架。校園或院落遇關閉，在公共道路按站牌辨認。\n\n中段 VI–IX｜VI 維羅妮卡拭面、VII 第二次跌倒、VIII 向耶路撒冷婦女說話、IX 第三次跌倒。VII 之後穿市集時注意分岔；VIII 可短折返，IX 在聖墓附近的科普特修道院入口一帶。\n\n教堂 X–XIV｜X 被剝衣、XI 被釘十字架、XII 在十字架上去世、XIII 被取下、XIV 安葬。後五站在聖墓教堂及相連小堂範圍內。拿週六的空間記憶對應十四站，進出動線依現場。\n\n閱讀與電影｜《路加福音》23 章有西門及耶路撒冷婦女。數次跌倒、維羅妮卡等站來自較晚的敬禮傳統，現行路線也在歷代調整。《受難記》（The Passion of the Christ，2004）是藝術演繹，可對讀各站的來源與電影敘事。",
+            "sources": []
+          }
         },
         {
           "id": "jo1116-s07",
-          "time": "12:30–14:00",
-          "name": "Tower of David Jerusalem Museum",
-          "description": "城市時間線、模型、影像與Phasael展望；週一09:00–17:00。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Tower%20of%20David%20Jerusalem%20Museum",
-          "official": "https://www.tod.org.il/en/event/entrance-to-the-tower-of-david/",
+          "time": "11:45–12:15",
+          "name": "奧地利旅舍屋頂",
+          "description": "在苦路第四、五站附近，可順路先登屋頂再走後半段。若已走到聖墓，可按當天腳力決定是否折返。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Austrian+Hospice+Jerusalem",
           "guide": {
-            "see": "從新入口進館，先看城市時間線，再看模型與主要影像作品；上Phasael Tower展望，把教堂圓頂、城牆與現代街區放回方向。下樓後看城堡庭院的不同建築層。",
-            "history": "名稱含「大衛」不表示眼前每座塔都由聖經中的大衛建造；城堡保存多時期修建，今日天際線上的尖塔也有後世來源。博物館以古物與數位媒介講述城市長時段變化。",
-            "story": "可留意Ari Folman參與的入口影像、David Polonsky的節慶動畫及19世紀城市模型。把模型和塔頂實景對照，能理解城外擴張；作品是當代解讀工具，不等於古代人的原始視角。",
-            "tips": "週一09:00–17:00；12:30–14:00是精選而非每廳細讀。夜秀69 NIS參考票價另計，11/16是否有19:00場未確認，只作候選。不要把Night Spectacular與King David當同一節目。",
+            "see": "取景｜先找高處的宣禮塔、聖墓圓頂、岩石圓頂與橄欖山，把不同高度的屋頂收進畫面。與橄欖山的遠眺相比，此處適合拍巷道和建築密度。屋頂成人 5 NIS；風雨、私人活動與開門情況現場確認。\n\n故事｜旅舍自 19 世紀服務中歐天主教朝聖者。院內的 Café Triest 可看維也納咖啡館傳統如何移入老城。想省時間，拍完直接去午餐。",
             "sources": [
               {
-                "title": "Tower of David｜常設展與入場",
-                "url": "https://www.tod.org.il/en/event/entrance-to-the-tower-of-david/"
-              },
-              {
-                "title": "Tower of David｜Night Spectacular",
-                "url": "https://www.tod.org.il/en/event/the-night-spectacular/"
+                "title": "屋頂開放",
+                "url": "https://www.austrianhospice.com/en/experience-jerusalem/"
               }
             ]
-          }
+          },
+          "official": "https://www.austrianhospice.com/en/experience-jerusalem/",
+          "cost": "5 NIS／人"
         },
         {
           "id": "jo1116-s08",
-          "time": "14:00–14:30",
-          "name": "計程車到客西馬尼",
-          "description": "先下山谷再上觀景山，省爬坡。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Garden%20of%20Gethsemane%20Jerusalem"
+          "time": "12:15–13:00",
+          "name": "Al-Ayed 午餐",
+          "description": "大馬士革門外 Haneviim 一帶。沙威瑪優先問單點夾餅價，想坐下再點烤肉串或 Hummus。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Al+Ayed+Restaurant+Jerusalem"
         },
         {
           "id": "jo1116-s09",
-          "time": "14:30–15:10",
-          "name": "客西馬尼與萬國教堂",
-          "description": "橄欖樹、低光空間與宗教傳統，依禮拜開放。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Church%20of%20All%20Nations%20Gethsemane%20Jerusalem",
-          "official": "https://www.custodia.org/en/sanctuaries/gethsemane-basilica-agony/",
-          "guide": {
-            "see": "先看橄欖園，再進萬國教堂感受較暗的室內與中央岩石；看立面馬賽克、天頂與不同國家捐助留下的象徵。小聲、慢走，這裡仍是祈禱場所。",
-            "history": "客西馬尼位於橄欖山腳，與耶穌受難前祈禱的傳統相連。現代教堂建立在更早教堂遺構的脈絡上；古橄欖樹顯示悠久景觀，但不應宣稱每一棵就是耶穌時代的同一樹幹。",
-            "story": "從陰暗室內走到樹園，再上山看全城，形成從個人祈禱到城市全景的觀察尺度。教堂設計刻意使光線低沉，拍攝應尊重這份氣氛，不用閃光把空間照亮。",
-            "tips": "14:30–15:10參觀，之後叫車上橄欖山觀景點，避免在日落前耗力爬長坡。教堂可能午間休息，遇未開只看可進入園區，按現場規定。",
-            "sources": [
-              {
-                "title": "聖地保管會｜客西馬尼與萬國教堂",
-                "url": "https://www.custodia.org/en/sanctuaries/gethsemane-basilica-agony/"
-              },
-              {
-                "title": "基督徒資訊中心｜聖地開放時間",
-                "url": "https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land"
-              }
-            ]
-          }
+          "time": "13:00–14:00",
+          "name": "往以色列博物館",
+          "description": "查 Moovit 即時路線，塞車或等車太久就搭計程車。目標 13:45 左右到入口。",
+          "map": "https://www.google.com/maps/search/?api=1&query=The+Israel+Museum+Jerusalem"
         },
         {
           "id": "jo1116-s10",
-          "time": "15:10–15:30",
-          "name": "計程車上橄欖山",
-          "description": "不把山坡步行壓在日落前。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Mount%20of%20Olives%20Viewpoint%20Jerusalem"
+          "time": "14:00–16:00",
+          "name": "以色列博物館",
+          "description": "死海古卷與模型優先。剩餘時間選考古館，16:00 閉館。",
+          "map": "https://www.google.com/maps/search/?api=1&query=The+Israel+Museum+Jerusalem",
+          "guide": {
+            "see": "14:00–14:40 書卷殿｜白色穹頂呼應藏卷陶罐的蓋子，館內看昆蘭洞穴出土的第二聖殿時期手稿及社群文獻。展品輪替，先看標牌確認原件、複製品及展示段落。《以賽亞書》大卷的文字與中世紀抄本並看，可理解文字傳承中的差異。\n\n14:40–15:15 第二聖殿模型｜模型比例 1:50，重現西元 66 年前後。先找昨天的西牆和南側進入動線，再看聖殿平台、城牆與谷地。模型根據考古和文獻重建，適合對照昨天現場可見與已消失的構造。\n\n15:15–15:50 考古館｜先問館員當天能否看到但丘石碑或彼拉多銘文，再依展線選一兩件。前者常與「大衛家」銘文討論相連，後者把羅馬行省行政與早上受難敘事連起來。你們去過約旦死海，今天可把兩岸地理和昆蘭洞穴的位置連起來。\n\n實務｜官方成人 62 NIS，週一 10:00–16:00。相機規則分展區；書卷殿請依入口指示。帶耳機、保留安檢與找館時間。",
+            "sources": [
+              {
+                "title": "開放",
+                "url": "https://www.imj.org.il/node/898866"
+              },
+              {
+                "title": "館方書卷殿及模型",
+                "url": "https://museum.imj.org.il/newsletter/pdf/7-9-17-en.pdf"
+              }
+            ]
+          },
+          "official": "https://www.imj.org.il/node/898866",
+          "cost": "62 NIS／成人"
         },
         {
           "id": "jo1116-s11",
-          "time": "15:30–16:45",
-          "name": "橄欖山城市全景",
-          "description": "先辨識Kidron谷、城牆與金頂；日落原稿約16:39，作候光參考。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Mount%20of%20Olives%20Viewpoint%20Jerusalem",
-          "official": "https://whc.unesco.org/en/list/148/",
+          "time": "16:00–17:00",
+          "name": "回市中心",
+          "description": "回房休息再吃晚餐。若仍有光，在館外公共區簡短拍夕照。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Jaffa+Center+Jerusalem"
+        },
+        {
+          "id": "jo1116-backup",
+          "time": "下午備案",
+          "name": "備案 Yad Vashem",
+          "description": "依票況及當天體力選擇。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Yad+Vashem+Jerusalem",
           "guide": {
-            "see": "先辨識前景墓園、Kidron Valley、舊城牆及金頂，再尋找聖墓教堂與西側新城方向。用中焦壓縮城市層次，廣角則保留山谷與天空；太陽將落在城市方向一側，可能逆光。",
-            "history": "橄欖山對猶太教與基督教均有長期宗教意義，墓園、教堂與城市展望形成複合地景。它不是單純的攝影平台，行走時應尊重墓地與宗教場所。",
-            "story": "Madaba地圖把耶路撒冷轉成馬賽克，Tower of David模型把它縮小，而這裡讓你看見實際地形。比較三種觀看方式：神聖地理、歷史城市、眼前生活。",
-            "tips": "15:30前抵觀景點，約16:40日落只是原稿近似值；留車或預先約回程，天黑不走陌生山坡捷徑。日落逆光下金頂可能成剪影，白天明亮全景與晚霞照片各有不同，不保證同時得到。",
+            "tips": "怎麼換｜若更想看 Holocaust 歷史，先預約免費入場並用整個下午取代以色列博物館。確認當天開放及最後入場；館區沿地勢設計，抓至少 2–3 小時。\n\n現場讀法｜從戰前歐洲猶太社群的日常出發，再走排斥、驅逐、集中營、倖存者與姓名紀念堂。個人證詞和物件可和你們的波蘭旅遊所見互相對照。Primo Levi《如果這是一個人》可作證詞閱讀；電影《辛德勒的名單》聚焦部分克拉科夫與普瓦舒夫的歷史。",
             "sources": [
               {
-                "title": "UNESCO｜耶路撒冷舊城與城牆",
-                "url": "https://whc.unesco.org/en/list/148/"
-              },
-              {
-                "title": "聖地保管會｜客西馬尼與萬國教堂",
-                "url": "https://www.custodia.org/en/sanctuaries/gethsemane-basilica-agony/"
+                "title": "紀念館",
+                "url": "https://www.yadvashem.org/visiting.html"
               }
             ]
           }
-        },
-        {
-          "id": "jo1116-s12",
-          "time": "16:45–17:30",
-          "name": "返回市中心",
-          "description": "提前約車，天黑不走陌生捷徑。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jaffa%20Gate%20Jerusalem"
-        },
-        {
-          "id": "jo1116-s13",
-          "time": "17:30–19:00",
-          "name": "晚餐",
-          "description": "是否參加夜場依精神狀態。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Mamilla%20Jerusalem"
-        },
-        {
-          "id": "jo1116-s14",
-          "time": "19:00–20:00",
-          "name": "可選Tower of David夜間投影",
-          "description": "約40分鐘、成人69 NIS為官方參考；11/16確切場次與餘票未確認，不當作已訂。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Tower%20of%20David%20Jerusalem"
-        },
-        {
-          "id": "jo1116-s15",
-          "time": "20:00–20:30",
-          "name": "返回飯店",
-          "description": "翌日博物館多，早點休息。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Salah%20ad%20Din%20Street%20Jerusalem"
         }
       ],
-      "cutPlan": "延誤先刪購物、咖啡與加看站，保留交通、用餐及住宿；不要為追時間趕路。",
-      "rainPlan": "遇雨縮短戶外段，改室內展覽或住宿休息；山路與石階放慢。",
-      "relatedGuides": [
-        {
-          "id": "guide-jo1115-s08",
-          "title": "Damascus Gate晨景｜完整現場導覽"
-        }
-      ]
+      "rainPlan": "橄欖山遇雨或管制，改雅法門入老城、下午去博物館。",
+      "cutPlan": "跳過屋頂或改外帶午餐，保留博物館。"
     },
     {
       "id": "jo1117",
       "date": "2026-11-17",
-      "title": "Yad Vashem → 免費雙年展 → Israel Museum英文導覽",
-      "summary": "耶路撒冷第3晚｜以色列時間。",
+      "title": "市場、Nachlaot、國家圖書館與藝文夜",
+      "summary": "19:45 Yellow Submarine 室內場官網列售罄。21:00 Talpiyot 戶外場仍列售票入口，需看結帳票況。想早回房整理行李，可選 17:00 開場的 Winter Dreams。",
       "stops": [
         {
           "id": "jo1117-s01",
-          "time": "07:30–08:15",
-          "name": "早餐",
-          "description": "帶預約確認，手機靜音。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Salah%20ad%20Din%20Street%20Jerusalem"
+          "time": "07:30–09:00",
+          "name": "Mahane Yehuda 市場",
+          "description": "先走露天 Mahane Yehuda Street，再進有頂棚的 Etz Chaim 通道；早到部分攤位仍在開攤。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Mahane+Yehuda+Market+Jerusalem",
+          "guide": {
+            "see": "市場怎麼走｜市場在 19 世紀末伴隨城外住宅與雅法路商業成長。先沿 Agripas 找兩條平行市場通道，再穿接小巷。早上看居民挑蔬果，店家有自己的開門時間，下午或夜間氣氛不同。\n\n點餐｜Sabich 是帶伊拉克猶太移民背景的 Pita 夾餅，常見炸茄子、水煮蛋、芝麻醬及醃芒果醬 Amba。Malawach 是葉門猶太社群傳入的層疊煎餅，常配番茄泥。Rahmo 的 Kubbeh 是包肉餡的丸子湯，有酸、甜菜等不同風味。先問價格、辣度與當天口味。\n\n買東西｜買兩人當天吃的量。看橄欖與起司的秤重單位；試 Halva 只切小塊，想買水果可找可單顆秤重的攤位。拍攤位先問，手機 2× 取香料紋理比擋住主走道拍全景容易。",
+            "sources": []
+          }
         },
         {
           "id": "jo1117-s02",
-          "time": "08:15–09:00",
-          "name": "輕軌＋接駁或計程車",
-          "description": "到站後仍需轉移，依接駁班次預留。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Yad%20Vashem%20Jerusalem"
+          "time": "09:00–10:00",
+          "name": "市場早餐",
+          "description": "Agripas 83。先問今天開門時間，早到可先買麵包及咖啡。Sabich 適合兩人先分一個試味。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Aricha+Sabich+Jerusalem"
         },
         {
           "id": "jo1117-s03",
-          "time": "09:00–11:30",
-          "name": "Yad Vashem歷史博物館",
-          "description": "預約有不可退手續費；未預約免費入場依名額，最好提前安排。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Yad%20Vashem%20Jerusalem",
-          "official": "https://online-reservations.yadvashem.org/en/reservations/specificActivity/104",
+          "time": "10:00–11:30",
+          "name": "Nachlaot 社區",
+          "description": "從 Agripas 往 Ohel Moshe、Mazkeret Moshe 的公共巷道。看庭院和門牌，午前折回市場。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Ohel+Moshe+Jerusalem+Nachlaot",
           "guide": {
-            "see": "先沿主展線了解歐洲猶太生活，再看排斥、迫害、戰爭與大屠殺，最後到Hall of Names姓名堂。選幾個個人證詞讀完整，避免只追數字或強烈影像；出館留一段安靜時間。",
-            "history": "Yad Vashem是研究、教育與紀念機構。展覽以文獻、證言和物件建立歷史脈絡；納粹對猶太人的系統性滅絕不能簡化為一般戰爭傷亡，也應辨認其他受迫害群體的不同經驗。",
-            "story": "博物館中的藝術與日記常保存個人的聲音：作品可能來自迫害期間，也可能是戰後記憶。讀標籤的創作年代及處境，避免把紀念作品誤認為事件現場紀錄。",
-            "tips": "09:00–11:30保留，預約頁現列手續費且不可退；未預約入場免費但依名額，不再稱「免費預約」。中文語音設備依現場供應與價格。展廳攝影依當日禁令，絕不為拍照打斷他人。",
-            "sources": [
-              {
-                "title": "Yad Vashem｜預約與手續費規則",
-                "url": "https://online-reservations.yadvashem.org/en/reservations/specificActivity/104"
-              },
-              {
-                "title": "American Society for Yad Vashem｜參觀與語音導覽",
-                "url": "https://www.yadvashemusa.org/plan-a-visit/"
-              }
-            ]
+            "see": "上午 Nachlaot｜這一帶由多個 19 世紀末以後發展的小社區組成。找 Ohel Moshe 的公共庭院、連排石屋、入口拱門與居民照片牌。狹巷與共享院落反映早期社群互助及住宅布局。\n\n下午 Rehavia｜英國託管時期規劃的花園住宅區，散步看退縮庭院、石砌現代主義立面與綠蔭。兩處都有人居住，攝影取公共立面與街景，庭院有私人標示就留在街上。\n\n文學｜Amos Oz 的耶路撒冷記憶適合對照城外住宅。S. Y. Agnon 的《Only Yesterday》以第二次阿利亞時期為背景，把耶路撒冷與雅法的生活世界並置；可先讀一節，再回想街道與社區邊界。",
+            "sources": []
           }
         },
         {
           "id": "jo1117-s04",
           "time": "11:30–12:15",
-          "name": "返回市區",
-          "description": "離館留緩衝，不把情緒沉澱完全省略。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Mahane%20Yehuda%20Market%20Jerusalem"
+          "name": "Rahmo 家常午餐",
+          "description": "Ha-Eshkol 5。先問今天是甜菜或酸味 Kubbeh 湯，兩人可點不同湯底分食。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Rahmo+Jerusalem"
         },
         {
           "id": "jo1117-s05",
-          "time": "12:15–13:30",
-          "name": "Mahane Yehuda午餐與市場",
-          "description": "看蔬果、香料與烘焙，避免逛超時。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Mahane%20Yehuda%20Market%20Jerusalem",
-          "official": "https://whc.unesco.org/en/list/148/",
-          "guide": {
-            "see": "先沿主通道看蔬果與麵包，再選一間有明確價目的小店午餐。比較香料、芝麻醬、橄欖與烘焙點心，兩人可分享一份主食加蔬菜；買散裝食品先確認計價單位。",
-            "history": "市場反映耶路撒冷多個社群與移民飲食傳統，食物名稱與做法可能跨越政治邊界。城市歷史不只在博物館，也在攤位語言、進貨、家庭食譜和每日用餐方式裡。",
-            "story": "芝麻、鷹嘴豆、茄子與酸奶在區域飲食中反覆出現，但每家處理不同。可以把Amman的豆泥與此處比較口感，避免把跨區域食物簡單認定只屬某一民族。",
-            "tips": "11/17午餐保留約一小時，市場很容易逛超時。餐廳與價格未重新逐店核實，現場看菜單再決定；拍近距離人像先問。",
-            "sources": [
-              {
-                "title": "UNESCO｜耶路撒冷舊城與城牆",
-                "url": "https://whc.unesco.org/en/list/148/"
-              }
-            ]
-          }
+          "time": "12:15–13:00",
+          "name": "去國家圖書館",
+          "description": "地址 Eliezer Kaplan 1。若腳累或下雨，Moovit 查公車或搭車，行人動線繞過政府機關的管制區。",
+          "map": "https://www.google.com/maps/search/?api=1&query=National+Library+of+Israel+Jerusalem"
         },
         {
           "id": "jo1117-s06",
-          "time": "13:30–14:00",
-          "name": "前往Van Leer",
-          "description": "建議計程車節省轉乘。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Van%20Leer%20Jerusalem%20Institute"
-        },
-        {
-          "id": "jo1117-s07",
-          "time": "14:00–15:15",
-          "name": "Jerusalem Biennale免費三展",
-          "description": "官方展至11/18，週日至四09:00–18:00。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Van%20Leer%20Jerusalem%20Institute%20Jerusalem",
-          "official": "https://www.vanleer.org.il/en/events/the-jerusalem-biennale-at-the-institute/",
+          "time": "13:00–14:30",
+          "name": "國家圖書館",
+          "description": "公共區先看建築、天窗、閱覽室視角。想看 A Treasury of Words，可先線上訂獨立參觀票。",
+          "map": "https://www.google.com/maps/search/?api=1&query=National+Library+of+Israel+Jerusalem",
           "guide": {
-            "see": "75分鐘分成三段：Open Wound看不同媒材如何處理創傷；On the Face of It看白色與紡織；Time Collapsing, Routine Leaking看重複、循環與日常行為。每展挑一件作品讀標籤，再看整體空間。",
-            "history": "雙年展是當代藝術平台，本次Van Leer三展以失落、記憶、身分與時間感為線索。作品反映特定創作者的經驗與立場，觀眾可理解其脈絡，同時保有自己的閱讀與批判。",
-            "story": "Caron Tabb的白色可連結純潔、投降、裹屍與空白等不同意涵；不是所有白色作品都只代表和平。Merav Heiman、Moshe Tarka與Adi van Velsen參與時間主題展，留意動態影像循環如何改變觀眾對時長的感受。",
-            "tips": "官網列至11/18、週日至四09:00–18:00，免費。14:00–15:15之後直接前往Israel Museum，避免錯過16:00入場後的導覽登記。",
+            "see": "先看建築｜Herzog & de Meuron 設計的新館 2023 年開放。從石材外皮走向中央挑高與採光空間，找閱覽席和書架如何圍繞中庭。公共區免費，進閱覽空間或展覽按館方規則。\n\n展覽怎麼選｜A Treasury of Words 可接觸不同宗教與語言的手稿、印本、地圖和檔案，常設展另票。週二展覽時段參考 09:00–18:00，各展依預約頁。帶耳機可使用館方提供的個人導覽；珍本展示輪替。若只留 45 分鐘，挑一件多語文獻和一張古地圖。",
             "sources": [
               {
-                "title": "Van Leer｜11/18前免費三展",
-                "url": "https://www.vanleer.org.il/en/events/the-jerusalem-biennale-at-the-institute/"
+                "title": "圖書館展覽",
+                "url": "https://www.nli.org.il/en/visit/tours/exhibition-tickets"
               }
             ]
           },
-          "cost": "免費；依官網公告開放。"
+          "official": "https://www.nli.org.il/en/visit/tours/exhibition-tickets",
+          "cost": "公共區免費，展覽另票。"
+        },
+        {
+          "id": "jo1117-s07",
+          "time": "14:30–16:00",
+          "name": "Rehavia 與 Azza Street",
+          "description": "看花園住宅、簡潔立面和街角咖啡館；腳累就搭車回公寓。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Azza+Street+Rehavia+Jerusalem"
         },
         {
           "id": "jo1117-s08",
-          "time": "15:15–16:00",
-          "name": "前往Israel Museum、購票",
-          "description": "16:00到館先登記英文團，最多30人，不保證尚有名額。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Israel%20Museum%20Jerusalem"
+          "time": "16:00–17:00",
+          "name": "回房休息",
+          "description": "先確認隔天接車、邊境費收據、護照與簽證，再出門。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zion+Square+Jerusalem"
         },
         {
           "id": "jo1117-s09",
-          "time": "16:00–17:00",
-          "name": "Cardo登記＋Shrine of the Book",
-          "description": "先登記，再依距離看古卷展，16:50回集合點。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Israel%20Museum%20Jerusalem",
-          "official": "https://www.imj.org.il/en/node/5517031",
+          "time": "17:00–19:00 或 20:00–23:00",
+          "name": "植物園 B 或音樂節 A",
+          "description": "植物園 17:00 開場；音樂節戶外場 20:00 入場、21:00 開演。回程班次可在出門前先查。",
+          "map": "https://www.google.com/maps/search/?api=1&query=10+HaRekhavim+Street+Jerusalem",
           "guide": {
-            "see": "16:00到館先在Cardo資訊台登記17:00英文精華團，再按工作人員建議看Shrine of the Book或就近展廳；16:50回集合點。導覽後選一個主題續看，不企圖三小時走完整座館。",
-            "history": "館藏連結考古、猶太藝術與生活及國際美術。Shrine of the Book以古卷和保存文字的方式為核心；第二聖殿時期城市模型則幫助辨認聖殿山、城牆與城市尺度，不要和今日舊城完全重疊。",
-            "story": "將安曼Jordan Museum的銅卷與此館古卷展示對讀：同樣被稱死海古卷的材料並不全相同。以賽亞書相關展示、Aleppo Codex等各有時代與媒材，原件輪替與複製品請依標籤；不保證某一卷當日完整展出。",
-            "tips": "官方活動確認11/17 17:00英文團、最多30人、Cardo事先登記、無額外導覽費；博物館門票仍需買。一般週二晚間開放及特展A Matter of Time的當日狀態再核，未確認不寫成保證。",
+            "see": "現場操作｜戶外站席在 HaRekhavim 10 號停車場，室內 Yellow Submarine 是 13 號。官方列戶外場 20:00 開門、21:00 開演，有 Mark Eliyahu、The Kadosh Brothers、Shaman Shaman Ensemble 等。19:45 室內場列售罄，23:10 After-Party 免費。票價及剩餘票看官方結帳。\n\n聽什麼｜Mark Eliyahu 的 kamancheh 是弓弦樂器，留意持續音、滑音與節奏聲部如何交接。戶外帶保暖外套和耳塞；若隔天要早起，演出中段即可叫車回住宿。",
             "sources": [
               {
-                "title": "Israel Museum｜11/17 17:00英文精華導覽",
-                "url": "https://www.imj.org.il/en/node/5517031"
-              },
+                "title": "音樂節節目",
+                "url": "https://musicshowcaseil.com/program/"
+              }
+            ]
+          },
+          "official": "https://musicshowcaseil.com/program/"
+        },
+        {
+          "id": "jo1117-backup",
+          "time": "17:00–19:00 選配",
+          "name": "Winter Dreams B",
+          "description": "依票況及當天體力選擇。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Jerusalem+Botanical+Gardens+Yehuda+Burla",
+          "guide": {
+            "tips": "怎麼去｜植物園 Givat Ram，Yehuda Burla St 一帶。11/17 開幕，官方列平日 17:00–22:00，最後入場 21:00。步道約 2 公里。成人預售參考 119 NIS，原價參考 139 NIS，以購票頁為準。\n\n怎麼拍｜想拍藍調，盡量選 17:00 入場，天黑很快。找水面倒影及一人當比例尺，手機夜景模式先穩住，避免用閃燈；細燈容易過曝時可稍降曝光。",
+            "sources": [
               {
-                "title": "基督徒資訊中心｜聖地開放時間",
-                "url": "https://www.cicts.org/en/updated-opening-hours-holy-places-tourist-sites-holy-land"
+                "title": "燈展官方",
+                "url": "https://www.winterdreams.co.il/"
               }
             ]
           }
-        },
-        {
-          "id": "jo1117-s10",
-          "time": "17:00–18:00",
-          "name": "官方英文精華導覽",
-          "description": "11/17 17:00官方公告；無額外導覽費，仍需博物館入場票。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Israel%20Museum%20Jerusalem"
-        },
-        {
-          "id": "jo1117-s11",
-          "time": "18:00–19:00",
-          "name": "常設展續看",
-          "description": "選考古、猶太藝術或美術一主題；A Matter of Time當日展況未確認，不保證展出。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Israel%20Museum%20Jerusalem"
-        },
-        {
-          "id": "jo1117-s12",
-          "time": "19:00–20:00",
-          "name": "返回市區、晚餐",
-          "description": "收好證件，明日不安排上午景點。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jaffa%20Road%20Jerusalem"
         }
       ],
-      "cutPlan": "若Yad延誤，縮短市場或跳過雙年展；16:00博物館登記優先於額外逛街。",
-      "rainPlan": "遇雨縮短戶外段，改室內展覽或住宿休息；山路與石階放慢。"
+      "rainPlan": "市場走有頂通道，再搭車去圖書館。",
+      "cutPlan": "縮短 Rehavia 散步，夜間只選一場。"
     },
     {
       "id": "jo1118",
       "date": "2026-11-18",
-      "title": "耶路撒冷 → Allenby → 安曼",
-      "summary": "Jawaher Hotel｜最後1晚。",
+      "title": "Allenby → King Hussein Bridge → 安曼",
+      "summary": "建議 08:15–09:00 從住宿附近可停車的路口出發，目標 09:30–10:30 抵達以方。IAA 週三 08:00–18:30，旅客最晚 15:30 抵達。下午回安曼是規劃目標，取決於接駁及兩端通關。",
       "stops": [
         {
           "id": "jo1118-s01",
-          "time": "06:30–07:15 以色列",
-          "name": "早餐、退房",
-          "description": "檢查護照、入境紙、約旦再入境文件。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Salah%20ad%20Din%20Street%20Jerusalem"
+          "time": "07:00–08:00 以方",
+          "name": "早餐、退房整理",
+          "description": "把護照、約旦入境文件及出境費收據存成離線副本，確認兩端口岸公告與接車。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zion+Square+Jerusalem"
         },
         {
           "id": "jo1118-s02",
-          "time": "07:15–08:15 以色列",
-          "name": "前往Allenby以色列端",
-          "description": "接送預先安排，不加Jericho或Bethlehem。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Allenby%20Bridge%20Terminal"
+          "time": "08:15–09:00 以方",
+          "name": "計程車接人",
+          "description": "請司機確認目的地為 Allenby 以色列端旅客大樓。兩人和行李的整車價、上車路口與聯絡電話前晚談好。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Zion+Square+Jerusalem"
         },
         {
           "id": "jo1118-s03",
-          "time": "08:15–11:30 以色列／09:15–12:30 約旦",
-          "name": "出境、接駁與約旦入境",
-          "description": "時間為預留不是保證；跨回約旦調快1小時。",
-          "map": "https://www.google.com/maps/search/?api=1&query=King%20Hussein%20Bridge%20Jordan%20Passenger%20Terminal",
-          "official": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/opening-hours/"
+          "time": "09:30–10:30 以方",
+          "name": "抵達以色列端",
+          "description": "依動線辦出境費、行李、安檢及證照。保留兩人收據與入境時取得的以方紀錄。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Allenby+Bridge+Border+Terminal%2C+Israel",
+          "guide": {
+            "see": "以方出境費｜2026 年 4 月 15 日起官方表列 Allenby 208 NIS／人，兩人 416 NIS。IAA 官網連至 Milgam，可刷卡預付，現場櫃檯另收 7 NIS 服務費。確認日期、口岸和兩人付款紀錄，付款完成後存圖。\n\n跨橋接駁的幣別｜JETT 官網以約旦第納爾列普通接駁 7 JOD／人，兩人基本車資 14 JOD。以方上車點是否收 ILS、刷卡或只收 JOD，以及每件行李實收，都先向當班售票處確認。準備小額 JOD 並留一些 ILS，勿以舊資料的 1.5 JOD 當固定行李費。網站只顯示 VIP 時，普通跨橋與安曼市區段分別詢問。\n\n接車方式｜兩端車站用途不同。以方計程車只送到以方口岸，約方接車約在 King Hussein Bridge 約旦旅客大樓的指定位置。跨橋乘指定車輛，途中保留護照與隨身物品，遵守現場指引。",
+            "sources": [
+              {
+                "title": "IAA 出境費",
+                "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/fees/"
+              },
+              {
+                "title": "JETT 接駁",
+                "url": "https://jett.com.jo/en/faq"
+              }
+            ]
+          },
+          "official": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/fees/",
+          "cost": "208 NIS／人，兩人 416 NIS。"
         },
         {
           "id": "jo1118-s04",
-          "time": "12:30–14:00 約旦",
-          "name": "前往安曼",
-          "description": "此後均約旦UTC+3；已修正原稿少算一小時問題。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
+          "time": "10:30–13:30 以方起算",
+          "name": "出境、等跨橋車、約旦入境",
+          "description": "抵達約旦端後改看約旦時間。若以方 12:30 發車，約旦已 13:30。每人行李應全數取回，再去約定會合點。",
+          "map": "https://www.google.com/maps/search/?api=1&query=King+Hussein+Bridge+Jordan+Border+Terminal",
+          "guide": {
+            "see": "紙本與離線檔｜你們先前已表示約旦入境簽證已確認。各自再核對護照號、姓名、有效期、可入境次數及 11/18 由 King Hussein Bridge 返約旦的書面確認。Jordan Pass 是景點通行及符合條件時的簽證費優惠，入境仍按簽證或官方許可審核。\n\n回程實務｜以手上已確認適用本口岸的文件執行。若文件只列單次而確認內容不清楚，前晚先問原確認機關。別把到期日尚未到當成足夠條件。當天上午保留給過境，付費景點留在前四天。\n\n可以給司機看的文字｜Israel side: Allenby Bridge Border Terminal, passenger departures. Jordan side: King Hussein Bridge passenger terminal, after Jordanian immigration. 約旦接車可加「جسر الملك حسين، مبنى المسافرين بعد الجوازات」。",
+            "sources": [
+              {
+                "title": "Jordan Pass FAQ",
+                "url": "https://www.jordanpass.jo/contents/FAQs.aspx"
+              },
+              {
+                "title": "約旦簽證入口",
+                "url": "https://jordan.gov.jo/EN/Pages/Travel_Visas"
+              }
+            ]
+          },
+          "official": "https://www.jordanpass.jo/contents/FAQs.aspx",
+          "cost": "普通跨橋接駁 7 JOD／人；接受幣別和行李費以現場為準。"
         },
         {
           "id": "jo1118-s05",
-          "time": "14:00–15:00",
-          "name": "午餐",
-          "description": "通關延誤直接飯店附近簡餐。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Boulevard%20Amman"
-        },
-        {
-          "id": "jo1118-s06",
-          "time": "15:00–16:00",
-          "name": "Jawaher入住",
-          "description": "核對原訂房日期與地址。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
-        },
-        {
-          "id": "jo1118-s07",
-          "time": "16:00–16:45",
-          "name": "休息、採買",
-          "description": "最後補買以實用為主。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Amman"
-        },
-        {
-          "id": "jo1118-s08",
-          "time": "16:45–17:45",
-          "name": "Abdali散步",
-          "description": "晚到就取消，不增加車程。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Boulevard%20Amman"
-        },
-        {
-          "id": "jo1118-s09",
-          "time": "18:00–19:30",
-          "name": "約旦最後晚餐",
-          "description": "整理全程照片與費用。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Abdali%20Boulevard%20Amman"
-        },
-        {
-          "id": "jo1118-s10",
-          "time": "19:30–20:30",
-          "name": "行李、電子機票與送機",
-          "description": "重新確認11/19 Saudia起飛時間，送機按實際航班回推。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
+          "time": "13:30–16:30 約方目標",
+          "name": "通關後搭車回安曼",
+          "description": "等候可能拉長。將車約成依通關完成後會合，先確認候車費。普通接駁、VIP 與約旦端到安曼的車各有費用。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Amman+Jordan"
         }
       ],
-      "cutPlan": "整天優先過境，不安排任何以色列上午景點；延誤只保留安曼住宿及晚餐。",
-      "rainPlan": "遇雨縮短戶外段，改室內展覽或住宿休息；山路與石階放慢。",
-      "relatedGuides": [
-        {
-          "id": "guide-jo1115-s04",
-          "title": "出境、接駁與約旦入境｜完整現場導覽"
-        }
-      ]
-    },
-    {
-      "id": "jo1119",
-      "date": "2026-11-19",
-      "title": "安曼機場離境｜Saudia AMM → RUH",
-      "summary": "不住宿｜航班時間待電子機票確認。",
-      "stops": [
-        {
-          "id": "jo1119-s01",
-          "time": "07:00–08:00 暫定",
-          "name": "早餐",
-          "description": "以下只適用起飛不早於12:30的航班；更早航班須整段提前。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
-        },
-        {
-          "id": "jo1119-s02",
-          "time": "08:00–08:30 暫定",
-          "name": "退房",
-          "description": "檢查護照、行李及租車收據。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Jawaher%20Hotel%20Amman"
-        },
-        {
-          "id": "jo1119-s03",
-          "time": "08:30–09:30 暫定",
-          "name": "專車往AMM",
-          "description": "實際依航班起飛前4–4.5小時離開住宿，預留交通。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Queen%20Alia%20International%20Airport"
-        },
-        {
-          "id": "jo1119-s04",
-          "time": "09:30–11:30 暫定",
-          "name": "報到、托運與出境",
-          "description": "以至少起飛前3小時抵達機場為規劃原則，航空公司最新要求優先。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Queen%20Alia%20International%20Airport"
-        },
-        {
-          "id": "jo1119-s05",
-          "time": "11:30起／依登機證",
-          "name": "登機門與AMM → RUH",
-          "description": "Saudia班號、起飛及登機截止時間尚未重新確認；不是本頁替你改票或完成報到。",
-          "map": "https://www.google.com/maps/search/?api=1&query=Queen%20Alia%20International%20Airport"
-        }
-      ],
-      "cutPlan": "延誤先刪購物、咖啡與加看站，保留交通、用餐及住宿；不要為追時間趕路。",
-      "rainPlan": "遇雨縮短戶外段，改室內展覽或住宿休息；山路與石階放慢。"
+      "rainPlan": "預留路程和排隊緩衝。",
+      "cutPlan": "上午保留給跨境，車輛按通關後時間會合。"
     }
   ],
   "budget": [
@@ -2904,12 +2300,6 @@
       "status": "外交部資訊；只用官方申請入口"
     },
     {
-      "item": "Tower of David夜間場",
-      "amount": "69 NIS",
-      "unit": "成人參考",
-      "status": "確切日期場次、票種依售票頁"
-    },
-    {
       "item": "Amman機場計程車",
       "amount": "30–40 JOD",
       "unit": "兩人一車參考",
@@ -2922,37 +2312,62 @@
       "status": "原稿數字，本次未重新取得價目"
     },
     {
-      "item": "Yad Vashem",
-      "amount": "預約手續費依頁面",
-      "unit": "每人",
-      "status": "提前預約有不可退手續費；現場免費依名額"
-    },
-    {
       "item": "Jeep、營地接駁、火車接送",
       "amount": "待營地報價",
       "unit": "兩人／車",
       "status": "核對是否含餐與來回接送"
     },
     {
-      "item": "跨境稅、橋上接駁與市區車資",
-      "amount": "依口岸最新費表",
-      "unit": "每人／車",
-      "status": "離境費與櫃台手續費等分開，未核完整總價"
-    },
-    {
       "item": "住宿、租車、油資及博物館票",
       "amount": "依訂單／現場",
       "unit": "兩人",
       "status": "未提供完整金額，不虛構全程總價"
+    },
+    {
+      "item": "大衛塔",
+      "amount": "55 NIS",
+      "unit": "每人",
+      "status": "成人票"
+    },
+    {
+      "item": "大衛城",
+      "amount": "16 NIS 起",
+      "unit": "每人",
+      "status": "依自助票種"
+    },
+    {
+      "item": "聖安妮＋旅舍屋頂＋以色列博物館",
+      "amount": "79 NIS",
+      "unit": "每人",
+      "status": "成人票與屋頂票"
+    },
+    {
+      "item": "Allenby 出境費",
+      "amount": "416 NIS",
+      "unit": "兩人",
+      "status": "櫃檯服務費另計"
+    },
+    {
+      "item": "耶路撒冷上述門票＋以方出境費",
+      "amount": "716 NIS 起",
+      "unit": "兩人",
+      "status": "餐食及交通另計"
+    },
+    {
+      "item": "JETT 普通跨橋",
+      "amount": "14 JOD",
+      "unit": "兩人",
+      "status": "行李費與幣別現場確認"
+    },
+    {
+      "item": "Winter Dreams",
+      "amount": "119 NIS 起",
+      "unit": "每人",
+      "status": "選配，預售參考"
     }
   ],
-  "budgetNote": "JOD、NIS與EGP不同貨幣，不以未查核匯率相加。以原始訂單與支付當日費用為準；預留跨境、交通及臨時住宿彈性。",
+  "budgetNote": "NIS 與 JOD 分開預留。餐食、住宿、兩端接車、市區交通、行李與選配活動另計。",
   "sources": [
-    {
-      "title": "IAA｜Allenby營運時間",
-      "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/opening-hours/",
-      "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
-    },
     {
       "title": "IAA｜Jordan River營運時間",
       "url": "https://www.iaa.gov.il/en/land-border-crossings/jordan-river/opening-hours-jorden-river/",
@@ -2971,11 +2386,6 @@
     {
       "title": "PIBA｜ETA-IL官方申請",
       "url": "https://israel-entry.piba.gov.il/",
-      "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
-    },
-    {
-      "title": "IAA｜Allenby離境費",
-      "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/fees/",
       "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
     },
     {
@@ -3139,18 +2549,8 @@
       "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
     },
     {
-      "title": "MOTJ｜11/15音樂會曲目與站席",
-      "url": "https://www.motj.org.il/en/event/voices-of-brotherhood-and-tolerance-a-special-musical-performance-conducted-by-dan-rapoport/",
-      "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
-    },
-    {
       "title": "Tower of David｜常設展與入場",
       "url": "https://www.tod.org.il/en/event/entrance-to-the-tower-of-david/",
-      "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
-    },
-    {
-      "title": "Tower of David｜Night Spectacular",
-      "url": "https://www.tod.org.il/en/event/the-night-spectacular/",
       "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
     },
     {
@@ -3164,14 +2564,124 @@
       "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
     },
     {
-      "title": "Van Leer｜11/18前免費三展",
-      "url": "https://www.vanleer.org.il/en/events/the-jerusalem-biennale-at-the-institute/",
-      "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
+      "title": "IAA 交通與計程車",
+      "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/transportation-and-parking/",
+      "checked": "2026-11-13"
     },
     {
-      "title": "Israel Museum｜11/17 17:00英文精華導覽",
-      "url": "https://www.imj.org.il/en/node/5517031",
-      "checked": "2026-10-31｜營運及活動以到訪前再次確認為準"
+      "title": "Chabad 安息日",
+      "url": "https://www.chabad.org/calendar/candlelighting_cdo/c/247",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "日出日落",
+      "url": "https://www.timeanddate.com/sun/israel/jerusalem?month=11&year=2026",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "教堂及水池開放",
+      "url": "https://www.cicts.org/our-services/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "大衛塔票價與末入場",
+      "url": "https://www.tod.org.il/en/faqs/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "西牆規定",
+      "url": "https://thekotel.org/en/visitor_information_/procedures/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "First Station 場館公告",
+      "url": "https://www.firststation.co.il/events/rikude-am/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "LiveJLM 另一時段",
+      "url": "https://livejlm.com/en/events/%D7%94%D7%A8%D7%A7%D7%93%D7%94-%D7%A2%D7%9D-%D7%A2%D7%95%D7%A4%D7%A8-%D7%A6%D7%95%D7%A4%D7%99-2026-11-14-k4fnxj",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "聖殿山訪客資訊",
+      "url": "https://www.israel.com/places/old-city-jerusalem/things-to-do/temple-mount",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "大衛城自助票",
+      "url": "https://cityofdavid.org.il/en/product/entrance-to-the-city-of-david-national-park/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "奧地利旅舍屋頂",
+      "url": "https://www.austrianhospice.com/en/experience-jerusalem/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "以色列博物館開放",
+      "url": "https://www.imj.org.il/node/898866",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "博物館票價",
+      "url": "https://www.imj.org.il/en/node/1249261",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "Yad Vashem 預約",
+      "url": "https://www.yadvashem.org/visiting.html",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "即時公車",
+      "url": "https://moovitapp.com/jerusalem-1/poi/en",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "圖書館展覽預約",
+      "url": "https://www.nli.org.il/en/visit/tours/exhibition-tickets",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "音樂節官方節目與票況",
+      "url": "https://musicshowcaseil.com/program/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "Winter Dreams 官方",
+      "url": "https://www.winterdreams.co.il/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "植物園售票",
+      "url": "https://kupatbravo.co.il/special/announce/winter-dreams",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "Allenby 今日公告",
+      "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/notifications-and-updates/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "IAA 開放及最晚抵達",
+      "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/opening-hours/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "IAA 出境費與 Milgam 付款入口",
+      "url": "https://www.iaa.gov.il/en/land-border-crossings/alenbi/fees/",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "IAA 208 NIS 費率表",
+      "url": "https://www.iaa.gov.il/media/zqeizjgc/fee-rates-for-crossing-land-border-terminals-strarting-april-15-2026_accessible.pdf",
+      "checked": "2026-11-13"
+    },
+    {
+      "title": "JETT 普通接駁 FAQ",
+      "url": "https://jett.com.jo/en/faq",
+      "checked": "2026-11-13"
     }
   ]
 }

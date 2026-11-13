@@ -40,8 +40,10 @@ console.log('PASS: Egypt 20 days; Bulgaria boundary deduplicated; 8 planned citi
 
 const jo=ctx.historyRecords().filter(r=>r.tripIds?.includes('jordan-jerusalem-2026'));
 assert.equal(jo.length,3);
-assert.equal(ctx.historyStats(jo,'2026','2026-11-19').days,19);
-assert.equal(ctx.historyStats(jo,'2026','2026-11-14').countries.includes('Israel'),false);
-assert.equal(ctx.historyStats(jo,'2026','2026-11-15').countries.includes('Israel'),true);
-assert.equal(ctx.visitedCountryList('2026-11-15').find(c=>c.name==='Israel').code,'IL');
-console.log('PASS: Jordan/Jerusalem 19-day union; Israel starts November 15; flag code retained.');
+assert.equal(ctx.historyStats(jo,'2026','2026-11-18').days,18);
+assert.equal(ctx.historyStats(jo,'2026','2026-11-12').countries.includes('Israel'),false);
+assert.equal(ctx.historyStats(jo,'2026','2026-11-13').countries.includes('Israel'),true);
+assert.equal(ctx.visitedCountryList('2026-11-13').find(c=>c.name==='Israel').code,'IL');
+assert.equal(ctx.visitedCountryList('2026-11-01').find(c=>c.name==='Jordan').code,'JO');
+assert.equal(ctx.visitedCountryList('2026-11-12').some(c=>c.name==='Israel'),false);
+console.log('PASS: Jordan/Jerusalem 18-day union; Israel starts November 13; flag code retained.');

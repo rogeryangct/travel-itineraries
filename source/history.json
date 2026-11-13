@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-13",
   "records": [
     {
       "id": "archive-2026-06-05",
@@ -1296,7 +1296,7 @@
       "id": "2026-jordan-out",
       "title": "Jordan｜安曼至沙漠",
       "start": "2026-11-01",
-      "end": "2026-11-15",
+      "end": "2026-11-13",
       "countries": [
         "Jordan"
       ],
@@ -1327,10 +1327,6 @@
           "date": "2026-11-07"
         },
         {
-          "name": "Karak",
-          "date": "2026-11-08"
-        },
-        {
           "name": "Wadi Musa / Petra",
           "date": "2026-11-08"
         },
@@ -1342,17 +1338,17 @@
       "tripIds": [
         "jordan-jerusalem-2026"
       ],
-      "source": "2026/10/31使用者行程與官網查核",
-      "note": "規劃行程，跨境依實際執行；重疊跨境日以日期聯集計算。",
+      "source": "2026/11/13 使用者行程",
+      "note": "11/13 由約旦跨境，同日也計入以色列行程，總天數去重。",
       "details": [
-        "Jordan｜安曼至沙漠",
-        "11/14不跨境；耶路撒冷11/15–18，住宿及入境條件待確認。"
+        "11/1 抵安曼；11/5 As-Salt、Ajloun、Jerash；11/6 Madaba；11/7 死海；11/8–11 Wadi Musa、Petra 與 Wadi Rum。",
+        "11/12 回安曼提前還車，11/13 由 King Hussein Bridge 出境。"
       ]
     },
     {
       "id": "2026-jerusalem",
-      "title": "Jerusalem｜條件式跨境",
-      "start": "2026-11-15",
+      "title": "Jerusalem｜耶路撒冷 6 天 5 夜",
+      "start": "2026-11-13",
       "end": "2026-11-18",
       "countries": [
         "Israel"
@@ -1361,24 +1357,24 @@
       "cityVisits": [
         {
           "name": "Jerusalem",
-          "date": "2026-11-15"
+          "date": "2026-11-13"
         }
       ],
       "tripIds": [
         "jordan-jerusalem-2026"
       ],
-      "source": "2026/10/31使用者行程與官網查核",
-      "note": "規劃行程，跨境依實際執行；重疊跨境日以日期聯集計算。",
+      "source": "2026/11/13 使用者行程",
+      "note": "11/13 已抵達；11/18 返程按規劃列出。",
       "details": [
-        "Jerusalem｜條件式跨境",
-        "11/14不跨境；耶路撒冷11/15–18，住宿及入境條件待確認。"
+        "11/13 經 Allenby 入境，抵達耶路撒冷。",
+        "11/14–17 老城、聖殿山、橄欖山、博物館與市場。"
       ]
     },
     {
       "id": "2026-jordan-return",
       "title": "Jordan｜返程安曼",
       "start": "2026-11-18",
-      "end": "2026-11-19",
+      "end": "2026-11-18",
       "countries": [
         "Jordan"
       ],
@@ -1392,11 +1388,10 @@
       "tripIds": [
         "jordan-jerusalem-2026"
       ],
-      "source": "2026/10/31使用者行程與官網查核",
-      "note": "規劃行程，跨境依實際執行；重疊跨境日以日期聯集計算。",
+      "source": "2026/11/13 使用者行程",
+      "note": "預計 11/18 經 Allenby／King Hussein Bridge 返回安曼。",
       "details": [
-        "Jordan｜返程安曼",
-        "11/14不跨境；耶路撒冷11/15–18，住宿及入境條件待確認。"
+        "與耶路撒冷的跨境日重疊，旅行天數只計一次。"
       ]
     }
   ],
