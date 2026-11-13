@@ -11,7 +11,7 @@
       "english": "Jordan",
       "code": "JO",
       "region": "西亞",
-      "summary": "11/1–12 安曼、Jerash、Madaba、死海、Petra 與 Wadi Rum；11/18 經 Allenby 返回安曼。",
+      "summary": "11/1–12 安曼、Jerash、Madaba、死海、Petra 與 Wadi Rum。",
       "currency": "JOD／約旦第納爾",
       "timeZone": "Asia/Amman"
     },
@@ -109,16 +109,15 @@
   "trips": [
     {
       "id": "jordan-jerusalem-2026",
-      "title": "Jordan → Jerusalem｜約旦與耶路撒冷",
-      "subtitle": "約旦 11/1–12 · 耶路撒冷 11/13–18",
+      "title": "Jordan｜安曼、佩特拉與瓦迪倫",
+      "subtitle": "11/1–12 約旦城市與沙漠",
       "countries": [
-        "jordan",
-        "israel"
+        "jordan"
       ],
       "start": "2026-11-01",
-      "end": "2026-11-18",
+      "end": "2026-11-12",
       "verified": "2026-11-13",
-      "status": "11/13 已抵達耶路撒冷",
+      "status": "約旦前段行程",
       "tags": [
         "逐小時",
         "世界遺產",
@@ -128,7 +127,7 @@
       ],
       "content": "content/jordan-jerusalem-2026.json",
       "timeZone": "Asia/Amman",
-      "important": "🇯🇴 11/12 已回安曼還車。🇮🇱 11/13 抵達耶路撒冷，11/14–17 走老城、考古、橄欖山及市場，11/18 經 Allenby 返回安曼。",
+      "important": "🇯🇴 11/5 由安曼取車，經 As-Salt、Ajloun 和 Jerash 南下；11/11 預訂 1916 火車，11/12 回安曼提前還車。",
       "days": [
         {
           "id": "jo1101",
@@ -189,7 +188,30 @@
           "id": "jo1112",
           "date": "2026-11-12",
           "label": "Wadi Rum → 安曼｜提前還車"
-        },
+        }
+      ]
+    },
+    {
+      "id": "israel-jerusalem-2026",
+      "title": "Jerusalem｜耶路撒冷 6 天 5 夜",
+      "subtitle": "老城、聖殿山、橄欖山、市集與藝文活動",
+      "countries": [
+        "israel"
+      ],
+      "start": "2026-11-13",
+      "end": "2026-11-18",
+      "verified": "2026-11-13",
+      "status": "11/13 已抵達耶路撒冷",
+      "tags": [
+        "逐小時",
+        "世界遺產",
+        "歷史",
+        "攝影"
+      ],
+      "content": "content/israel-jerusalem-2026.json",
+      "timeZone": "Asia/Jerusalem",
+      "important": "🇮🇱 11/13 已抵達耶路撒冷。11/14–17 安排老城、考古、橄欖山和市場；11/18 經 Allenby 返回安曼。",
+      "days": [
         {
           "id": "jo1113",
           "date": "2026-11-13",

@@ -38,7 +38,9 @@ assert.equal(ctx.historyStats([eg],'2026','2026-11-01').cities.length,8);
 assert.equal(ctx.visitedCountryList('2026-10-13').length,59);
 console.log('PASS: Egypt 20 days; Bulgaria boundary deduplicated; 8 planned cities; future dates excluded.');
 
-const jo=ctx.historyRecords().filter(r=>r.tripIds?.includes('jordan-jerusalem-2026'));
+const tripIds = ['jordan-jerusalem-2026','israel-jerusalem-2026'];
+const jo = ctx.historyRecords().filter(r => r.tripIds?.some(id => tripIds.includes(id)));
+assert.deepEqual(Array.from(jo.find(r => r.id === '2026-jerusalem').tripIds), ['israel-jerusalem-2026']);
 assert.equal(jo.length,3);
 assert.equal(ctx.historyStats(jo,'2026','2026-11-18').days,18);
 assert.equal(ctx.historyStats(jo,'2026','2026-11-12').countries.includes('Israel'),false);
