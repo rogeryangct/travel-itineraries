@@ -1,0 +1,252 @@
+{
+  "overview": [
+    {
+      "id": "bethlehem-walk",
+      "title": "🇵🇸 伯利恆步行路線",
+      "paragraphs": [
+        "Bab al-Zaqaq → Star Street → 馬槽廣場 → 牛奶洞 → 聖凱瑟琳與聖哲羅姆洞 → 主誕堂。隔離牆可在進老城前加走。",
+        "本頁記錄 11/17 的走訪。日後前往約旦河西岸，請先查台灣外交部旅遊警示及當日通行。"
+      ],
+      "links": [
+        {
+          "title": "老城、牛奶洞與教堂群步行導航",
+          "url": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Bab+al-Zaqaq+Beit+Jala+Road+Bethlehem&destination=Church+of+the+Nativity+Bethlehem&waypoints=Star+Street+Bethlehem%7CManger+Square+Bethlehem%7CMilk+Grotto+Church+Bethlehem"
+        },
+        {
+          "title": "台灣外交部｜約旦河西岸旅遊警示",
+          "url": "https://www.boca.gov.tw/sp-trwa-content-3102-5d8fb-1.html"
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "id": "ps1117",
+      "date": "2026-11-17",
+      "title": "伯利恆一日遊｜牛奶洞、聖凱瑟琳與主誕堂",
+      "summary": "2026/11/17 從耶路撒冷往返的伯利恆走訪紀錄。時間用行程順序表示，隔離牆與 Afteem 保留為選配。",
+      "stops": [
+        {
+          "id": "ps1117-bus-out",
+          "time": "上午",
+          "name": "耶路撒冷搭 231 前往伯利恆",
+          "description": "本次已搭 231 前往伯利恆。抵達 Bab al-Zaqaq／Beit Jala Road 後，可往主誕廣場走；想看隔離牆再往北加走。",
+          "map": "https://www.google.com/maps/search/?api=1&query=HaNeviim+Bus+Terminal+Jerusalem",
+          "transport": "上車前看 231 路線和停靠站。班表、車資與通行以當日為準。",
+          "official": "https://your-way.org.il/en/areas/%D7%91%D7%90%D7%91-%D7%90-%D7%96%D7%94%D7%A8%D7%94/lines/40011/231",
+          "guide": {
+            "tips": "車頭顯示 HaNeviim 時，仍可用路線號碼及站序確認是否會先經伯利恆；返程應核對方向與站牌。",
+            "sources": [
+              {
+                "title": "Your Way｜231 路站序",
+                "url": "https://your-way.org.il/en/areas/%D7%91%D7%90%D7%91-%D7%90-%D7%96%D7%94%D7%A8%D7%94/lines/40011/231"
+              },
+              {
+                "title": "Moovit｜Bab al-Zaqaq，站號 65455",
+                "url": "https://moovitapp.com/index/en/dir/Jerusalem-site_196134448-site_22037271-1"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ps1117-wall",
+          "time": "上午選配",
+          "name": "隔離牆與 Walled Off Hotel",
+          "description": "可在前往老城前繞去 Caritas Street。這站是原先規劃的延伸點。",
+          "map": "https://www.google.com/maps/search/?api=1&query=The+Walled+Off+Hotel+Bethlehem",
+          "transport": "從 Bab al-Zaqaq 往北步行，參觀後再往南走老城。",
+          "official": "https://visitpalestine.ps/destinations/bethlehem-landing-page-2/museums-and-cultural-centers-in-bethlehem/walled-off-hotel-museum/",
+          "guide": {
+            "see": "從公共道路看牆面作品如何與街區並存。牆面作品會變動，現場看到的圖樣與署名應逐一辨識。",
+            "history": "Banksy 參與創作的 Walled Off Hotel 於 2017 年開幕，結合住宿、藝術與博物館，牆也是當地居民日常出入的一部分。",
+            "tips": "只在公開通行處停留；館內開放及票價以現場公告為準。",
+            "sources": [
+              {
+                "title": "Visit Palestine｜Walled Off Hotel 與隔離牆",
+                "url": "https://visitpalestine.ps/destinations/bethlehem-landing-page-2/museums-and-cultural-centers-in-bethlehem/walled-off-hotel-museum/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ps1117-old-town",
+          "time": "上午",
+          "name": "Star Street 與馬槽廣場",
+          "description": "往老城、主誕堂和牛奶洞的步行路線。可沿 Star Street 接馬槽廣場，再轉 Milk Grotto Street。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Manger+Square+Bethlehem",
+          "official": "https://whc.unesco.org/en/list/1433/",
+          "guide": {
+            "see": "找 Qos al-Zarara 老城門、石造街屋、店鋪招牌及街巷轉入開闊廣場的位置。",
+            "history": "UNESCO 將主誕堂和傳統朝聖路線一起列入世界遺產。Star Street 把舊城入口接到馬槽廣場，至今仍是聖誕遊行路線之一。",
+            "tips": "石板下雨易滑。拍住家與店內人物前先詢問。",
+            "sources": [
+              {
+                "title": "UNESCO｜主誕堂與伯利恆朝聖路線",
+                "url": "https://whc.unesco.org/en/list/1433/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ps1117-milk-grotto",
+          "time": "上午｜已到訪",
+          "name": "牛奶洞教堂",
+          "description": "從主誕廣場沿 Milk Grotto Street 走到牛奶洞，再原路回教堂群。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Milk+Grotto+Church+Bethlehem",
+          "official": "https://www.custodia.org/en/sanctuaries/bethlehem-basilica-of-the-nativity/",
+          "guide": {
+            "see": "下樓觀察洞內淺色岩面、供奉聖母與聖嬰的區域。拍照前看場內告示，禱告時收起相機。",
+            "story": "地方敬禮傳統把洞穴與聖家逃往埃及前在此歇息、聖母哺乳的一滴奶相連。方濟各會資料也提到，有基督徒和穆斯林女性來此為家庭祈禱。",
+            "sources": [
+              {
+                "title": "聖地保管會｜主誕堂、牛奶洞與聖凱瑟琳",
+                "url": "https://www.custodia.org/en/sanctuaries/bethlehem-basilica-of-the-nativity/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ps1117-st-catherine",
+          "time": "牛奶洞後",
+          "name": "聖凱瑟琳教堂與聖哲羅姆洞",
+          "description": "已由牛奶洞步行往這組景點。聖凱瑟琳教堂與主誕堂相鄰，教堂下方的聖哲羅姆洞依當日開放參觀。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Saint+Catherine+Church+Bethlehem",
+          "official": "https://www.custodia.org/en/news/celebration-memory-st-jerome-bethlehem/",
+          "guide": {
+            "see": "先從庭院看石拱、回廊與教堂外觀，再問堂內樓梯是否開放。地下不同小堂及洞穴各有用途。",
+            "history": "聖哲羅姆在伯利恆居住並從事經文翻譯與修訂，相關工作形成後來廣泛使用的拉丁文《武加大譯本》。方濟各會仍在洞穴舉行紀念禮儀。",
+            "tips": "聖哲羅姆洞與主誕堂下的誕生洞窟是兩個參觀點，入場動線和開放可不同。",
+            "sources": [
+              {
+                "title": "聖地保管會｜主誕堂、牛奶洞與聖凱瑟琳",
+                "url": "https://www.custodia.org/en/sanctuaries/bethlehem-basilica-of-the-nativity/"
+              },
+              {
+                "title": "聖地保管會｜聖哲羅姆洞",
+                "url": "https://www.custodia.org/en/news/celebration-memory-st-jerome-bethlehem/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ps1117-nativity",
+          "time": "主誕堂段",
+          "name": "主誕堂與誕生洞窟",
+          "description": "本次行程的核心。從馬槽廣場進主堂，洞窟依禮儀、排隊與現場管制入內。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Church+of+the+Nativity+Bethlehem",
+          "official": "https://bethlehem-city.org/en/churchofthenativity",
+          "guide": {
+            "see": "先看低矮的謙卑之門、柱列、牆上馬賽克及可能開放觀看的早期地板。洞窟內找銀色十四芒星，以及傳統所指的馬槽位置。",
+            "history": "第一座大殿源於 4 世紀，今日主體主要是 6 世紀查士丁尼時期重建。希臘正教、亞美尼亞使徒教會與羅馬天主教團體按既定安排共管這組聖地。",
+            "story": "銀星標示基督教傳統所敬禮的誕生地。可配合《路加福音》第 2 章閱讀馬槽與牧羊人的故事。",
+            "tips": "本次安排曾以 12:30 作洞窟候補時點；未來按當日公告及禮儀時間，從管理員指示的隊伍進入。洞窟內空間狹小，穿防滑鞋。",
+            "sources": [
+              {
+                "title": "UNESCO｜主誕堂與伯利恆朝聖路線",
+                "url": "https://whc.unesco.org/en/list/1433/"
+              },
+              {
+                "title": "聖地保管會｜主誕堂、牛奶洞與聖凱瑟琳",
+                "url": "https://www.custodia.org/en/sanctuaries/bethlehem-basilica-of-the-nativity/"
+              },
+              {
+                "title": "Bethlehem Municipality｜主誕堂",
+                "url": "https://bethlehem-city.org/en/churchofthenativity"
+              },
+              {
+                "title": "Christian Information Center｜聖地開放",
+                "url": "https://www.cicts.org/our-services/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ps1117-afteem",
+          "time": "午餐選配",
+          "name": "Afteem｜巴勒斯坦小吃",
+          "description": "在馬槽廣場附近。可問 Falafel、Hummus 或 Foul，兩人可先分食，實付以當日菜單為準。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Afteem+Restaurant+Manger+Square+Bethlehem"
+        },
+        {
+          "id": "ps1117-bus-back",
+          "time": "回程",
+          "name": "Bab al-Zaqaq 搭 231 回耶路撒冷",
+          "description": "由老城走回 Bab al-Zaqaq／Beit Jala Road 站，核對站號 65455 和往耶路撒冷的方向。",
+          "map": "https://www.google.com/maps/search/?api=1&query=Bab+al-Zaqaq+Beit+Jala+Road+Bethlehem",
+          "transport": "此為建議回程路線。實際班次、檢查及候車時間以當天情況為準。",
+          "official": "https://moovitapp.com/index/en/dir/Jerusalem-site_196134448-site_22037271-1"
+        }
+      ],
+      "rainPlan": "集中馬槽廣場附近的教堂群，縮短戶外繞路；洞窟階梯依現場開放。",
+      "cutPlan": "遇等車或聖地排隊，先保留牛奶洞、聖凱瑟琳和主誕堂，略過北段繞路。"
+    }
+  ],
+  "budget": [
+    {
+      "item": "231 往返",
+      "amount": "依當日票價",
+      "unit": "每人",
+      "status": "以站牌、車上或售票處為準"
+    },
+    {
+      "item": "Afteem 午餐",
+      "amount": "依菜單",
+      "unit": "按份",
+      "status": "選配"
+    },
+    {
+      "item": "Walled Off Hotel 館內",
+      "amount": "依公告",
+      "unit": "每人",
+      "status": "選配，先查開放"
+    }
+  ],
+  "budgetNote": "使用新謝克爾（NIS／ILS）。",
+  "sources": [
+    {
+      "title": "UNESCO｜主誕堂與伯利恆朝聖路線",
+      "url": "https://whc.unesco.org/en/list/1433/",
+      "checked": "2026-11-17"
+    },
+    {
+      "title": "聖地保管會｜主誕堂、牛奶洞與聖凱瑟琳",
+      "url": "https://www.custodia.org/en/sanctuaries/bethlehem-basilica-of-the-nativity/",
+      "checked": "2026-11-17"
+    },
+    {
+      "title": "聖地保管會｜聖哲羅姆洞",
+      "url": "https://www.custodia.org/en/news/celebration-memory-st-jerome-bethlehem/",
+      "checked": "2026-11-17"
+    },
+    {
+      "title": "Bethlehem Municipality｜主誕堂",
+      "url": "https://bethlehem-city.org/en/churchofthenativity",
+      "checked": "2026-11-17"
+    },
+    {
+      "title": "Christian Information Center｜聖地開放",
+      "url": "https://www.cicts.org/our-services/",
+      "checked": "2026-11-17"
+    },
+    {
+      "title": "Your Way｜231 路站序",
+      "url": "https://your-way.org.il/en/areas/%D7%91%D7%90%D7%91-%D7%90-%D7%96%D7%94%D7%A8%D7%94/lines/40011/231",
+      "checked": "2026-11-17"
+    },
+    {
+      "title": "Moovit｜Bab al-Zaqaq，站號 65455",
+      "url": "https://moovitapp.com/index/en/dir/Jerusalem-site_196134448-site_22037271-1",
+      "checked": "2026-11-17"
+    },
+    {
+      "title": "Visit Palestine｜Walled Off Hotel 與隔離牆",
+      "url": "https://visitpalestine.ps/destinations/bethlehem-landing-page-2/museums-and-cultural-centers-in-bethlehem/walled-off-hotel-museum/",
+      "checked": "2026-11-17"
+    },
+    {
+      "title": "台灣外交部｜約旦河西岸旅遊警示",
+      "url": "https://www.boca.gov.tw/sp-trwa-content-3102-5d8fb-1.html",
+      "checked": "2026-11-17"
+    }
+  ]
+}

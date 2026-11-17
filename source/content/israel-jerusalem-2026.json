@@ -4,7 +4,7 @@
       "id": "jo-route",
       "title": "🇮🇱 耶路撒冷｜11/13–18",
       "paragraphs": [
-        "11/13 已抵達耶路撒冷錫安廣場一帶。11/14–17 探索老城、聖地、博物館與市場；11/18 由 Allenby 回安曼。"
+        "11/13 已抵達耶路撒冷。11/14–16 探索老城、聖地與博物館；11/17 往返伯利恆；11/18 由 Allenby 回安曼。"
       ],
       "links": []
     },
@@ -84,19 +84,9 @@
       "id": "jo-reading",
       "title": "在地歷史與延伸閱讀",
       "paragraphs": [
-        "用在 Madaba 看過的馬賽克對照老城 Cardo；從約旦死海的地理位置讀昆蘭手稿。各站導覽附宗教傳統、攝影角度與相關作品。",
-        "伯利恆備查：聖誕教堂與朝聖路線屬世界遺產；台灣外交部將約旦河西岸列紅色警示，本次維持耶路撒冷。"
+        "用在 Madaba 看過的馬賽克對照老城 Cardo；從約旦死海的地理位置讀昆蘭手稿。各站導覽附宗教傳統、攝影角度與相關作品。"
       ],
-      "links": [
-        {
-          "title": "台灣外交部｜約旦河西岸",
-          "url": "https://www.boca.gov.tw/sp-trwa-content-3102-5d8fb-1.html"
-        },
-        {
-          "title": "UNESCO｜伯利恆聖誕教堂",
-          "url": "https://whc.unesco.org/en/list/1433/"
-        }
-      ]
+      "links": []
     }
   ],
   "days": [
@@ -555,8 +545,8 @@
     {
       "id": "jo1117",
       "date": "2026-11-17",
-      "title": "市場、Nachlaot、國家圖書館與藝文夜",
-      "summary": "19:45 Yellow Submarine 室內場官網列售罄。21:00 Talpiyot 戶外場仍列售票入口，需看結帳票況。想早回房整理行李，可選 17:00 開場的 Winter Dreams。",
+      "title": "11/17 伯利恆實走｜耶路撒冷原規劃",
+      "summary": "這天改走伯利恆。下列市場、圖書館與藝文活動保留原規劃供參考。",
       "stops": [
         {
           "id": "jo1117-s01",
@@ -668,7 +658,13 @@
         }
       ],
       "rainPlan": "市場走有頂通道，再搭車去圖書館。",
-      "cutPlan": "縮短 Rehavia 散步，夜間只選一場。"
+      "cutPlan": "縮短 Rehavia 散步，夜間只選一場。",
+      "relatedGuides": [
+        {
+          "id": "trip/palestine-bethlehem-2026/ps1117",
+          "title": "🇵🇸 查看 11/17 伯利恆走訪與導航 →"
+        }
+      ]
     },
     {
       "id": "jo1118",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-17",
   "records": [
     {
       "id": "archive-2026-06-05",
@@ -1367,7 +1367,7 @@
       "note": "11/13 已抵達；11/18 返程按規劃列出。",
       "details": [
         "11/13 經 Allenby 入境，抵達耶路撒冷。",
-        "11/14–17 老城、聖殿山、橄欖山、博物館與市場。"
+        "11/14–16 耶路撒冷；11/17 往返伯利恆，當日另有 Palestine 到訪紀錄。"
       ]
     },
     {
@@ -1392,6 +1392,26 @@
       "note": "預計 11/18 經 Allenby／King Hussein Bridge 返回安曼。",
       "details": [
         "與耶路撒冷的跨境日重疊，旅行天數只計一次。"
+      ]
+    },
+    {
+      "id": "2026-bethlehem",
+      "title": "🇵🇸 Palestine｜Bethlehem 伯利恆",
+      "start": "2026-11-17",
+      "end": "2026-11-17",
+      "countries": [
+        "Palestine"
+      ],
+      "cities": [
+        "Bethlehem"
+      ],
+      "tripIds": [
+        "palestine-bethlehem-2026"
+      ],
+      "source": "2026/11/17 使用者走訪紀錄",
+      "note": "耶路撒冷當日往返。與以色列段重疊的日期在旅行總天數只計一次。",
+      "details": [
+        "搭 231 前往伯利恆；走訪牛奶洞及主誕堂一帶。"
       ]
     }
   ],

@@ -2,7 +2,7 @@
   "site": {
     "title": "R & A",
     "description": "Travel itineraries by country",
-    "updated": "2026-10-31"
+    "updated": "2026-11-17"
   },
   "countries": [
     {
@@ -24,6 +24,16 @@
       "summary": "11/13–18 耶路撒冷 6 天 5 夜：老城、聖殿山、橄欖山、博物館、市集與藝文活動。",
       "currency": "NIS／新謝克爾",
       "timeZone": "Asia/Jerusalem"
+    },
+    {
+      "id": "palestine",
+      "name": "巴勒斯坦",
+      "english": "Palestine",
+      "code": "PS",
+      "region": "西亞",
+      "summary": "11/17 伯利恆：牛奶洞、聖凱瑟琳、聖哲羅姆洞與主誕堂。",
+      "currency": "NIS／新謝克爾",
+      "timeZone": "Asia/Hebron"
     },
     {
       "id": "egypt",
@@ -210,7 +220,7 @@
       ],
       "content": "content/israel-jerusalem-2026.json",
       "timeZone": "Asia/Jerusalem",
-      "important": "🇮🇱 11/13 已抵達耶路撒冷。11/14–17 安排老城、考古、橄欖山和市場；11/18 經 Allenby 返回安曼。",
+      "important": "🇮🇱 11/13–16 耶路撒冷；🇵🇸 11/17 伯利恆另有一日遊紀錄；11/18 經 Allenby 返回安曼。",
       "days": [
         {
           "id": "jo1113",
@@ -239,8 +249,9 @@
         {
           "id": "jo1117",
           "date": "2026-11-17",
-          "label": "市場、Nachlaot、國家圖書館與藝文夜",
-          "timeZone": "Asia/Jerusalem"
+          "label": "伯利恆一日遊連結｜耶路撒冷原規劃",
+          "timeZone": "Asia/Jerusalem",
+          "today": false
         },
         {
           "id": "jo1118",
@@ -249,6 +260,33 @@
           "timeZone": "Asia/Jerusalem"
         }
       ]
+    },
+    {
+      "id": "palestine-bethlehem-2026",
+      "title": "伯利恆一日遊｜牛奶洞、聖凱瑟琳與主誕堂",
+      "countries": [
+        "palestine"
+      ],
+      "start": "2026-11-17",
+      "end": "2026-11-17",
+      "verified": "2026-11-17",
+      "status": "11/17 到訪紀錄",
+      "tags": [
+        "世界遺產",
+        "宗教",
+        "老城",
+        "公車"
+      ],
+      "content": "content/palestine-bethlehem-2026.json",
+      "timeZone": "Asia/Hebron",
+      "days": [
+        {
+          "id": "ps1117",
+          "date": "2026-11-17",
+          "label": "伯利恆一日遊｜牛奶洞、聖凱瑟琳與主誕堂"
+        }
+      ],
+      "important": "🇵🇸 11/17 從耶路撒冷搭 231 到伯利恆，走訪牛奶洞與主誕堂一帶。"
     },
     {
       "id": "egypt-2026",
