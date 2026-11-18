@@ -1,8 +1,20 @@
 # R & A · 121 Days｜照片補充說明
 
-這是 GitHub Pages 免費靜態相簿。網站已正式發布，但 `@rogeryangct` Instagram 是私人帳號，無法自行讀取及挑選原照。因此目前的相片格皆為等待加入的設計位置，沒有混用他人旅遊照。
+這是 GitHub Pages 免費靜態相簿。網站已正式發布，但 `@rogeryangct` Instagram 是私人帳號，無法自行讀取及挑選原照。目前已從過往 ChatGPT 對話中你親自上傳的旅行原照，選出 Egypt、Jordan、Israel、Palestine 共 12 張並發布到網站。**這 12 張不是從 Instagram 擷取的**。其餘 12 個國家共 36 張仍為待補位置，沒有混用其他人的照片。
 
-## 上傳方式
+## 已加入的照片（已檢查實際畫面）
+
+Egypt：Giza 金字塔與駱駝、Abu Simbel 神廟、Valley of the Kings 墓室彩繪。
+
+Jordan：As-Salt 山城風景、Petra The Monastery、Wadi Rum 沙丘。
+
+Israel：Mount of Olives 俯瞰 Jerusalem、Dome of the Rock、Church of the Holy Sepulchre。
+
+Palestine：Bethlehem 老城小巷、Church of the Nativity 誕生洞、Bethlehem 市集。
+
+這些照片來自使用者之前上傳於 ChatGPT 的原始旅行照片；未取得 Instagram 私人帳戶的媒體下載權限。
+
+## 其餘 36 張照片上傳方式
 
 1. 從自己的 Instagram／iPhone 相簿挑選 16 × 3＝48 張原始照片；每國以廣角風景、人物或生活、歷史景點作為搭配。
 2. 優先將照片轉成 JPG，單張盡量低於 400 KB、長邊 1600 px 左右。
